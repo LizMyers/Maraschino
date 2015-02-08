@@ -1,0 +1,769 @@
+name,symbol,category,set,keywords
+Glass,faglass,entertainment,font-awesome,"entertainment, food, drink, party "
+Music,fa-music,entertainment,font-awesome,"entertainment, music"
+Search,fa-search,UI,font-awesome,"ui, technology"
+Envelope,fa-envelope-o,UI,font-awesome,UI
+Heart,fa-heart,UI,font-awesome,UI
+Star,fa-star,UI,font-awesome,UI
+Star,fa-star-o,UI,font-awesome,UI
+User,fa-user,technology,font-awesome,technology
+Film,fa-film,entertainment,font-awesome,"entertainment, media"
+Table Header,fa-th-large,UI,font-awesome,UI
+Table Header,fa-th,UI,font-awesome,UI
+List,fa-th-list,UI,font-awesome,UI
+OK,fa-check,UI,font-awesome,UI
+Close,fa-times,UI,font-awesome,UI
+Zoom In,fa-search-plus,UI,font-awesome,UI
+Zoom Out,fa-search-minus,UI,font-awesome,UI
+Power Off,fa-power-off,technology,font-awesome,technology
+Signal,fa-signal,technology,font-awesome,technology
+Cog,fa-cog,UI,font-awesome,UI
+Trash,fa-trash-o,UI,font-awesome,UI
+Home,fa-home,UI,font-awesome,UI
+File,fa-file-o,business,font-awesome,business
+Clock,fa-clock-o,business,font-awesome,business
+Road,fa-road,travel,font-awesome,travel
+Download,fa-download,UI,font-awesome,UI
+Circle Arrow Down,fa-arrow-circle-o-down,UI,font-awesome,UI
+Circle Arrow Up,fa-arrow-circle-o-up,UI,font-awesome,UI
+Inbox,fa-inbox,business,font-awesome,business
+Circle Play,fa-play-circle-o,entertainment,font-awesome,"entertainment, media"
+Repeat,fa-repeat,entertainment,font-awesome,"entertainment, media"
+Refresh,fa-refresh,UI,font-awesome,UI
+List,fa-list-alt,UI,font-awesome,UI
+Lock,fa-lock,UI,font-awesome,UI
+Flag,fa-flag,UI,font-awesome,UI
+Headphones,fa-headphones,entertainment,font-awesome,"entertainment, media"
+Volume Off,fa-volume-off,entertainment,font-awesome,"entertainment, sound, media control"
+Volume Down,fa-volume-down,entertainment,font-awesome,"entertainment, sound, media control"
+Volume Up,fa-volume-up,entertainment,font-awesome,"entertainment, sound, media control"
+QR Code,fa-qrcode,business,font-awesome,business
+Bar Code,fa-barcode,business,font-awesome,business
+Tag,fa-tag,business,font-awesome,business
+Tags,fa-tags,business,font-awesome,business
+Book,fa-book,UI,font-awesome,UI
+Bookmark,fa-bookmark,UI,font-awesome,UI
+Print,fa-print,UI,font-awesome,UI
+Camera,fa-camera,entertainment,font-awesome,"entertainment, media"
+Font,fa-font,UI,font-awesome,UI
+Bold,fa-bold,UI,font-awesome,UI
+Italic,fa-italic,UI,font-awesome,UI
+Text Height,fa-text-height,UI,font-awesome,UI
+Text Width,fa-text-width,UI,font-awesome,UI
+Align Left,fa-align-left,UI,font-awesome,UI
+Align Center,fa-align-center,UI,font-awesome,UI
+Align Right,fa-align-right,UI,font-awesome,UI
+Align Justify,fa-align-justify,UI,font-awesome,UI
+List,fa-list,UI,font-awesome,UI
+Indent,fa-indent,UI,font-awesome,UI
+Outdent,fa-outdent,UI,font-awesome,UI
+Camera Video,fa-video-camera,entertainment,font-awesome,"entertainment, media"
+Picture,fa-picture-o,entertainment,font-awesome,"entertainment, media"
+Pencil,fa-pencil,business,font-awesome,business
+Map Marker,fa-map-marker,UI,font-awesome,UI
+Adjust,fa-adjust,entertainment,font-awesome,"entertainment, media"
+Tint,fa-tint,entertainment,font-awesome,"entertainment, media"
+Pencil,fa-pencil-square-o,business,font-awesome,business
+Share,fa-share-square-o,social,font-awesome,social
+OK,fa-check-square-o,UI,font-awesome,UI
+Move,fa-arrows,UI,font-awesome,UI
+Step Back,fa-step-backward,entertainment,font-awesome,"entertainment, media"
+Step Forward,fa-fast-backward,entertainment,font-awesome,"entertainment, media"
+Backward,fa-backward,entertainment,font-awesome,"entertainment, media"
+Play,fa-play,entertainment,font-awesome,"entertainment, media"
+Pause,fa-pause,entertainment,font-awesome,"entertainment, media"
+Stop,fa-stop,entertainment,font-awesome,"entertainment, media"
+Forward,fa-forward,entertainment,font-awesome,"entertainment, media"
+Fast Forward,fa-fast-forward,entertainment,font-awesome,"entertainment, media"
+Step Forward,fa-step-forward,entertainment,font-awesome,"entertainment, media"
+Eject,fa-eject,entertainment,font-awesome,"entertainment, media"
+Chevron Left,fa-chevron-left,UI,font-awesome,UI
+Chevron Right,fa-chevron-right,UI,font-awesome,UI
+Circle Plus,fa-plus-circle,UI,font-awesome,UI
+Circle Minus,fa-minus-circle,UI,font-awesome,UI
+Circle Close,fa-times-circle,UI,font-awesome,UI
+Circle OK,fa-check-circle,UI,font-awesome,UI
+Circle Question,fa-question-circle,UI,font-awesome,UI
+Circle Info,fa-info-circle,UI,font-awesome,UI
+Crosshairs,fa-crosshairs,UI,font-awesome,UI
+Circle Close,fa-times-circle-o,UI,font-awesome,UI
+Circle OK,fa-check-circle-o,UI,font-awesome,UI
+Ban,fa-ban,UI,font-awesome,UI
+Arrow Left,fa-arrow-left,UI,font-awesome,UI
+Arrow Right,fa-arrow-right,UI,font-awesome,UI
+Arrow Up,fa-arrow-up,UI,font-awesome,UI
+Arrow Down,fa-arrow-down,UI,font-awesome,UI
+Share,fa-share,UI,font-awesome,UI
+Expand,fa-expand,UI,font-awesome,UI
+Compress,fa-compress,UI,font-awesome,UI
+Add,fa-plus,business,font-awesome,business
+Subtract,fa-minus,business,font-awesome,business
+Multiply,fa-asterisk,business,font-awesome,business
+Circle Caution,fa-exclamation-circle,UI,font-awesome,UI
+Gift,fa-gift,UI,font-awesome,UI
+Leaf,fa-leaf,nature,font-awesome,nature
+Fire,fa-fire,nature,font-awesome,nature
+Visible,fa-eye,UI,font-awesome,UI
+Not Visible,fa-eye-slash,UI,font-awesome,UI
+Caution,fa-exclamation-triangle,UI,font-awesome,UI
+Plane,fa-plane,travel,font-awesome,travel
+Calendar,fa-calendar,business,font-awesome,business
+Random,fa-random,UI,font-awesome,UI
+Comment,fa-comment,social,font-awesome,social
+Magnet,fa-magnet,UI,font-awesome,UI
+Chevron Up,fa-chevron-up,UI,font-awesome,UI
+Chevron Down,fa-chevron-down,UI,font-awesome,UI
+Retweet,fa-retweet,social,font-awesome,social
+business Cart,fa-shopping-cart,business,font-awesome,business
+Folder,fa-folder,UI,font-awesome,UI
+Folder Open,fa-folder-open,UI,font-awesome,UI
+Arrows Vertical,fa-arrows-v,UI,font-awesome,UI
+Arrows Horizontal,fa-arrows-h,UI,font-awesome,UI
+Bar Chart,fa-bar-chart-o,business,font-awesome,business
+Twitter,fa-twitter-square,social,font-awesome,social
+Facebook,fa-facebook-square,social,font-awesome,social
+Camera,fa-camera-retro,entertainment,font-awesome,"entertainment, media"
+Key,fa-key,UI,font-awesome,UI
+Cogs,fa-cogs,UI,font-awesome,UI
+Comments,fa-comments,social,font-awesome,social
+Thumbs Up,fa-thumbs-o-up,social,font-awesome,social
+Thumbs Down,fa-thumbs-o-down,social,font-awesome,social
+Star Half,fa-star-half,UI,font-awesome,UI
+Heart,fa-heart-o,UI,font-awesome,UI
+Sign Out,fa-sign-out,UI,font-awesome,UI
+LinkedIN,fa-linkedin-square,social,font-awesome,social
+Thumbtack,fa-thumb-tack,business,font-awesome,business
+Link,fa-external-link,UI,font-awesome,UI
+Sign In,fa-sign-in,UI,font-awesome,UI
+Trophy,fa-trophy,UI,font-awesome,UI
+Github,fa-github-square,social,font-awesome,social
+Upload,fa-upload,technology,font-awesome,technology
+Lemon,fa-lemon-o,nature,font-awesome,nature
+Phone,fa-phone,technology,font-awesome,technology
+Square,fa-square-o,UI,font-awesome,UI
+Bookmark,fa-bookmark-o,UI,font-awesome,UI
+Phone,fa-phone-square,technology,font-awesome,technology
+Twitter,fa-twitter,social,font-awesome,social
+Facebook,fa-facebook,social,font-awesome,social
+Github,fa-github,social,font-awesome,social
+Unlock,fa-unlock,UI,font-awesome,UI
+Credit Card,fa-credit-card,business,font-awesome,business
+RSS,fa-rss,technology,font-awesome,technology
+HDD,fa-hdd-o,technology,font-awesome,technology
+Bullhorn,fa-bullhorn,UI,font-awesome,UI
+Bell,fa-bell,UI,font-awesome,UI
+Certificate,fa-certificate,UI,font-awesome,UI
+Hand right,fa-hand-o-right,social,font-awesome,social
+Hand left,fa-hand-o-left,social,font-awesome,social
+Hand up,fa-hand-o-up,social,font-awesome,social
+Hand down,fa-hand-o-down,social,font-awesome,social
+Circle Arrow Left,fa-arrow-circle-left,UI,font-awesome,UI
+Circle Arrow Right,fa-arrow-circle-right,UI,font-awesome,UI
+Circle Arrow Up,fa-arrow-circle-up,UI,font-awesome,UI
+Circle Arrow Down,fa-arrow-circle-down,UI,font-awesome,UI
+Globe,fa-globe,UI,font-awesome,UI
+Wrench,fa-wrench,UI,font-awesome,UI
+Tasks,fa-tasks,UI,font-awesome,UI
+Filter,fa-filter,business,font-awesome,business
+Briefcase,fa-briefcase,UI,font-awesome,UI
+Arrows,fa-arrows-alt,UI,font-awesome,UI
+Users,fa-users,technology,font-awesome,technology
+Link,fa-link,technology,font-awesome,technology
+Cloud,fa-cloud,technology,font-awesome,technology
+Beaker,fa-flask,business,font-awesome,business
+Scissors,fa-scissors,business,font-awesome,business
+Files,fa-files-o,business,font-awesome,business
+Paperclip,fa-paperclip,business,font-awesome,business
+Floppy Disk,fa-floppy-o,technology,font-awesome,technology
+Square,fa-square,UI,font-awesome,UI
+Bars,fa-bars,technology,font-awesome,technology
+List Unordered,fa-list-ul,UI,font-awesome,UI
+List Ordered,fa-list-ol,UI,font-awesome,UI
+Strikethrough,fa-strikethrough,UI,font-awesome,UI
+Underline,fa-underline,UI,font-awesome,UI
+Table,fa-table,UI,font-awesome,UI
+Magic,fa-magic,UI,font-awesome,UI
+Truck,fa-truck,travel,font-awesome,travel
+Pinterest,fa-pinterest,social,font-awesome,social
+Pinterest,fa-pinterest-square,social,font-awesome,social
+Goolge Plus,fa-google-plus-square,social,font-awesome,social
+Google Plus,fa-google-plus,social,font-awesome,social
+business,fa-money,business,font-awesome,business
+Caret Down,fa-caret-down,UI,font-awesome,UI
+Caret Up,fa-caret-up,UI,font-awesome,UI
+Caret Left,fa-caret-left,UI,font-awesome,UI
+Caret Right,fa-caret-right,UI,font-awesome,UI
+Columns,fa-columns,UI,font-awesome,UI
+Sort,fa-sort,UI,font-awesome,UI
+Sort Down,fa-sort-down,UI,font-awesome,UI
+Sort Up,fa-sort-up,UI,font-awesome,UI
+Envelope,fa-envelope,business,font-awesome,business
+LinkedIN,fa-linkedin,social,font-awesome,social
+Undo,fa-undo,UI,font-awesome,UI
+Legal,fa-legal,UI,font-awesome,UI
+Dashboard,fa-dashboard,travel,font-awesome,travel
+Comment,fa-comment-o,social,font-awesome,social
+Comments,fa-comments-o,social,font-awesome,social
+Bold,fa-bolt,UI,font-awesome,UI
+Sitemap,fa-sitemap,business,font-awesome,business
+Umbrella,fa-umbrella,UI,font-awesome,UI
+Paste,fa-paste,UI,font-awesome,UI
+Lightbulb,fa-lightbulb-o,UI,font-awesome,UI
+Exchange,fa-exchange,UI,font-awesome,UI
+Cloud Download,fa-cloud-download,technology,font-awesome,technology
+Cloud Upload,fa-cloud-upload,technology,font-awesome,technology
+User MD,fa-user-md,social,font-awesome,social
+Stethoscope,fa-stethoscope,social,font-awesome,social
+Suitecase,fa-suitcase,travel,font-awesome,travel
+Bell,fa-bell-o,UI,font-awesome,UI
+Coffee,fa-coffee,entertainment,font-awesome,"entertainment, media"
+Cutlery,fa-cutlery,entertainment,font-awesome,"entertainment, media"
+Text File,fa-file-text-o,technology,font-awesome,technology
+Building,fa-building-o,business,font-awesome,business
+Hospital,fa-hospital-o,social,font-awesome,social
+Ambulance,fa-ambulance,social,font-awesome,social
+Medical Kit,fa-medkit,social,font-awesome,social
+Fighter Jet,fa-fighter-jet,travel,font-awesome,travel
+Beer,fa-beer,entertainment,font-awesome,"entertainment, media"
+Square,fa-h-square,UI,font-awesome,UI
+Plus,fa-plus-square-o,business,font-awesome,business
+Angle Double Left,fa-angle-double-left,UI,font-awesome,UI
+Angle Double Right,fa-angle-double-right,UI,font-awesome,UI
+Angle Double Up,fa-angle-double-up,UI,font-awesome,UI
+Angle double Down,fa-angle-double-down,UI,font-awesome,UI
+Angle Left,fa-angle-left,UI,font-awesome,UI
+Angle Right,fa-angle-right,UI,font-awesome,UI
+Angle Up,fa-angle-up,UI,font-awesome,UI
+Angle Down,fa-angle-down,UI,font-awesome,UI
+Desktop,fa-desktop,technology,font-awesome,technology
+Laptop,fa-laptop,technology,font-awesome,technology
+Tablet,fa-tablet,technology,font-awesome,technology
+Mobile,fa-mobile-phone,technology,font-awesome,technology
+Circle,fa-circle-o,UI,font-awesome,UI
+Qutoe Left,fa-quote-left,UI,font-awesome,UI
+Quote Right,fa-quote-right,UI,font-awesome,UI
+Spinner,fa-spinner,UI,font-awesome,UI
+Circle,fa-circle,UI,font-awesome,UI
+Reply,fa-reply,UI,font-awesome,UI
+Github,fa-github-alt,social,font-awesome,social
+Folder,fa-folder-o,UI,font-awesome,UI
+Folder,fa-folder-open-o,UI,font-awesome,UI
+Smile ,fa-smile-o,social,font-awesome,social
+Frown,fa-frown-o,social,font-awesome,social
+Meh,fa-meh-o,social,font-awesome,social
+Gamepad,fa-gamepad,technology,font-awesome,technology
+Keyboard,fa-keyboard-o,technology,font-awesome,technology
+Flag,fa-flag-o,UI,font-awesome,UI
+Flag Checkerred,fa-flag-checkered,UI,font-awesome,UI
+Terminal,fa-terminal,technology,font-awesome,technology
+Code,fa-code,technology,font-awesome,technology
+Reply All,fa-reply-all,UI,font-awesome,UI
+Mail Reply All,fa-mail-reply-all,UI,font-awesome,UI
+Star Half,fa-star-half-o,UI,font-awesome,UI
+Arrow Location,fa-location-arrow,UI,font-awesome,UI
+Crop,fa-crop,entertainment,font-awesome,"entertainment, media"
+Fork Code,fa-code-fork,technology,font-awesome,technology
+Unlink,fa-unlink,UI,font-awesome,UI
+Question,fa-question,UI,font-awesome,UI
+Info,fa-info,UI,font-awesome,UI
+Exclamation,fa-exclamation,UI,font-awesome,UI
+Superscript,fa-superscript,UI,font-awesome,UI
+Subscript,fa-subscript,UI,font-awesome,UI
+Eraser,fa-eraser,business,font-awesome,business
+Puzzle Piece,fa-puzzle-piece,UI,font-awesome,UI
+Audio,fa-microphone,entertainment,font-awesome,"entertainment, media"
+Mute,fa-microphone-slash,entertainment,font-awesome,"entertainment, media"
+Shield,fa-shield,UI,font-awesome,UI
+Calendar,fa-calendar-o,business,font-awesome,business
+Fire Exttinguisher,fa-fire-extinguisher,UI,font-awesome,UI
+Rocket,fa-rocket,travel,font-awesome,travel
+Max CDN,fa-maxcdn,technology,font-awesome,technology
+Circle Chevron Left,fa-chevron-circle-left,UI,font-awesome,UI
+Circle Chevron Right,fa-chevron-circle-right,UI,font-awesome,UI
+Circle Chevron Up,fa-chevron-circle-up,UI,font-awesome,UI
+Circle Chevron Down,fa-chevron-circle-down,UI,font-awesome,UI
+HTML5,fa-html5,technology,font-awesome,technology
+CSS3,fa-css3,technology,font-awesome,technology
+Anchor ,fa-anchor,UI,font-awesome,UI
+Unlock,fa-unlock-alt,UI,font-awesome,UI
+Bullseye,fa-bullseye,UI,font-awesome,UI
+Ellipsis,fa-ellipsis-h,UI,font-awesome,UI
+Ellipsis,fa-ellipsis-v,UI,font-awesome,UI
+Ellipsis Vertical,fa-ellipsis-v,UI,font-awesome,UI
+RSS,fa-rss-square,social,font-awesome,social
+Play,fa-play-circle,entertainment,font-awesome,"entertainment, media"
+Ticket,fa-ticket,UI,font-awesome,UI
+Minus,fa-minus-square,UI,font-awesome,UI
+Minus,fa-minus-square-o,UI,font-awesome,UI
+Level Up,fa-level-up,UI,font-awesome,UI
+Level Down,fa-level-down,UI,font-awesome,UI
+OK,fa-check-square,UI,font-awesome,UI
+Pencil,fa-pencil-square,business,font-awesome,business
+Link,fa-external-link-square,UI,font-awesome,UI
+Compass,fa-compass,UI,font-awesome,UI
+Share,fa-share-square,UI,font-awesome,UI
+Caret Square Up,fa-caret-square-o-up,UI,font-awesome,UI
+Caret Square Down,fa-caret-square-o-down,UI,font-awesome,UI
+Caret Square Right,fa-caret-square-o-right,UI,font-awesome,UI
+Euro,fa-eur,business,font-awesome,business
+British Pound,fa-gbp,business,font-awesome,business
+US Dollar,fa-usd,business,font-awesome,business
+Indian Rupee,fa-inr,business,font-awesome,business
+Japenese Yen,fa-jpy,business,font-awesome,business
+Chinese Yuan,fa-cny,business,font-awesome,business
+So Korean Won,fa-krw,business,font-awesome,business
+Bitcoin,fa-btc,business,font-awesome,business
+File,fa-file,business,font-awesome,business
+Document,fa-file-text,business,font-awesome,business
+Sort Alpha Asc,fa-sort-alpha-asc,UI,font-awesome,UI
+Sort Alpha Desc,fa-sort-alpha-desc,UI,font-awesome,UI
+Sort Amount Asc,fa-sort-amount-asc,UI,font-awesome,UI
+Sort Amount Desc,fa-sort-amount-desc,UI,font-awesome,UI
+Sort Numeric Asc,fa-sort-numeric-asc,UI,font-awesome,UI
+Sort Numeric Desc,fa-sort-numeric-desc,UI,font-awesome,UI
+Thumbs Up,fa-thumbs-up,social,font-awesome,social
+Thumbs Down,fa-thumbs-down,social,font-awesome,social
+YouTube,fa-youtube-square,social,font-awesome,social
+YouTube,fa-youtube,social,font-awesome,social
+Xing,fa-xing,social,font-awesome,social
+Xing,fa-xing-square,social,font-awesome,social
+YouTube Play,fa-youtube-play,social,font-awesome,social
+DropBox,fa-dropbox,social,font-awesome,social
+Stack Overflow,fa-stack-overflow,social,font-awesome,social
+Instagram,fa-instagram,social,font-awesome,social
+Flickr,fa-flickr,social,font-awesome,social
+Ad-n,fa-adn,social,font-awesome,social
+BitBucket,fa-bitbucket,social,font-awesome,social
+BitBucket,fa-bitbucket-square,social,font-awesome,social
+Tumblr,fa-tumblr,social,font-awesome,social
+Tumblr,fa-tumblr-square,social,font-awesome,social
+Arrow Long Down,fa-long-arrow-down,UI,font-awesome,UI
+Arrow Long Up,fa-long-arrow-up,UI,font-awesome,UI
+Arrow Long Left,fa-long-arrow-left,UI,font-awesome,UI
+Arrow Long Right,fa-long-arrow-right,UI,font-awesome,UI
+Apple,fa-apple,technology,font-awesome,technology
+Windows,fa-windows,technology,font-awesome,technology
+Android,fa-android,technology,font-awesome,technology
+Linux,fa-linux,technology,font-awesome,technology
+Dribble,fa-dribbble,social,font-awesome,social
+Skype,fa-skype,social,font-awesome,social
+FourSquare,fa-foursquare,social,font-awesome,social
+Trello,fa-trello,social,font-awesome,social
+Female,fa-female,social,font-awesome,social
+Male,fa-male,social,font-awesome,social
+GitTip,fa-gittip,social,font-awesome,social
+Sun,fa-sun-o,nature,font-awesome,nature
+Moon,fa-moon-o,nature,font-awesome,nature
+Archive,fa-archive,UI,font-awesome,UI
+Bug,fa-bug,technology,font-awesome,technology
+Vk,fa-vk,social,font-awesome,social
+Weibo,fa-weibo,social,font-awesome,social
+RenRen,fa-renren,social,font-awesome,social
+PageLines,fa-pagelines,social,font-awesome,social
+Stack Exchange,fa-stack-exchange,social,font-awesome,social
+Circle Arrow Right,fa-arrow-circle-o-right,UI,font-awesome,UI
+Circle Arrow Left,fa-arrow-circle-o-left,UI,font-awesome,UI
+Square Caret Left,fa-caret-square-o-left,UI,font-awesome,UI
+Circle Dot,fa-dot-circle-o,UI,font-awesome,UI
+Wheelchair,fa-wheelchair,UI,font-awesome,UI
+Vimeo,fa-vimeo-square,social,font-awesome,social
+Try,fa-try,social,font-awesome,social
+Square Plus,fa-plus-square-o,UI,font-awesome,UI
+Alarm Clock,bb-alarm-clock,objects,bb10,"objects, time"
+Bar Chart,bb-bar-chart,business,bb10,business
+Barrel,bb-barrel,food,bb10,food
+Battery,bb-battery,technology,bb10,technology
+BBM,bb-bbm,social,bb10,social
+BB Logo,bb-bbry-logo,business,bb10,business
+Binders,bb-binders,office,bb10,office
+Bluetooth,bb-bluetooth,technology,bb10,technology
+Bookmark,bb-bookmark,UI,bb10,UI
+Bookmark Plus,bb-bookmark-plus,UI,bb10,UI
+Box,bb-box-closed,office,bb10,office
+Box,bb-box-open,office,bb10,office
+Briefcase,bb-briefcase,office,bb10,office
+Buggy,bb-buggy,objects,bb10,objects
+Bullseye,bb-bullseye,UI,bb10,UI
+Calculator,bb-calculator,office,bb10,office
+Calendar,bb-calendar,office,bb10,office
+Calendar Plus,bb-calendar-plus,office,bb10,office
+Incoming Call,bb-call-incoming,social,bb10,social
+Outgoing Call,bb-call-outgoing,social,bb10,social
+Returned Call,bb-call-returned,social,bb10,social
+Camera,bb-camera-still,entertainment,bb10,"entertainment, media"
+Video Camera,bb-camera-video,entertainment,bb10,"entertainment, media"
+Chat Bubble,bb-chat-bubble,social,bb10,social
+Checkmark,bb-checked,UI,bb10,UI
+Circle Arrow Down,bb-circle-arrow-down,UI,bb10,UI
+Circle Arrow Left,bb-circle-arrow-left,UI,bb10,UI
+Circle Arrow Right,bb-circle-arrow-right,UI,bb10,UI
+Circle Arrow Up,bb-circle-arrow-up,UI,bb10,UI
+Go Back,bb-circle-back,UI,bb10,UI
+Go to Beginning,bb-circle-beginning,UI,bb10,UI
+Dollar,bb-circle-dollar,business,bb10,business
+Go to End,bb-circle-end,UI,bb10,UI
+Euro,bb-circle-euro,business,bb10,business
+Facebook,bb-circle-facebook-o,social,bb10,social
+Flickr,bb-circle-flickr-o,social,bb10,social
+Forward,bb-circle-forward,UI,bb10,UI
+Google Plus,bb-circle-googleplus-o,social,bb10,social
+Info,bb-circle-info,UI,bb10,UI
+Info,bb-circle-info-1,UI,bb10,UI
+LinkedIN,bb-circle-linkedin-o,social,bb10,social
+Next,bb-circle-next,UI,bb10,UI
+Open,bb-circle-open,UI,bb10,UI
+Pause,bb-circle-pause,UI,bb10,UI
+Pinterest,bb-circle-pinterest-o,social,bb10,social
+Play,bb-circle-play,UI,bb10,UI
+Play/Pause,bb-circle-play-pause,UI,bb10,UI
+Pound,bb-circle-pound,business,bb10,business
+Previous,bb-circle-previous,UI,bb10,UI
+Question,bb-circle-question,UI,bb10,UI
+Record,bb-circle-record,UI,bb10,UI
+RSS,bb-circle-rss-o,social,bb10,social
+Stop,bb-circle-stop,UI,bb10,UI
+Twitter,bb-circle-twitter-bird-o,social,bb10,social
+Twitter,bb-circle-twitter-o,social,bb10,social
+Vimeo,bb-circle-vimeo-o,social,bb10,social
+YouTube,bb-circle-youtube-o,social,bb10,social
+Clipboard,bb-clipboard,office,bb10,office
+Clock,bb-clock,office,bb10,office
+Close,bb-close,UI,bb10,UI
+Cloud,bb-cloud,technology,bb10,technology
+Cloud Download,bb-cloud-download,technology,bb10,technology
+Cloud Upload,bb-cloud-upload,technology,bb10,technology
+Compass,bb-compass,UI,bb10,UI
+Contacts,bb-contacts,UI,bb10,UI
+BBM Contacts,bb-contacts-bbm,social,bb10,social
+Contacts Plus,bb-contacts-plus,social,bb10,social
+Credit Cards,bb-credit-cards,business,bb10,business
+Desk Lamp,bb-desk-lamp,office,bb10,office
+Document,bb-document,office,bb10,office
+Eighth Notes,bb-eighth-notes,entertainment,bb10,"entertainment, media"
+Full Screen,bb-envelope-open,UI,bb10,UI
+Exit Full Screen,bb-exit-full-screen,UI,bb10,UI
+Exit Full Screen,bb-exit-full-screen-1,UI,bb10,UI
+Film Strip,bb-film-strip,entertainment,bb10,"entertainment, media"
+Flag,bb-flag-1,objects,bb10,objects
+Chequered flag,bb-flag-chequered-1,sports,bb10,sports
+Chequered flag,bb-flag-chequered-2,sports,bb10,sports
+Golf Flag,bb-flag-golf,sports,bb10,sports
+Golf Green,bb-flag-golf-green,sports,bb10,sports
+Folder Closed,bb-folder-closed,office,bb10,office
+Folder Open,bb-folder-open,office,bb10,office
+Font Size,bb-font-size,UI,bb10,UI
+Footprints,bb-footprints,people,bb10,people
+Fountain Pen,bb-fountain-pen,office,bb10,office
+Full Screen,bb-full-screen,UI,bb10,UI
+Glasses,bb-glasses-2,people,bb10,people
+Glasses,bb-glasses-3,people,bb10,people
+Gear,bb-gear,UI,bb10,UI
+Glasses,bb-glasses-1,people,bb10,people
+Group,bb-group,people,bb10,people
+Hand Truck,bb-hand-truck,office,bb10,office
+Headphones,bb-headphones,entertainment,bb10,"entertainment, media"
+Heart,bb-heart,UI,bb10,UI
+Home,bb-home,UI,bb10,UI
+Home Plus,bb-home-plus,UI,bb10,UI
+Key,bb-key,objects,bb10,objects
+Utensils,bb-knife-fork,food,bb10,food
+Place Setting,bb-knife-fork-plate,food,bb10,food
+iPod,bb-layer-10,entertainment,bb10,"entertainment, media"
+Web Link,bb-link1,UI,bb10,UI
+Web Link,bb-link2,UI,bb10,UI
+Locked,bb-locked,UI,bb10,UI
+Magic 8 Ball,bb-magic8-ball,objects,bb10,objects
+Magnifying Glass,bb-magnifying-glass,objects,bb10,objects
+Mail,bb-mail,office,bb10,office
+Man,bb-man-turtleneck,people,bb10,people
+Man,bb-man-vneck,people,bb10,people
+Map Marker,bb-map-marker,objects,bb10,objects
+Megaphone,bb-megaphone,objects,bb10,objects
+Main Menu,bb-main-menu,UI,bb10,UI
+Menu Overflow,bb-menu-overflow,UI,bb10,UI
+Retro Mic,bb-mic-retro,entertainment,bb10,"entertainment, media"
+Mobile,bb-mobile,technology,bb10,"technology, social"
+Monitor,bb-monitor,technology,bb10,technology
+Moon & Stars,bb-moon-stars,nature,bb10,nature
+Motorcycle,bb-motor-bike,travel,bb10,travel
+No Entry,bb-no-entry,UI,bb10,UI
+Notification,bb-notification,UI,bb10,UI
+Paint Brush,bb-paint-brush,entertainment,bb10,"entertainment, media"
+Paint Bucket,bb-paint-bucket,entertainment,bb10,"entertainment, media"
+Paint Palette,bb-paint-pallett,entertainment,bb10,"entertainment, media"
+Pawprint,bb-pawprint,nature,bb10,nature
+Pencil,bb-pencil,office,bb10,office
+Photos,bb-photos,entertainment,bb10,"entertainment, media"
+Piano Keys,bb-piano-keys,entertainment,bb10,"entertainment, media"
+Pie Chart,bb-pie-chart,business,bb10,business
+Poaroid,bb-polaroid-tulip,entertainment,bb10,entertainment
+Printer,bb-printer,office,bb10,"office, technology"
+Radio,bb-radio,entertainment,bb10,"entertainment, media"
+Refresh,bb-refresh,UI,bb10,UI
+Reload,bb-reload,UI,bb10,UI
+Reply,bb-reply,social,bb10,social
+Ring Buoy,bb-ring-buoy,objects,bb10,objects
+Roller Blade,bb-roller-blade,objects,bb10,objects
+Sciissors,bb-scissors,office,bb10,office
+Scooter,bb-scooter,travel,bb10,travel
+Screen,bb-screen,technology,bb10,technology
+Send,bb-send,UI,bb10,UI
+Server,bb-server,technology,bb10,technology
+Shamrock,bb-shamrock,objects,bb10,objects
+Share,bb-share,UI,bb10,UI
+Signal,bb-signal,technology,bb10,technology
+Signs,bb-signs,objects,bb10,objects
+RSS,bb-rss,social,bb10,social
+BB Spark,bb-circle-spark,social,bb10,social
+Back,bb-square-back,UI,bb10,UI
+Beginning,bb-square-beginning,UI,bb10,UI
+End,bb-square-end,UI,bb10,UI
+Facebook,bb-square-facebook,social,bb10,social
+Flickr,bb-square-flickr,social,bb10,social
+Forward,bb-square-forward,UI,bb10,UI
+Goolge Plus,bb-square-googleplus,social,bb10,social
+Web Link,bb-square-link,UI,bb10,UI
+LinkedIN,bb-square-linkedin,social,bb10,social
+Next,bb-square-next,UI,bb10,UI
+Open,bb-square-open,UI,bb10,UI
+Pause,bb-square-pause,UI,bb10,UI
+Pinterest,bb-square-pinterest,social,bb10,social
+Play,bb-square-play,UI,bb10,UI
+Previous,bb-square-previous,UI,bb10,UI
+Record,bb-square-record,UI,bb10,UI
+Repeat,bb-square-repeat,UI,bb10,UI
+RSS,bb-square-rss,social,bb10,social
+Shuffle,bb-square-shuffle,UI,bb10,UI
+Stop,bb-square-stop,UI,bb10,UI
+Twitter,bb-square-twitter,social,bb10,social
+Twitter,bb-square-twitter-bird,social,bb10,social
+Vimeo,bb-square-twitter-vimeo,social,bb10,social
+YouTube,bb-square-youtube,social,bb10,social
+Star,bb-star,nature,bb10,nature
+Sticky,bb-sticky,office,bb10,office
+Stop Sign,bb-stop-sign,travel,bb10,travel
+Stop Watch,bb-stopwatch,sports,bb10,sports
+Suitcase,bb-suitcase,travel,bb10,travel
+Suitcase,bb-suitcase-wheels,travel,bb10,travel
+Sun,bb-sun-1,nature,bb10,nature
+Sun,bb-sun-2,nature,bb10,nature
+Tag,bb-tag-1,objects,bb10,objects
+Tag,bb-tag-2,objects,bb10,objects
+Target,bb-target,UI,bb10,UI
+Thumbtack,bb-thumb-tack,office,bb10,office
+Thumbs Down,bb-thumbs-down,social,bb10,social
+Thumbs Up,bb-thumbs-up,social,bb10,social
+Ticket,bb-ticket,entertainment,bb10,"entertainment, media"
+Trash,bb-trash,objects,bb10,objects
+Umbrella,bb-umbrella,objects,bb10,objects
+Unlocked,bb-unlocked,UI,bb10,UI
+Update,bb-update,UI,bb10,UI
+Voicemail,bb-voicemail,social,bb10,social
+Volume High,bb-vol-high,entertainment,bb10,"entertainment, media"
+Volume Low,bb-vol-low,entertainment,bb10,"entertainment, media"
+Volume Medium,bb-vol-med,entertainment,bb10,"entertainment, media"
+Mute,bb-vol-mute,entertainment,bb10,"entertainment, media"
+Warning,bb-warning,UI,bb10,UI
+Wifi,bb-wifi,technology,bb10,technology
+Woman,bb-woman-turtleneck,people,bb10,people
+Woman,bb-woman-vneck,people,bb10,people
+Zoom In,bb-zoom-in,UI,bb10,UI
+Zoom Out,bb-zoom-out,UI,bb10,UI
+Infinity,bb-infinity,UI,bb10,"UI, technology"
+Cherries,bb-cherries,food,bb10,food
+Asterisk,gl-asterisk,UI,glyphicons,UI
+Plus,gl-plus,UI,glyphicons,UI
+Euro,gl-euro,business,glyphicons,business
+Minus,gl-minus,UI,glyphicons,UI
+Cloud,gl-cloud,technology,glyphicons,technology
+Envelope,gl-envelope,"business, office",glyphicons,"business, office"
+Pencil,gl-pencil,"business, office",glyphicons,"business, office"
+Glass,gl-glass,"food, objects",glyphicons,"food, objects"
+Music,gl-music,entertainment,glyphicons,"entertainment, media"
+Search,gl-search,UI,glyphicons,UI
+Heart,gl-heart,"People, UI",glyphicons,"People, UI"
+Star,gl-star,UI,glyphicons,UI
+Star Empty,gl-star-empty,UI,glyphicons,UI
+User,gl-user,"people, UI",glyphicons,"people, UI"
+Film,gl-film,entertainment,glyphicons,"entertainment, media"
+Th Large,gl-th-large,UI,glyphicons,UI
+Th,gl-th,UI,glyphicons,UI
+Th List,gl-th-list,UI,glyphicons,UI
+Ok,gl-ok,UI,glyphicons,UI
+Remove,gl-remove,UI,glyphicons,UI
+Zoom In,gl-zoom-in,UI,glyphicons,UI
+Zoom Out,gl-zoom-out,UI,glyphicons,UI
+Off,gl-off,UI,glyphicons,UI
+Signal,gl-signal,objects,glyphicons,objects
+Cog,gl-cob,UI,glyphicons,UI
+Trash,gl-trash,"UI, objects",glyphicons,"UI, objects"
+Home,gl-home,UI,glyphicons,UI
+File,gl-file,"UI, technology",glyphicons,"UI, technology"
+Time,gl-time,"UI, objects",glyphicons,"UI, objects"
+Road,gl-road,"UI, travel",glyphicons,"UI, travel"
+Download Alt,gl-download-alt,UI,glyphicons,UI
+Download,gl-download,UI,glyphicons,UI
+Upload,gl-upload,UI,glyphicons,UI
+Inbox,gl-inbox,"UI, office",glyphicons,"UI, office"
+Play Circle,gl-play-circle,entertainment,glyphicons,"entertainment, media"
+Repeat,gl-repeat,entertainment,glyphicons,"entertainment, media"
+Refresh,gl-refresh,"UI, technology",glyphicons,"UI, technology"
+List Alt,gl-list-alt,UI,glyphicons,UI
+Lock,gl-lock,"UI, objects",glyphicons,"UI, objects"
+Flag,gl-flag,objects,glyphicons,objects
+Headphones,gl-headphones,entertainment,glyphicons,"entertainment, media"
+Volume Off,gl-volume-off,entertainment,glyphicons,"entertainment, media"
+Volume Down,gl-volume-down,entertainment,glyphicons,"entertainment, media"
+Volume Up,gl-volume-up,entertainment,glyphicons,"entertainment, media"
+Qrcode,gl-qrcode,technology,glyphicons,technology
+Barcode,gl-barcode,technology,glyphicons,technology
+Tag,gl-tag,UI,glyphicons,UI
+Tags,gl-tags,UI,glyphicons,UI
+Book,gl-book,objects,glyphicons,objects
+Bookmark,gl-bookmark,objects,glyphicons,objects
+Print,gl-print,office,glyphicons,office
+Camera,gl-camera,entertainment,glyphicons,"entertainment, media"
+Font,gl-font,UI,glyphicons,UI
+Bold,gl-bold,UI,glyphicons,UI
+Italic,gl-italic,UI,glyphicons,UI
+Line Height,gl-line-height,UI,glyphicons,UI
+Text Width,gl-text-width,UI,glyphicons,UI
+Align Left,gl-align-left,UI,glyphicons,UI
+Align Center,gl-align-center,UI,glyphicons,UI
+Align Right,gl-align-right,UI,glyphicons,UI
+Align Justify,gl-align-justify,UI,glyphicons,UI
+List,gl-list,UI,glyphicons,UI
+Indent Left,gl-indent-left,UI,glyphicons,UI
+Indent Right,gl-indent-right,UI,glyphicons,UI
+Facetime Video,gl-facetime-video,entertainment,glyphicons,"entertainment, media"
+Picture,gl-picture,entertainment,glyphicons,"entertainment, media"
+Map Marker,gl-map-marker,travel,glyphicons,travel
+Adjust,gl-adjust,UI,glyphicons,UI
+Tint,gl-tint,UI,glyphicons,UI
+Edit,gl-edit,UI,glyphicons,UI
+Share,gl-share,"UI, social",glyphicons,"UI, social"
+Check,gl-check,UI,glyphicons,UI
+Move,gl-move,UI,glyphicons,UI
+Step Backward,gl-step-backward,entertainment,glyphicons,"entertainment, media"
+Fast Backward,gl-fast-backward,entertainment,glyphicons,"entertainment, media"
+Backward,gl-backward,entertainment,glyphicons,"entertainment, media"
+Fast Forward,gl-fast-forward,entertainment,glyphicons,"entertainment, media"
+Step Forward,gl-step-forward,entertainment,glyphicons,"entertainment, media"
+Eject,gl-eject,entertainment,glyphicons,"entertainment, media"
+Chevron Left,gl-chevron-left,UI,glyphicons,UI
+Chevron Right,gl-chevron-right,UI,glyphicons,UI
+Plus Sign,gl-plus-sign,UI,glyphicons,UI
+Minus Sign,gl-minus-sign,UI,glyphicons,UI
+Remove Sign,gl-remove-sign,UI,glyphicons,UI
+Ok Sign,gl-ok-sign,UI,glyphicons,UI
+Question Mark,gl-question-sign,UI,glyphicons,UI
+Info Sign,gl-info-sign,UI,glyphicons,UI
+Screenshot,gl-screen-shot,UI,glyphicons,UI
+Remove Circle,gl-remove-circle,UI,glyphicons,UI
+Ok Circle,gl-ok-circle,UI,glyphicons,UI
+Ban Circle,gl-ban-circle,UI,glyphicons,UI
+Arrow Left,gl-arrow-left,UI,glyphicons,UI
+Arrow Right,gl-arrow-right,UI,glyphicons,UI
+Arrow Up,gl-arrow-up,UI,glyphicons,UI
+Arrow Down,gl-arrow-down,UI,glyphicons,UI
+Share Alt,gl-share-alt,"UI, social",glyphicons,"UI, social"
+Resize Full,gl-resize-full,UI,glyphicons,UI
+Resize Small,gl-resize-small,UI,glyphicons,UI
+Exclamation Sign,gl-exclamation-sign,UI,glyphicons,UI
+Gift,gl-gift,objects,glyphicons,objects
+Leaf,gl-leaf,objects,glyphicons,objects
+Fire,gl-fire,objects,glyphicons,objects
+Eye Open,gl-eye-open,people,glyphicons,people
+Eye Close,gl-eye-close,people,glyphicons,people
+Warning Sign,gl-warning-sign,UI,glyphicons,UI
+Plane,gl-plane,objects,glyphicons,objects
+Calendar,gl-calendar,"objects, office",glyphicons,"objects, office"
+Random,gl-random,UI,glyphicons,UI
+Comment,gl-comment,social,glyphicons,social
+Magnet,gl-magnet,objects,glyphicons,objects
+Chevron Up,gl-chevron-up,UI,glyphicons,UI
+Chevron Down,gl-chevron-down,UI,glyphicons,UI
+Retweet,gl-retweet,social,glyphicons,social
+Shopping Cart,gl-shopping-cart,"objects, business",glyphicons,"objects, business"
+Folder-Close,gl-folder-close,"office, technology",glyphicons,"office, technology"
+Folder Open,gl-folder-open,"office, technology",glyphicons,"office, technology"
+Resize Vertical,gl-resize-vertical,UI,glyphicons,UI
+Resize Horizontal,gl-resize-horizontal,UI,glyphicons,UI
+Hdd,gl-resize-hdd,entertainment,glyphicons,"entertainment, media"
+Bullhorn,gl-resize-bullhorn,objects,glyphicons,objects
+Bell,gl-resize-bell,objects,glyphicons,objects
+Certificate,gl-resize-certificate,UI,glyphicons,UI
+Thumbs Up,gl-thumbs-up,social,glyphicons,social
+Thumbs Down,gl-thumbs-down,social,glyphicons,social
+Hand Right,gl-hand-right,social,glyphicons,social
+Hand Left,gl-hand-left,social,glyphicons,social
+Hand Up,gl-hand-up,social,glyphicons,social
+Hand Down,gl-hand-down,social,glyphicons,social
+Circle Arrow Right,gl-circle-arrow-right,UI,glyphicons,UI
+Circle Arrow Left,gl-circle-arrow-left,UI,glyphicons,UI
+Circle Arrow Up,gl-circle-arrow-up,UI,glyphicons,UI
+Circle Arrow Down,gl-circle-arrow-down,UI,glyphicons,UI
+Globe,gl-globe,UI,glyphicons,UI
+Wrench,gl-wrench,objects,glyphicons,objects
+Tasks,gl-tasks,UI,glyphicons,UI
+Filter,gl-filter,UI,glyphicons,UI
+Briefcase,gl-briefcase,"office, business, objects",glyphicons,"office, business, objects"
+Full Screen,gl-full-screen,UI,glyphicons,UI
+Dashboard,gl-dashboard,UI,glyphicons,UI
+Paperclip,gl-paperclip,"objects, office",glyphicons,"objects, office"
+Heart Empty,gl-heart-empty,"people, UI",glyphicons,"people, UI"
+Link,gl-link,UI,glyphicons,UI
+Phone,gl-phone,objects,glyphicons,objects
+Pushpin,gl-pushpin,"office, objects",glyphicons,"office, objects"
+USD,gl-usd,business,glyphicons,business
+GBP,gl-gbp,business,glyphicons,business
+Sort,gl-sort,UI,glyphicons,UI
+Sort by Alphabet,gl-sort-by-alphabet,UI,glyphicons,UI
+Sort by Alphabet Alt,gl-sort-by-alphabet-alt,UI,glyphicons,UI
+Sort by Order,gl-sort-by-order,UI,glyphicons,UI
+Sort by Order Alt,gl-sort-by-order-alt,UI,glyphicons,UI
+Sort by Attributes,gl-sort-by-attributes,UI,glyphicons,UI
+Sort by Attributes Alt,gl-sort-by-attributes-alt,UI,glyphicons,UI
+Unchecked ,gl-unchecked,UI,glyphicons,UI
+Expand,gl-expand,UI,glyphicons,UI
+Collapse Down,gl-collapse-down,UI,glyphicons,UI
+Collapse Up,gl-collapse-up,UI,glyphicons,UI
+Login,gl-log-in,UI,glyphicons,UI
+Flash,gl-flash,UI,glyphicons,UI
+Logout,gl-log-out,UI,glyphicons,UI
+New Window,gl-new-window,UI,glyphicons,UI
+Record,gl-record,entertainment,glyphicons,entertainment
+Save,gl-save,"UI, technology",glyphicons,"UI, technology"
+Open,gl-open,"UI, technology",glyphicons,"UI, technology"
+Saved,gl-saved,"UI, technology",glyphicons,"UI, technology"
+Import,gl-import,"UI, technology",glyphicons,"UI, technology"
+Export,gl-export,"UI, technology",glyphicons,"UI, technology"
+Send,gl-send,"UI, technology",glyphicons,"UI, technology"
+Floppy Disk,gl-floppy-disk,"UI, technology",glyphicons,"UI, technology"
+Floppy Saved,gl-floppy-saved,"UI, technology",glyphicons,"UI, technology"
+Floppy Remove,gl-remove,"UI, technology",glyphicons,"UI, technology"
+Floppy Save,gl-save,"UI, technology",glyphicons,"UI, technology"
+Floppy Open,gl-open,"UI, technology",glyphicons,"UI, technology"
+Credit Card,gl-credit-card,business,glyphicons,business
+Transfer,gl-transfer,"UI, technology",glyphicons,"UI, technology"
+Cutlery,gl-cutlery,food,glyphicons,food
+Header,gl-header,UI,glyphicons,UI
+Compressed,gl-compressed,UI,glyphicons,UI
+Earphone,gl-earphone,entertainment,glyphicons,entertainment
+Phone Alt,gl-phone-alt,objects,glyphicons,objects
+Tower,gl-tower,objects,glyphicons,objects
+Stats,gl-stats,"UI, business",glyphicons,"UI, business"
+SD Video,gl-sd-video,entertainment,glyphicons,"entertainment, media"
+HD Video,gl-hd-video,entertainment,glyphicons,"entertainment, media"
+Subtitles,gl-subtitles,entertainment,glyphicons,"entertainment, media"
+Stereo Sound,gl-sound-stereo,entertainment,glyphicons,"entertainment, media"
+Dolby Sound,gl-sound-dolby,entertainment,glyphicons,"entertainment, media"
+Sound 5.1,gl-sound-5-1,entertainment,glyphicons,"entertainment, media"
+Sound 6.1,gl-sound-6-1,entertainment,glyphicons,"entertainment, media"
+Sound 7.1,gl-sound-7-1,entertainment,glyphicons,"entertainment, media"
+Copyright,gl-copyright-mark,business,glyphicons,business
+Registered ,gl-regristration-mark,business,glyphicons,business
+Download,gl-cloud-download,"UI, technology",glyphicons,"UI, technology"
+Upload,gl-cloud-upload,"UI, technology",glyphicons,"UI, technology"
+Tree Conifer,gl-tree-conifer,nature,glyphicons,nature
+Tree Deciduous,gl-tree-deciduous,nature,glyphicons,nature
