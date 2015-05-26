@@ -1,0 +1,419 @@
+name,symbol,category,author,keywords
+Glass,fa-glass,Entertainment,font-awesome,"entertainment, food, drink, party "
+Music,fa-music,Entertainment,font-awesome,"entertainment, music"
+Search,fa-search,UI,font-awesome,"ui, technology"
+Envelope,fa-envelope-o,UI,font-awesome,UI
+Heart,fa-heart,UI,font-awesome,UI
+Star,fa-star,UI,font-awesome,UI
+Star,fa-star-o,UI,font-awesome,UI
+User,fa-user,Technology,font-awesome,Technology
+Film,fa-film,Entertainment,font-awesome,Entertainment
+Table Header,fa-th-large,UI,font-awesome,UI
+Table Header,fa-th,UI,font-awesome,UI
+List,fa-th-list,UI,font-awesome,UI
+OK,fa-check,UI,font-awesome,UI
+Close,fa-times,UI,font-awesome,UI
+Zoom In,fa-search-plus,UI,font-awesome,UI
+Zoom Out,fa-search-minus,UI,font-awesome,UI
+Power Off,fa-power-off,Technology,font-awesome,Technology
+Signal,fa-signal,Technology,font-awesome,Technology
+Cog,fa-cog,UI,font-awesome,UI
+Trash,fa-trash-o,UI,font-awesome,UI
+Home,fa-home,UI,font-awesome,UI
+File,fa-file-o,Business,font-awesome,Business
+Clock,fa-clock-o,Business,font-awesome,Business
+Road,fa-road,Travel,font-awesome,Travel
+Download,fa-download,UI,font-awesome,UI
+Circle Arrow Down,fa-arrow-circle-o-down,UI,font-awesome,UI
+Circle Arrow Up,fa-arrow-circle-o-up,UI,font-awesome,UI
+Inbox,fa-inbox,Business,font-awesome,Business
+Circle Play,fa-play-circle-o,Entertainment,font-awesome,Entertainment
+Repeat,fa-repeat,Entertainment,font-awesome,Entertainment
+Refresh,fa-refresh,UI,font-awesome,UI
+List,fa-list-alt,UI,font-awesome,UI
+Lock,fa-lock,UI,font-awesome,UI
+Flag,fa-flag,UI,font-awesome,UI
+Headphones,fa-headphones,Entertainment,font-awesome,Entertainment
+Volume Off,fa-volume-off,Entertainment,font-awesome,"entertainment, sound, media control"
+Volume Down,fa-volume-down,Entertainment,font-awesome,"entertainment, sound, media control"
+Volume Up,fa-volume-up,Entertainment,font-awesome,"entertainment, sound, media control"
+QR Code,fa-qrcode,Business,font-awesome,Business
+Bar Code,fa-barcode,Business,font-awesome,Business
+Tag,fa-tag,Business,font-awesome,Business
+Tags,fa-tags,Business,font-awesome,Business
+Book,fa-book,UI,font-awesome,UI
+Bookmark,fa-bookmark,UI,font-awesome,UI
+Print,fa-print,UI,font-awesome,UI
+Camera,fa-camera,Entertainment,font-awesome,Entertainment
+Font,fa-font,UI,font-awesome,UI
+Bold,fa-bold,UI,font-awesome,UI
+Italic,fa-italic,UI,font-awesome,UI
+Text Height,fa-text-height,UI,font-awesome,UI
+Text Width,fa-text-width,UI,font-awesome,UI
+Align Left,fa-align-left,UI,font-awesome,UI
+Align Center,fa-align-center,UI,font-awesome,UI
+Align Right,fa-align-right,UI,font-awesome,UI
+Align Justify,fa-align-justify,UI,font-awesome,UI
+List,fa-list,UI,font-awesome,UI
+Indent,fa-indent,UI,font-awesome,UI
+Outdent,fa-outdent,UI,font-awesome,UI
+Camera Video,fa-video-camera,Entertainment,font-awesome,Entertainment
+Picture,fa-picture-o,Entertainment,font-awesome,Entertainment
+Pencil,fa-pencil,Business,font-awesome,Business
+Map Marker,fa-map-marker,UI,font-awesome,UI
+Adjust,fa-adjust,Entertainment,font-awesome,Entertainment
+Tint,fa-tint,Entertainment,font-awesome,Entertainment
+Pencil,fa-pencil-square-o,Business,font-awesome,Business
+Share,fa-share-square-o,Social,font-awesome,Social
+OK,fa-check-square-o,UI,font-awesome,UI
+Move,fa-arrows,UI,font-awesome,UI
+Step Back,fa-step-backward,Entertainment,font-awesome,Entertainment
+Step Forward,fa-fast-backward,Entertainment,font-awesome,Entertainment
+Backward,fa-backward,Entertainment,font-awesome,Entertainment
+Play,fa-play,Entertainment,font-awesome,Entertainment
+Pause,fa-pause,Entertainment,font-awesome,Entertainment
+Stop,fa-stop,Entertainment,font-awesome,Entertainment
+Forward,fa-forward,Entertainment,font-awesome,Entertainment
+Fast Forward,fa-fast-forward,Entertainment,font-awesome,Entertainment
+Step Forward,fa-step-forward,Entertainment,font-awesome,Entertainment
+Eject,fa-eject,Entertainment,font-awesome,Entertainment
+Chevron Left,fa-chevron-left,UI,font-awesome,UI
+Chevron Right,fa-chevron-right,UI,font-awesome,UI
+Circle Plus,fa-plus-circle,UI,font-awesome,UI
+Circle Minus,fa-minus-circle,UI,font-awesome,UI
+Circle Close,fa-times-circle,UI,font-awesome,UI
+Circle OK,fa-check-circle,UI,font-awesome,UI
+Circle Question,fa-question-circle,UI,font-awesome,UI
+Circle Info,fa-info-circle,UI,font-awesome,UI
+Crosshairs,fa-crosshairs,UI,font-awesome,UI
+Circle Close,fa-times-circle-o,UI,font-awesome,UI
+Circle OK,fa-check-circle-o,UI,font-awesome,UI
+Ban,fa-ban,UI,font-awesome,UI
+Arrow Left,fa-arrow-left,UI,font-awesome,UI
+Arrow Right,fa-arrow-right,UI,font-awesome,UI
+Arrow Up,fa-arrow-up,UI,font-awesome,UI
+Arrow Down,fa-arrow-down,UI,font-awesome,UI
+Share,fa-share,UI,font-awesome,UI
+Expand,fa-expand,UI,font-awesome,UI
+Compress,fa-compress,UI,font-awesome,UI
+Add,fa-plus,Business,font-awesome,Business
+Subtract,fa-minus,Business,font-awesome,Business
+Multiply,fa-asterisk,Business,font-awesome,Business
+Circle Caution,fa-exclamation-circle,UI,font-awesome,UI
+Gift,fa-gift,UI,font-awesome,UI
+Leaf,fa-leaf,Nature,font-awesome,Nature
+Fire,fa-fire,Nature,font-awesome,Nature
+Visible,fa-eye,UI,font-awesome,UI
+Not Visible,fa-eye-slash,UI,font-awesome,UI
+Caution,fa-exclamation-triangle,UI,font-awesome,UI
+Plane,fa-plane,Travel,font-awesome,Travel
+Calendar,fa-calendar,Business,font-awesome,Business
+Random,fa-random,UI,font-awesome,UI
+Comment,fa-comment,Social,font-awesome,Social
+Magnet,fa-magnet,UI,font-awesome,UI
+Chevron Up,fa-chevron-up,UI,font-awesome,UI
+Chevron Down,fa-chevron-down,UI,font-awesome,UI
+Retweet,fa-retweet,Social,font-awesome,Social
+Business Cart,fa-shopping-cart,Business,font-awesome,Business
+Folder,fa-folder,UI,font-awesome,UI
+Folder Open,fa-folder-open,UI,font-awesome,UI
+Arrows Vertical,fa-arrows-v,UI,font-awesome,UI
+Arrows Horizontal,fa-arrows-h,UI,font-awesome,UI
+Bar Chart,fa-bar-chart-o,Business,font-awesome,Business
+Twitter,fa-twitter-square,Social,font-awesome,Social
+Facebook,fa-facebook-square,Social,font-awesome,Social
+Camera,fa-camera-retro,Entertainment,font-awesome,Entertainment
+Key,fa-key,UI,font-awesome,UI
+Cogs,fa-cogs,UI,font-awesome,UI
+Comments,fa-comments,Social,font-awesome,Social
+Thumbs Up,fa-thumbs-o-up,Social,font-awesome,Social
+Thumbs Down,fa-thumbs-o-down,Social,font-awesome,Social
+Star Half,fa-star-half,UI,font-awesome,UI
+Heart,fa-heart-o,UI,font-awesome,UI
+Sign Out,fa-sign-out,UI,font-awesome,UI
+LinkedIN,fa-linkedin-square,Social,font-awesome,Social
+Thumbtack,fa-thumb-tack,Business,font-awesome,Business
+Link,fa-external-link,UI,font-awesome,UI
+Sign In,fa-sign-in,UI,font-awesome,UI
+Trophy,fa-trophy,UI,font-awesome,UI
+Github,fa-github-square,Social,font-awesome,Social
+Upload,fa-upload,Technology,font-awesome,Technology
+Lemon,fa-lemon-o,Nature,font-awesome,Nature
+Phone,fa-phone,Technology,font-awesome,Technology
+Square,fa-square-o,UI,font-awesome,UI
+Bookmark,fa-bookmark-o,UI,font-awesome,UI
+Phone,fa-phone-square,Technology,font-awesome,Technology
+Twitter,fa-twitter,Social,font-awesome,Social
+Facebook,fa-facebook,Social,font-awesome,Social
+Github,fa-github,Social,font-awesome,Social
+Unlock,fa-unlock,UI,font-awesome,UI
+Credit Card,fa-credit-card,Business,font-awesome,Business
+RSS,fa-rss,Technology,font-awesome,Technology
+HDD,fa-hdd-o,Technology,font-awesome,Technology
+Bullhorn,fa-bullhorn,UI,font-awesome,UI
+Bell,fa-bell,UI,font-awesome,UI
+Certificate,fa-certificate,UI,font-awesome,UI
+Hand right,fa-hand-o-right,Social,font-awesome,Social
+Hand left,fa-hand-o-left,Social,font-awesome,Social
+Hand up,fa-hand-o-up,Social,font-awesome,Social
+Hand down,fa-hand-o-down,Social,font-awesome,Social
+Circle Arrow Left,fa-arrow-circle-left,UI,font-awesome,UI
+Circle Arrow Right,fa-arrow-circle-right,UI,font-awesome,UI
+Circle Arrow Up,fa-arrow-circle-up,UI,font-awesome,UI
+Circle Arrow Down,fa-arrow-circle-down,UI,font-awesome,UI
+Globe,fa-globe,UI,font-awesome,UI
+Wrench,fa-wrench,UI,font-awesome,UI
+Tasks,fa-tasks,UI,font-awesome,UI
+Filter,fa-filter,Business,font-awesome,Business
+Briefcase,fa-briefcase,UI,font-awesome,UI
+Arrows,fa-arrows-alt,UI,font-awesome,UI
+Users,fa-users,Technology,font-awesome,Technology
+Link,fa-link,Technology,font-awesome,Technology
+Cloud,fa-cloud,Technology,font-awesome,Technology
+Beaker,fa-flask,Business,font-awesome,Business
+Scissors,fa-scissors,Business,font-awesome,Business
+Files,fa-files-o,Business,font-awesome,Business
+Paperclip,fa-paperclip,Business,font-awesome,Business
+Floppy Disk,fa-floppy-o,Technology,font-awesome,Technology
+Square,fa-square,UI,font-awesome,UI
+Bars,fa-bars,Technology,font-awesome,Technology
+List Unordered,fa-list-ul,UI,font-awesome,UI
+List Ordered,fa-list-ol,UI,font-awesome,UI
+Strikethrough,fa-strikethrough,UI,font-awesome,UI
+Underline,fa-underline,UI,font-awesome,UI
+Table,fa-table,UI,font-awesome,UI
+Magic,fa-magic,UI,font-awesome,UI
+Truck,fa-truck,Travel,font-awesome,Travel
+Pinterest,fa-pinterest,Social,font-awesome,Social
+Pinterest,fa-pinterest-square,Social,font-awesome,Social
+Goolge Plus,fa-google-plus-square,Social,font-awesome,Social
+Google Plus,fa-google-plus,Social,font-awesome,Social
+Business,fa-money,Business,font-awesome,Business
+Caret Down,fa-caret-down,UI,font-awesome,UI
+Caret Up,fa-caret-up,UI,font-awesome,UI
+Caret Left,fa-caret-left,UI,font-awesome,UI
+Caret Right,fa-caret-right,UI,font-awesome,UI
+Columns,fa-columns,UI,font-awesome,UI
+Sort,fa-sort,UI,font-awesome,UI
+Sort Down,fa-sort-down,UI,font-awesome,UI
+Sort Up,fa-sort-up,UI,font-awesome,UI
+Envelope,fa-envelope,Business,font-awesome,Business
+LinkedIN,fa-linkedin,Social,font-awesome,Social
+Undo,fa-undo,UI,font-awesome,UI
+Legal,fa-legal,UI,font-awesome,UI
+Dashboard,fa-dashboard,Travel,font-awesome,Travel
+Comment,fa-comment-o,Social,font-awesome,Social
+Comments,fa-comments-o,Social,font-awesome,Social
+Bold,fa-bolt,UI,font-awesome,UI
+Sitemap,fa-sitemap,Business,font-awesome,Business
+Umbrella,fa-umbrella,UI,font-awesome,UI
+Paste,fa-paste,UI,font-awesome,UI
+Lightbulb,fa-lightbulb-o,UI,font-awesome,UI
+Exchange,fa-exchange,UI,font-awesome,UI
+Cloud Download,fa-cloud-download,Technology,font-awesome,Technology
+Cloud Upload,fa-cloud-upload,Technology,font-awesome,Technology
+User MD,fa-user-md,Social,font-awesome,Social
+Stethoscope,fa-stethoscope,Social,font-awesome,Social
+Suitecase,fa-suitcase,Travel,font-awesome,Travel
+Bell,fa-bell-o,UI,font-awesome,UI
+Coffee,fa-coffee,Entertainment,font-awesome,Entertainment
+Cutlery,fa-cutlery,Entertainment,font-awesome,Entertainment
+Text File,fa-file-text-o,Technology,font-awesome,Technology
+Building,fa-building-o,Business,font-awesome,Business
+Hospital,fa-hospital-o,Social,font-awesome,Social
+Ambulance,fa-ambulance,Social,font-awesome,Social
+Medical Kit,fa-medkit,Social,font-awesome,Social
+Fighter Jet,fa-fighter-jet,Travel,font-awesome,Travel
+Beer,fa-beer,Entertainment,font-awesome,Entertainment
+Square,fa-h-square,UI,font-awesome,UI
+Plus,fa-plus-square-o,Business,font-awesome,Business
+Angle Double Left,fa-angle-double-left,UI,font-awesome,UI
+Angle Double Right,fa-angle-double-right,UI,font-awesome,UI
+Angle Double Up,fa-angle-double-up,UI,font-awesome,UI
+Angle double Down,fa-angle-double-down,UI,font-awesome,UI
+Angle Left,fa-angle-left,UI,font-awesome,UI
+Angle Right,fa-angle-right,UI,font-awesome,UI
+Angle Up,fa-angle-up,UI,font-awesome,UI
+Angle Down,fa-angle-down,UI,font-awesome,UI
+Desktop,fa-desktop,Technology,font-awesome,Technology
+Laptop,fa-laptop,Technology,font-awesome,Technology
+Tablet,fa-tablet,Technology,font-awesome,Technology
+Mobile,fa-mobile-phone,Technology,font-awesome,Technology
+Circle,fa-circle-o,UI,font-awesome,UI
+Qutoe Left,fa-quote-left,UI,font-awesome,UI
+Quote Right,fa-quote-right,UI,font-awesome,UI
+Spinner,fa-spinner,UI,font-awesome,UI
+Circle,fa-circle,UI,font-awesome,UI
+Reply,fa-reply,UI,font-awesome,UI
+Github,fa-github-alt,Social,font-awesome,Social
+Folder,fa-folder-o,UI,font-awesome,UI
+Folder,fa-folder-open-o,UI,font-awesome,UI
+Smile ,fa-smile-o,Social,font-awesome,Social
+Frown,fa-frown-o,Social,font-awesome,Social
+Meh,fa-meh-o,Social,font-awesome,Social
+Gamepad,fa-gamepad,Technology,font-awesome,Technology
+Keyboard,fa-keyboard-o,Technology,font-awesome,Technology
+Flag,fa-flag-o,UI,font-awesome,UI
+Flag Checkerred,fa-flag-checkered,UI,font-awesome,UI
+Terminal,fa-terminal,Technology,font-awesome,Technology
+Code,fa-code,Technology,font-awesome,Technology
+Reply All,fa-reply-all,UI,font-awesome,UI
+Mail Reply All,fa-mail-reply-all,UI,font-awesome,UI
+Star Half,fa-star-half-o,UI,font-awesome,UI
+Arrow Location,fa-location-arrow,UI,font-awesome,UI
+Crop,fa-crop,Entertainment,font-awesome,Entertainment
+Fork Code,fa-code-fork,Technology,font-awesome,Technology
+Unlink,fa-unlink,UI,font-awesome,UI
+Question,fa-question,UI,font-awesome,UI
+Info,fa-info,UI,font-awesome,UI
+Exclamation,fa-exclamation,UI,font-awesome,UI
+Superscript,fa-superscript,UI,font-awesome,UI
+Subscript,fa-subscript,UI,font-awesome,UI
+Eraser,fa-eraser,Business,font-awesome,Business
+Puzzle Piece,fa-puzzle-piece,UI,font-awesome,UI
+Audio,fa-microphone,Entertainment,font-awesome,Entertainment
+Mute,fa-microphone-slash,Entertainment,font-awesome,Entertainment
+Shield,fa-shield,UI,font-awesome,UI
+Calendar,fa-calendar-o,Business,font-awesome,Business
+Fire Exttinguisher,fa-fire-extinguisher,UI,font-awesome,UI
+Rocket,fa-rocket,Travel,font-awesome,Travel
+Max CDN,fa-maxcdn,Technology,font-awesome,Technology
+Circle Chevron Left,fa-chevron-circle-left,UI,font-awesome,UI
+Circle Chevron Right,fa-chevron-circle-right,UI,font-awesome,UI
+Circle Chevron Up,fa-chevron-circle-up,UI,font-awesome,UI
+Circle Chevron Down,fa-chevron-circle-down,UI,font-awesome,UI
+HTML5,fa-html5,Technology,font-awesome,Technology
+CSS3,fa-css3,Technology,font-awesome,Technology
+Anchor ,fa-anchor,UI,font-awesome,UI
+Unlock,fa-unlock-alt,UI,font-awesome,UI
+Bullseye,fa-bullseye,UI,font-awesome,UI
+Ellipsis,fa-ellipsis-h,UI,font-awesome,UI
+Ellipsis,fa-ellipsis-v,UI,font-awesome,UI
+Ellipsis Vertical,fa-ellipsis-v,UI,font-awesome,UI
+RSS,fa-rss-square,Social,font-awesome,Social
+Play,fa-play-circle,Entertainment,font-awesome,Entertainment
+Ticket,fa-ticket,UI,font-awesome,UI
+Minus,fa-minus-square,UI,font-awesome,UI
+Minus,fa-minus-square-o,UI,font-awesome,UI
+Level Up,fa-level-up,UI,font-awesome,UI
+Level Down,fa-level-down,UI,font-awesome,UI
+OK,fa-check-square,UI,font-awesome,UI
+Pencil,fa-pencil-square,Business,font-awesome,Business
+Link,fa-external-link-square,UI,font-awesome,UI
+Compass,fa-compass,UI,font-awesome,UI
+Share,fa-share-square,UI,font-awesome,UI
+Caret Square Up,fa-caret-square-o-up,UI,font-awesome,UI
+Caret Square Down,fa-caret-square-o-down,UI,font-awesome,UI
+Caret Square Right,fa-caret-square-o-right,UI,font-awesome,UI
+Euro,fa-eur,Business,font-awesome,Business
+British Pound,fa-gbp,Business,font-awesome,Business
+US Dollar,fa-usd,Business,font-awesome,Business
+Indian Rupee,fa-inr,Business,font-awesome,Business
+Japenese Yen,fa-jpy,Business,font-awesome,Business
+Chinese Yuan,fa-cny,Business,font-awesome,Business
+So Korean Won,fa-krw,Business,font-awesome,Business
+Bitcoin,fa-btc,Business,font-awesome,Business
+File,fa-file,Business,font-awesome,Business
+Document,fa-file-text,Business,font-awesome,Business
+Sort Alpha Asc,fa-sort-alpha-asc,UI,font-awesome,UI
+Sort Alpha Desc,fa-sort-alpha-desc,UI,font-awesome,UI
+Sort Amount Asc,fa-sort-amount-asc,UI,font-awesome,UI
+Sort Amount Desc,fa-sort-amount-desc,UI,font-awesome,UI
+Sort Numeric Asc,fa-sort-numeric-asc,UI,font-awesome,UI
+Sort Numeric Desc,fa-sort-numeric-desc,UI,font-awesome,UI
+Thumbs Up,fa-thumbs-up,Social,font-awesome,Social
+Thumbs Down,fa-thumbs-down,Social,font-awesome,Social
+YouTube,fa-youtube-square,Social,font-awesome,Social
+YouTube,fa-youtube,Social,font-awesome,Social
+Xing,fa-xing,Social,font-awesome,Social
+Xing,fa-xing-square,Social,font-awesome,Social
+YouTube Play,fa-youtube-play,Social,font-awesome,Social
+DropBox,fa-dropbox,Social,font-awesome,Social
+Stack Overflow,fa-stack-overflow,Social,font-awesome,Social
+Instagram,fa-instagram,Social,font-awesome,Social
+Flickr,fa-flickr,Social,font-awesome,Social
+Ad-n,fa-adn,Social,font-awesome,Social
+BitBucket,fa-bitbucket,Social,font-awesome,Social
+BitBucket,fa-bitbucket-square,Social,font-awesome,Social
+Tumblr,fa-tumblr,Social,font-awesome,Social
+Tumblr,fa-tumblr-square,Social,font-awesome,Social
+Arrow Long Down,fa-long-arrow-down,UI,font-awesome,UI
+Arrow Long Up,fa-long-arrow-up,UI,font-awesome,UI
+Arrow Long Left,fa-long-arrow-left,UI,font-awesome,UI
+Arrow Long Right,fa-long-arrow-right,UI,font-awesome,UI
+Apple,fa-apple,Technology,font-awesome,Technology
+Windows,fa-windows,Technology,font-awesome,Technology
+Android,fa-android,Technology,font-awesome,Technology
+Linux,fa-linux,Technology,font-awesome,Technology
+Dribble,fa-dribbble,Social,font-awesome,Social
+Skype,fa-skype,Social,font-awesome,Social
+FourSquare,fa-foursquare,Social,font-awesome,Social
+Trello,fa-trello,Social,font-awesome,Social
+Female,fa-female,Social,font-awesome,Social
+Male,fa-male,Social,font-awesome,Social
+GitTip,fa-gittip,Social,font-awesome,Social
+Sun,fa-sun-o,Nature,font-awesome,Nature
+Moon,fa-moon-o,Nature,font-awesome,Nature
+Archive,fa-archive,UI,font-awesome,UI
+Bug,fa-bug,Technology,font-awesome,Technology
+Vk,fa-vk,Social,font-awesome,Social
+Weibo,fa-weibo,Social,font-awesome,Social
+RenRen,fa-renren,Social,font-awesome,Social
+PageLines,fa-pagelines,Social,font-awesome,Social
+Stack Exchange,fa-stack-exchange,Social,font-awesome,Social
+Circle Arrow Right,fa-arrow-circle-o-right,UI,font-awesome,UI
+Circle Arrow Left,fa-arrow-circle-o-left,UI,font-awesome,UI
+Square Caret Left,fa-caret-square-o-left,UI,font-awesome,UI
+Circle Dot,fa-dot-circle-o,UI,font-awesome,UI
+Wheelchair,fa-wheelchair,UI,font-awesome,UI
+Vimeo,fa-vimeo-square,Social,font-awesome,Social
+Try,fa-try,Social,font-awesome,Social
+Square Plus,fa-plus-square-o,UI,font-awesome,UI
+Popsicle,st-popsicle,Entertainment,streamline,Entertainment
+Hotdog,st-hotdog,Entertainment,streamline,Entertainment
+Knife & Fork,st-knife-fork,Entertainment,streamline,Entertainment
+Chef Hat,st-hat-chef,Entertainment,streamline,Entertainment
+Barbecue,st-barbecue,Entertainment,streamline,Entertainment
+Bar chart,bb-bar-chart,Business,fontology,Business
+Bookmark,bb-bookmark,UI,fontology,UI
+Calculator,bb-calculator,Business,fontology,Business
+Mail ,bb-message-mail,UI,fontology,UI
+BBM,bb-message-bbm,UI,fontology,UI
+Map Marker,bb-map-marker,UI,fontology,UI
+SMS,bb-message-text,UI,fontology,UI
+Cloud Upload,bb-cloud-upload,UI,fontology,UI
+Cloud Download,bb-cloud-download,UI,fontology,UI
+Cloud,bb-cloud,UI,fontology,UI
+Document,bb-document,UI,fontology,UI
+Pencil,bb-pencil,Business,fontology,Business
+Heart,bb-heart,UI,fontology,UI
+Camera,bb-camera-still,Entertainment,fontology,Entertainment
+Video camera,bb-camera-video,Entertainment,fontology,Entertainment
+Star,bb-star,BBUI,fontology,BBUI
+Warning,bb-warning,BBUI,fontology,BBUI
+Vimeo,bb-square-vimeo,Social,fontology,Social
+Twitter,bb-square-twitter,Social,fontology,Social
+Twitter,bb-square-twitter-bird,Social,fontology,Social
+Radio,bb-radio,UI,fontology,UI
+Pie Chart,bb-pie-chart,Business,fontology,Business
+Ring Buoy,bb-ring-buoy,UI,fontology,UI
+LinkedIN,bb-square-linkedin,Social,fontology,Social
+LinkedIN,bb-circle-linkedin,Social,fontology,Social
+Google Plus,bb-square-googleplus,Social,fontology,Social
+Google Plus,bb-circle-googleplus,Social,fontology,Social
+Pinterest,bb-square-pinterest,Social,fontology,Social
+Pinterest,bb-circle-pinterest,Social,fontology,Social
+RSS,bb-square-rss,Social,fontology,Social
+RSS,bb-circle-rss,Social,fontology,Social
+YouTube,bb-square-youtube,Social,fontology,Social
+YouTube,bb-circle-youtube,Social,fontology,Social
+Facebook,bb-square-facebook,Social,fontology,Social
+Facebook,bb-circle-facebook,Social,fontology,Social
+Flickr,bb-square-flickr,Social,fontology,Social
+Flickr,bb-circle-flickr,Social,fontology,Social
+Twitter,bb-square-twitter,Social,fontology,Social
+Twitter,bb-circle-twitter,Social,fontology,Social
+Twitter,bb-square-twitter-bird,Social,fontology,Social
+Twitter,bb-circle-twitter-bird,Social,fontology,Social
+FaceBook,bb-square-facebook,Social,fontology,Social
+FaceBook,bb-circle-facebook,Social,fontology,Social

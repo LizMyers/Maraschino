@@ -4,33 +4,76 @@ copyright 2014-2015 MyersDesign.com
 All rights reserved.
 */
 
-body{
-	margin:0!important;
-	padding:0;
-	font-family: Arial, sans-serif;
-	font-size:13pt;
-	font-weight:normal!important;
-	color:white;
-	text-shadow:none!important;
-	background:black;
-	border:0!important;
-	}
-#header{
-	position:fixed;
-	margin:0;
-	padding:0;
-	width:100%;
-	height:100px;
+body {
+    margin:0!important;
+    padding:0;
+    font-family: Arial, sans-serif;
+    font-size:13pt;
+    font-weight:normal!important;
+    color:white;
+    text-shadow:none!important;
+    background:black;
+    border:0!important;
+}
+#header {
+    position:fixed;
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100px;
     background:rgba(50, 50, 50, 0.95)!important;
     z-index:10000;
-   }
+}
+#btnDownloadFiles {
+    display:block;
+    margin:0px 10px 10px 15%;
+    width:70%;
+    height:36px;
+    text-align: center;
+    font-size:1em;
+    line-height: 2.25em;
+    border-radius:8px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px black;
+
+  background : -moz-linear-gradient(50% 100% 90deg,rgba(116, 0, 212, 1) 0%,rgba(244, 102, 102, 1) 100%);
+  background : -webkit-linear-gradient(90deg, rgba(116, 0, 212, 1) 0%, rgba(244, 102, 102, 1) 100%);
+  background : -webkit-gradient(linear,50% 100% ,50% 0% ,color-stop(0,rgba(116, 0, 212, 1) ),color-stop(1,rgba(244, 102, 102, 1) ));
+  background : -o-linear-gradient(90deg, rgba(116, 0, 212, 1) 0%, rgba(244, 102, 102, 1) 100%);
+  background : -ms-linear-gradient(90deg, rgba(116, 0, 212, 1) 0%, rgba(244, 102, 102, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#7400D4', endColorstr='#F46666' ,GradientType=0)";
+  background : linear-gradient(0deg, rgba(116, 0, 212, 1) 0%, rgba(244, 102, 102, 1) 100%);
+  filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#F46666',endColorstr='#7400D4' , GradientType=0)";
+}
+#btnDownloadFiles:hover {
+    padding:0;
+    background:#f64444;
+}
+span#downloadTxt {
+    float:left;
+    padding-left:6px;
+    font-weight:bold;
+    line-height: 2.28em;
+    color:white!important;
+    text-shadow:1px 1px 1px solid #222;
+    border:0px solid yellow;
+}
+div#btnDownloadFiles i {
+    float:left;
+    margin-left:16%;
+    color:white;
+    font-size:1.25em;
+    line-height: 2.1em;
+    font-weight:bold;
+    border:0px solid yellow;
+}
 span#logo {
     margin:16px 22% auto;
-	font-family: 'Helvetica', sans-serif;
-	color:#f46666;
-	font-size:1.5em;
-	line-height: 3em;
-	font-weight:bold;
+    font-family: 'Helvetica', sans-serif;
+    color:#f46666;
+    font-size:1.5em;
+    line-height: 3em;
+    font-weight:bold;
     border:0px solid yellow;
 }
 /*  ----------------------------------------------------- */
@@ -46,7 +89,7 @@ span#logo {
 	text-decoration: none!important;
 }
 .bb-main-menu:hover {
-    color:#f46666!important;
+    color:#f64444!important;
 }
 #pageTitle{
 	font-family: 'Helvetica', sans-serif;
@@ -77,7 +120,7 @@ span#logo {
 	font-size:0.925em;
 	line-height: -10%!important;
 	text-shadow:none!important;
-	width:250px!important;
+	width:200px!important;
 	height:32px!important;
 	background:none!important;
     border-radius:4px;
@@ -100,10 +143,11 @@ span#logo {
 }
 #mySearch .fa .fa-times{
 	display:block;
+    position:relative;
 	height:20px;
 	width:30px;
 	margin-top:0px;
-	margin-left:150px;
+	margin-right:50px;
 	color:#f46666;
 	font-size:1.35em;
 	line-height: 1em;
@@ -114,7 +158,7 @@ span#logo {
     display:block;
     position:absolute;
     top:10px;
-    left:240px;
+    left:190px;
     color:white;
 }
 ::-webkit-input-placeholder { /* WebKit browsers */
@@ -168,8 +212,8 @@ color:  #999;
     color:white!important;
 }
 #download {
+    padding:0;
     border-radius:20px 0 0 20px;
-
 }
 #download, #download .fa-download{
     color:#666!important;
@@ -188,7 +232,26 @@ color:  #999;
     float:left;
     margin:3px -10px 0 15px;
     padding:0;
-    line-height: 2em;
+    line-height: 1.5em;
+}
+#btnShowPicks .bb-star {
+    line-height: 1.95em!important;
+}
+
+#faSet .fa-flag {
+    line-height: 1.75em!important;
+}
+#glyphSet .fa-pencil{
+    line-height: 1.65!important;
+/*    color:yellow!important;*/
+}
+
+#clearSearch .fa-times{
+    float:right;
+    position:relative;
+    margin-top:-3px!important;
+    line-height: -1em!important;
+    border:0px solid yellow!important;
 }
 
 #btnShowPicks .bb-star {
@@ -344,7 +407,7 @@ h2 i {
 	line-height:130%!important;
 	color:#ccc!important;
 }
- itemSelector {
+ .itemSelector {
 	position: relative;
 	width:150px;
 	height:100px;
@@ -361,8 +424,85 @@ h2 i {
 	 background:#444;
 	 border-radius: 0px 15% 0px 0px;
 	 cursor: pointer;
-	 }
- #container .item i {font-size:2em; color: rgba(255,255,255,0.85);}
+     -webkit-transform:translate3d(0,0,0);
+     -moz-transform:translate3d(0,0,0);
+     transform:translate3d(0,0,0);
+ }
+ #container .item i {
+    font-size:2em; 
+    color: rgba(255,255,255,0.85);
+}
+
+.hvr-sweep-to-top:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #2098d1;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-top:hover, .hvr-sweep-to-top:focus, .hvr-sweep-to-top:active {
+  color: white;
+}
+.hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:focus:before, .hvr-sweep-to-top:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+}
+ div[data-title]:before{
+ 	content:attr(data-title);
+ 	position:absolute;
+ 	padding:4px;
+            padding-bottom:6px;
+            padding-top:6px;
+ 	bottom:0px;
+ 	left:0px;
+ 	width:94.5%;
+ 	height:auto;
+ 	font-size:0.8em;
+ 	color:white;
+ 	z-index: 1000;
+ }
+.hvr-sweep-to-top:before {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      top: 50px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgb(244, 102, 102);
+      -webkit-transform: scaleY(0);
+      transform: scaleY(0);
+      -webkit-transform-origin: 50% 100%;
+      transform-origin: 50% 100%;
+      -webkit-transition-property: transform;
+      transition-property: transform;
+      -webkit-transition-duration: 0.3s;
+      transition-duration: 0.3s;
+      -webkit-transition-timing-function: ease-out;
+      transition-timing-function: ease-out;
+      -webkit-transition-delay: 1s;
+       transition-delay: 1s;
+}
+.hvr-sweep-to-top:hover, .hvr-sweep-to-top:focus, .hvr-sweep-to-top:active {
+  color: white;
+}
+.hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:focus:before, .hvr-sweep-to-top:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+}
  .number{
  	 float:right!important;
  	 margin-top:-10px!important;
@@ -371,6 +511,7 @@ h2 i {
 	 color: rgba(255,255,255,0.51);
 	 text-shadow: none!important;
  	}
+
   .glyph{
    	 width:100%;
  	 float:none;
@@ -392,7 +533,8 @@ h2 i {
      width:50px;text-align:center!important;
      color: rgba(255,255,255,0.75);
  }
- .name{
+
+ .name {
  	 margin-top:-5px;
  	 margin-left:4px;
 	 font-size:0.75em!important;
@@ -401,7 +543,7 @@ h2 i {
 	 text-shadow: none!important;
 	 text-overflow: ellipsis!important;
  	}
- .code{
+ .code {
  	 position:relative;
  	 margin-left:4px;
  	 margin-top:-12px!important;
@@ -411,6 +553,11 @@ h2 i {
 	 font-weight:normal!important;
 	 color: rgba(255,255,255,1);
 	 text-shadow: none!important;
+	 width:140px;
+	 border:0px solid orange;
+	 white-space: nowrap;
+  	 overflow: hidden;
+	 text-overflow:ellipsis;
  	} 	
 
 #totals .ui-link{
@@ -553,6 +700,9 @@ h2 #clearMyPicks {
 .menu li a:hover *{
 	color: #f64444;
 }
+h2 a:hover, h2 a:hover i {
+    color:#fc0!important;
+}
 
 /*  ---------LIGHT COLOUR SCHEME------------ */
 .lt-container {background:whitesmoke!important;border:0px!important;}
@@ -573,6 +723,35 @@ h2 #clearMyPicks {
 /*  ---------STEEL BLUE COLOUR SCHEME------------ */
 .steelblue-container{background:black!important;}
 .steelblue-item {background:steelblue!important;}
+
+/*  ---------CSS TRANSITIONS/ANIMATIONS------------ */
+
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+ 
 
 
 @media all and (max-width:500px){

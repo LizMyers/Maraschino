@@ -2,29 +2,27 @@
 <html lang="en">
 <head>
 <title>MARASCHINO</title>
-			<meta charset="UTF-8">
-			<meta name='viewport' content='width=device-width, initial-scale=1'>
-			<link rel='stylesheet' href='resources/css/jquery.mobile-1.2.1.min.css' />	
-			<link rel='stylesheet' href='resources/css/font-awesome.css' />
-			<link rel='stylesheet' href='resources/css/bb10.css' />
-            <link rel='stylesheet' href='resources/css/glyphicons.css' />
-            <link rel='stylesheet' href='resources/css/maraschino.css'  />	
-             <link rel='stylesheet' href='resources/css/picksList.css'  />	
-			<script src='resources/js/jquery-1.10.2.min.js'></script>	
-			<script language="text/javascript">
-			//configure jQM
-		      $(document).bind("mobileinit", function () {
-		            $.mobile.ajaxEnabled = false;
-		            $.mobile.defaultPageTransition= 'fade';
-		      });
-	  		</script>
-			<script src='resources/js/jquery.mobile-1.4.0.min.js'></script>		
+<meta charset="UTF-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<link rel='stylesheet' href='resources/css/jquery.mobile-1.2.1.min.css' />	
+<link rel='stylesheet' href='resources/css/allSets.min.css' />
+<link rel='stylesheet' href='resources/css/maraschino.css'  />	
+<link rel='stylesheet' href='resources/css/ionicons.css'  />	
+<link rel='stylesheet' href='resources/css/picksList.css'  />	
+<script src='resources/js/jquery-1.10.2.min.js'></script>	
+<script language="text/javascript">
+//configure jQM
+$(document).bind("mobileinit", function () {
+    $.mobile.ajaxEnabled = false;
+    $.mobile.defaultPageTransition= 'none';
+});
+</script>
+<script src='resources/js/jquery.mobile-1.4.0.min.js'></script>		
 <style>
-    
 ul {
     display:block !important;
     position: absolute!important;
-    top:100px;
+    top:80px!important;
     height:90%!important;
     width:80%!important;
     padding-top:30px!important;
@@ -37,10 +35,10 @@ li {
 }
    
 .ui-input-text {
-	background:none!important;
-	color:black!important;
-    border:none!important;
-    box-shadow: inset 0px 0px 0px black;
+  background:none!important;
+  color:black!important;
+  border:none!important;
+  box-shadow: inset 0px 0px 0px black;
 }
     
 .ui-focus {
@@ -48,7 +46,7 @@ li {
 }
     
 input {
-    margin:40px 0px 0px 30px!important;
+	margin:40px 0px 0px 30px!important;
 	padding:0;
 	padding-top:2px;
 	padding-left:20px!important;
@@ -60,17 +58,17 @@ input {
 	background:none!important;
 	color:black!important;
 	overflow:hidden;
-    border:none!important;
-    border-radius:50px;
-    box-shadow: inset 0px 0px 0px black;
-    border:3px solid #f46666!important;
+	border:none!important;
+	border-radius:50px;
+	box-shadow: inset 0px 0px 0px black;
+	border:3px solid #f46666!important;
 }
 
 input:focus { 
-    outline:none;
-    border:none;
-    border-color:#f46666;
-    box-shadow:0 0 20px #f46666;
+	outline:none;
+	border:none;
+	border-color:#f46666;
+	box-shadow:0 0 20px #f46666;
 }
 
 ::-webkit-input-placeholder { /* WebKit browsers */
@@ -128,10 +126,9 @@ color:  #999;
 		
 	</div><!--//end content-->
 	<script src="resources/js/maraschino-list.js"></script>	
-
+	<script src="resources/js/allSets.js"></script>	
 	
 </div><!--//end picksListPage-->
-	<script src="resources/js/allSets.js"></script>
 	<script src="resources/js/date.format.js"></script>	
 	<script src="resources/js/moment.min.js"></script>	
 	

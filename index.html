@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 <title>MARASCHINO</title>
+<link rel="shortcut icon" href="resources/css/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="resources/css/images/favicon.ico" type="image/x-icon">
 			<meta charset="UTF-8">
 			<meta name='viewport' content='width=device-width, initial-scale=1'>
 			<link rel='stylesheet' href='resources/css/jquery.mobile-1.2.1.min.css' />	
-			<link rel='stylesheet' href='resources/css/font-awesome.css' />
-			<link rel='stylesheet' href='resources/css/bb10.css' />
-<!--           <link rel='stylesheet' href='resources/css/bootstrap.min.css' />-->
-            <link rel='stylesheet' href='resources/css/glyphicons.css' />
+			<link rel='stylesheet' href='resources/css/allSets.min.css' />
+			<link rel='stylesheet' href='resources/css/ionicons.css' />
 			<link rel="stylesheet" href="resources/css/avgrund.css">
             <link rel="stylesheet" href='resources/css/jquery.sidr.dark.css'>
             <link rel='stylesheet' href='resources/css/maraschino.css' />	
@@ -17,7 +17,7 @@
 			//configure jQM
 		      $(document).bind("mobileinit", function () {
 		            $.mobile.ajaxEnabled = false;
-		            $.mobile.defaultPageTransition= 'fade';
+		            $.mobile.defaultPageTransition= 'none';
 		      });
 	  		</script>
 
@@ -75,13 +75,18 @@
 		
 		<div id="sidr">
               <span id="logo">Maraschino</span>
+            
+             <div id="btnDownloadFiles">
+                 <i class="gl-download"></i>
+                 <span id="downloadTxt">GET ICONS</span>
+            </div>
                 
-			  <ul style="margin:-10px 0 50px!important;">
+			  <ul style="margin:30px 0 50px!important;">
                   
         <!-- ////////////// TOTALS ///////////////// -->
              <li>
                 <ul id="totals" class="menu" style="border-top:0px!important">
-                    <li id="allIcons" class="showAll" data-category-value ="*"><a href="#"><i class="bb-infinity" style="float:left;margin-top:-1px!important"></i>
+                    <li id="allIcons" class="showAll" data-category-value ="*"><a href="#"><i class="bb-infinity"></i>
                     All Icons<div class="count"><span id="iconsTotal" class="countTxt">0</span></div></a></li>
                     <li id="myPicks" class="showMyPicks" data-category-value ="mypicks"><a href="#"><i class="bb-star" style="float:left;margin-top:7px!important"></i>
                     My Picks<div class="count"><span id="picksTotal" class="countTxt">0</span></div></a></li>
@@ -91,9 +96,10 @@
                 <li>
 			        <h2><a href="#" id="setToggle"><i class="fa fa-play fa-rotate-90"></i>Library </a><div id="btnClearLibraries" class="btnClear">clear</div></h2>
 				    <ul id="setGroup" class="menu">
-				    	<li id="bbSet"><a href="#"><i class="bb-bbry-logo"></i>BlackBerry<div class="count"><span id="nBbSet" class="countTxt">0</span></div></a></li>
+				    	<li id="ionicSet"><a href="#"><i class="ion-ionic"></i>Ionic<div class="count"><span id="nIoSet" class="countTxt">0</span></div></a></li>
 				       	<li id="faSet"><a href="#"><i class="fa fa-flag"></i>Font Awesome<div class="count"><span id="nFaSet" class="countTxt">0</span></div></a></li>
 				       	<li id="glyphSet"><a href="#"><i class="fa fa-pencil"></i>Glyphicons<div class="count"><span id="nGlSet" class="countTxt">0</span></div></a></li>
+                        			<li id="bbSet"><a href="#"><i class="bb-bbry-logo"></i>BlackBerry<div class="count"><span id="nBbSet" class="countTxt">0</span></div></a></li>
 				    </ul>		
 			    </li>
                   
@@ -129,7 +135,6 @@
 			  </ul>
 		</div>
 		
-	
 		<div id="container" class="js-isotope" data-isotope-options='{ "itemSelector": ".item", "getSortData": {  "number": ".number parseInt", "name": ".name", "category": "[data-category]" }, "layoutMode" : "fitRows"}'>
 			
 		</div><!--//end isotope container-->
@@ -141,12 +146,13 @@
 ================================= -->
     
 <!--    <script src="js/bootstrap.min.js"></script>-->
-    <script src="js/respond.min.js"></script>
-	<script src="resources/js/allSets.js"></script>
-	<script src="resources/js/maraschino.js"></script>	
+    <script src="resources/js/respond.min.js"></script>
+    <script src="resources/js/isoresize.js"></script>
+    <script src="resources/js/maraschino.js"></script>	
+   <script src="resources/js/maraschino-utils.js"></script>
+  
 </div><!--//end bbGrid-->
 	<script src="resources/js/jquery.avgrund.js"></script>
-    
 
 	<script>
 	$(function() {
@@ -158,22 +164,16 @@
 			onBlurContainer: '.container',
 			template: '<p style="margin:30px 0 30px;font-size:1.2em;text-align:center;color:#232323">Are you sure you want to<br>unmark your picks?</p>' +
 			'<div>' +			
-			'<a href="#" id="yesClearMyPicks" class="dialogBtn" onclick="clearAllMyPicks();" style="background:#f64444;"><i class="fa fa-trash-o" style="font-size:1.35em; line-height:2em;float:left;margin:6px -16px 0 26px;color:white;"></i> <span style="line-height:-1.75em;float:left;margin-left:20px;">YES</span></a>' +
+			'<a href="#" id="yesClearMyPicks" class="dialogBtn" onclick="clearAllMyPicks();" style="background:#f64444;"><i class="fa fa-trash-o" style="font-size:1.35em; line-height:1em;float:left;margin:12px -16px 0 26px;color:white;"></i> <span style="line-height:-1.75em;float:left;margin-left:20px;">YES</span></a>' +
 			'<a href="#" id="btnCancel" class ="avgrund-close"><span style="float:left;margin:0px 0 0 33px; line-height: 2.9em; border:0px solid yellow">Cancel</span></a>' +
 			'</div>'
 		});
-        $('#sliderMenu').on('click', function (){
-                $('#container').isotope('reLayout'); 
-           setTimeout(function () {   
-                $('#container').isotope('reLayout'); 
-            }, 3000);
-	   });
         
     })
 	</script>
 	<script src="resources/js/jquery.sidr.min.js"></script>
 	<script src="resources/js/isotope.js"></script>	
-	<script src="resources/js/isoresize.js"></script>	
+	<script src="resources/js/isoresize.js"></script>
 
 </body>
 </html>

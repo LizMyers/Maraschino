@@ -12,7 +12,6 @@ p {color:#444!important;}
 	margin-top:-10px!important;
 	width:40px!important;
 	padding:0!important;
-	border:0px solid black;
 }
 i, fa{float:left;font-size: 1.5em!important;color:black!important;}
 .name{
@@ -43,7 +42,11 @@ input{
 input:before{
 	background:white!important;
 }
-#pList{margin-top:50px!important;border:0px solid red;}
+#pList {
+	margin-top:50px!important;
+	width:100%!important;
+	overflow-y:hidden;
+}
 #date{margin-left:15px;font-size:.85em;color:black!important;}
 #btnPrint{
 	margin:50px 0 0 50px;

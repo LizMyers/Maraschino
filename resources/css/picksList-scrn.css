@@ -1,0 +1,27 @@
+#headerBk{
+	height:80px;
+	width:100%;
+	background:#600;
+}
+#btnBack{
+	height:80px;
+	width:150px;
+	color:white;
+	background:blue;
+}
+#btnPrint{
+	margin:10px 0 0 17px!important;
+	padding:0;
+	height:40px;
+	width:150px;
+	line-height: 2.45em;
+	color:white;
+	background:purple;
+	border-radius:5px;
+	border:0px solid grey;
+	
+	
+}
+a {
+	text-decoration: none!important;
+}
