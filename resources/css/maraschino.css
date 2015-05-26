@@ -414,19 +414,19 @@ h2 i {
 	}
 #container {width:90%;height:100%; margin-top:90px!important; margin-left:-10px!important;border:0px solid yellow;}			
 #container .item {
- 	 float:left;
- 	 font-weight:normal!important;
- 	 margin:5px 5px 5px 5px;
- 	 padding-top:20px!important;
-     margin-bottom:4px!important;
-	 width:150px!important;
-	 height:auto!important;
-	 background:#444;
-	 border-radius: 0px 15% 0px 0px;
-	 cursor: pointer;
-     -webkit-transform:translate3d(0,0,0);
-     -moz-transform:translate3d(0,0,0);
-     transform:translate3d(0,0,0);
+    float:left;
+    font-weight:normal!important;
+    margin:5px 5px 5px 5px;
+    padding-top:20px!important;
+    margin-bottom:4px!important;
+    width:150px!important;
+    height:auto!important;
+    background:#444;
+    border-radius: 0px 15% 0px 0px;
+    cursor: pointer;
+    -webkit-transform:translate3d(0,0,0);
+    -moz-transform:translate3d(0,0,0);
+    transform:translate3d(0,0,0);
  }
  #container .item i {
     font-size:2em; 
@@ -461,18 +461,18 @@ h2 i {
   transform: scaleY(1);
 }
  div[data-title]:before{
- 	content:attr(data-title);
- 	position:absolute;
- 	padding:4px;
-            padding-bottom:6px;
-            padding-top:6px;
- 	bottom:0px;
- 	left:0px;
- 	width:94.5%;
- 	height:auto;
- 	font-size:0.8em;
- 	color:white;
- 	z-index: 1000;
+    content:attr(data-title);
+    position:absolute;
+    padding:4px;
+    padding-bottom:6px;
+    padding-top:6px;
+    bottom:0px;
+    left:0px;
+    width:94.5%;
+    height:auto;
+    font-size:0.8em;
+    color:white;
+    z-index: 1000;
  }
 .hvr-sweep-to-top:before {
       content: "";
@@ -503,29 +503,28 @@ h2 i {
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
 }
- .number{
- 	 float:right!important;
- 	 margin-top:-10px!important;
- 	 margin-right:7%!important;
-	 font-size:0.9em!important;
-	 color: rgba(255,255,255,0.51);
-	 text-shadow: none!important;
- 	}
-
+  .number{
+    float:right!important;
+    margin-top:-10px!important;
+    margin-right:7%!important;
+    font-size:0.9em!important;
+    color: rgba(255,255,255,0.51);
+    text-shadow: none!important;
+  }
   .glyph{
-   	 width:100%;
- 	 float:none;
-     margin:0;
-     padding:0;
+    width:100%;
+    float:none;
+    margin:0;
+    padding:0;
     padding-top:8px!important;
-	 font-size:.95em!important;
-     line-height:3em!important;
-	 color:#121212;
-	 text-align: center!important;
-     vertical-align: middle!important;
-     padding-top:4px;
-	 border:0px solid yellow;
- 	}
+    font-size:.95em!important;
+    line-height:3em!important;
+    color:#121212;
+    text-align: center!important;
+    vertical-align: middle!important;
+    padding-top:4px;
+    border:0px solid yellow;
+  }
  .glyph i {
      text-decoration-style: none!important;
      text-decoration-style: none!important;
@@ -533,7 +532,6 @@ h2 i {
      width:50px;text-align:center!important;
      color: rgba(255,255,255,0.75);
  }
-
  .name {
  	 margin-top:-5px;
  	 margin-left:4px;
@@ -549,7 +547,7 @@ h2 i {
  	 margin-top:-12px!important;
  	 margin-bottom:8px;
 	 font-size:0.75em!important;
-	 line-height: 0.9em!important;
+	 line-height: 1.2em!important;
 	 font-weight:normal!important;
 	 color: rgba(255,255,255,1);
 	 text-shadow: none!important;
@@ -664,7 +662,6 @@ h2 i {
 	z-index: 15;
 }
 .selected {
-/*	color:#f46666!important;*/
     	color:#f46666!important;
 }
 
@@ -674,7 +671,7 @@ h2 #clearMyPicks {
 	border:0px solid red;
 }
 .fa-play {
-    margin-right:10px!important;
+  margin-left:8px!important;
 }
 .fa-rotate-270{
 	transform:rotate(270deg);

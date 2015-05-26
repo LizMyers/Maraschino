@@ -33,20 +33,20 @@ var Utils = {
                 var keywords = icon.keywords;
 
                 switch(set) {
-                        case "bb10":
+                        case "bbSet":
                           nBbSet++;
-                          console.log("bb10: "+nBbSet)
+                         //console.log("bb10: "+nBbSet)
                         break;
-                        case "font-awesome":
-                         console.log("font-awesome: "+nFaSet);
+                        case "faSet":
+                         //console.log("font-awesome: "+nFaSet);
                           nFaSet++;
                         break;
-                        case "glyphicons":
-                          console.log("glyphicons: "+nGlSet);
+                        case "glyphSet":
+                          //console.log("glyphicons: "+nGlSet);
                           nGlSet++;
                         break;
-                        case "ionic":
-                          console.log("ionic: "+nIoSet);
+                        case "ionicSet":
+                          //console.log("ionic: "+nIoSet);
                           nIoSet++;
                         break;
                 }

@@ -111,7 +111,7 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 	var myCount = JSON.parse(localStorage.getItem('myCount'));
 	console.log("MyCount: " + myCount);
 
-	if (myCount !== undefined && myCount !== '' && myCount !== null) {
+	if (myCount !== undefined && myCount !== '' && myCount !== 'null') {
 		$('#picksTotal').text(myCount);
 	} else {
 		myCount = 0;
@@ -191,6 +191,22 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 		$('#picksTotal').text(picksTotal);
 
 	}); //end item onClick
+
+	/////////////////////////////// OPEN LIBRARY ////////////////////////////////////////////  
+
+	var mySet = localStorage.getItem('mySet');
+	console.log("mySet= " +mySet);
+
+	if(!mySet || mySet == ' ' || mySet == 'null' || mySet === 'faSet') {
+		localStorage.setItem('mySet', 'faSet');
+		$('#faSet').trigger('click');
+	} else if (mySet == 'bbSet') {
+		$('#bbSet').trigger('click');
+	} else if (mySet == 'glyphSet') {
+		$('#glyphSet').trigger('click');
+	} else if (mySet == 'ionicSet') {	
+		$('#ionicSet').trigger('click');
+	}
 
 }); //end pagebeforeshow
 
@@ -488,9 +504,12 @@ $('#print').on('click', function() {
 });
 
 ///////////////////////// SELECT LIBRARY /////////////////////////////////		
+//var mySet = 'faSet';
 
 $('#bbSet').on('click', function() {
-	var mySet = "bb10";
+	localStorage.setItem('mySet', 'bbSet');
+	var mySet = 'bbSet';
+	console.log('clicked ' + mySet);
 	$('#container').isotope({
 		filter: ':contains(' + mySet + ')'
 	});
@@ -512,7 +531,9 @@ $('#bbSet').on('click', function() {
 });
 
 $('#faSet').on('click', function() {
-	var mySet = "font-awesome";
+	localStorage.setItem('mySet', 'faSet');
+	console.log('clicked' + mySet);
+	var mySet = 'faSet';
 	$('#container').isotope({
 		filter: ':contains(' + mySet + ')'
 	});
@@ -535,7 +556,9 @@ $('#faSet').on('click', function() {
 });
 
 $('#glyphSet').on('click', function() {
-	var mySet = "glyphicons";
+	localStorage.setItem('mySet', 'glyphSet');
+	var mySet = 'glyphSet';
+	console.log('clicked' + mySet);
 	$('#container').isotope({
 		filter: ':contains(' + mySet + ')'
 	});
@@ -559,7 +582,9 @@ $('#glyphSet').on('click', function() {
 });
 
 $('#ionicSet').on('click', function() {
-	var mySet = "ionic";
+	localStorage.setItem('mySet', 'ionicSet');
+	var mySet = 'ionicSet';
+	console.log('clicked' + mySet);
 	$('#container').isotope({
 		filter: ':contains(' + mySet + ')'
 	});
@@ -583,8 +608,9 @@ $('#ionicSet').on('click', function() {
 });
 
 $('#btnClearLibraries').on('click', function() {
+	var mySet = 'faSet';
 	$('#container').isotope({
-		filter: '*'
+		filter: ':contains(' + mySet + ')'
 	});
 	$('#setGroup *').removeClass('selected');
 	$('#allIcons').find('a').addClass('selected').find('i').addClass('selected');

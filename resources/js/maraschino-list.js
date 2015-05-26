@@ -71,6 +71,6 @@ $(document).on('pagebeforeshow', function() {
 	$.each(listitems, function(idx, itm) { mylist.append(itm); });
 
 
-}); //pageCreate
+}); //pageBeforeShow
 
 ///////////////////////////////////////////////////////////////////////////////////
