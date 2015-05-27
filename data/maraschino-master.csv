@@ -369,208 +369,208 @@ Wheelchair,fa fa-wheelchair,UI,faSet,UI
 Vimeo,fa fa-vimeo-square,social,faSet,social
 Try,fa fa-try,social,faSet,social
 Square Plus,fa fa-plus-square-o,UI,faSet,UI
-Alarm Clock,bb-alarm-clock,objects,bbSet,"objects, time"
-Bar Chart,bb-bar-chart,business,bbSet,business
-Barrel,bb-barrel,food,bbSet,food
-Battery,bb-battery,technology,bbSet,technology
-BBM,bb-bbm,social,bbSet,social
-BB Logo,bb-bbry-logo,business,bbSet,business
-Binders,bb-binders,office,bbSet,office
-Bluetooth,bb-bluetooth,technology,bbSet,technology
-Bookmark,bb-bookmark,UI,bbSet,UI
-Bookmark Plus,bb-bookmark-plus,UI,bbSet,UI
-Box,bb-box-closed,office,bbSet,office
-Box,bb-box-open,office,bbSet,office
-Briefcase,bb-briefcase,office,bbSet,office
-Buggy,bb-buggy,objects,bbSet,objects
-Bullseye,bb-bullseye,UI,bbSet,UI
-Calculator,bb-calculator,office,bbSet,office
-Calendar,bb-calendar,office,bbSet,office
-Calendar Plus,bb-calendar-plus,office,bbSet,office
-Incoming Call,bb-call-incoming,social,bbSet,social
-Outgoing Call,bb-call-outgoing,social,bbSet,social
-Returned Call,bb-call-returned,social,bbSet,social
-Camera,bb-camera-still,entertainment,bbSet,"entertainment, media"
-Video Camera,bb-camera-video,entertainment,bbSet,"entertainment, media"
-Chat Bubble,bb-chat-bubble,social,bbSet,social
-Checkmark,bb-checked,UI,bbSet,UI
-Circle Arrow Down,bb-circle-arrow-down,UI,bbSet,UI
-Circle Arrow Left,bb-circle-arrow-left,UI,bbSet,UI
-Circle Arrow Right,bb-circle-arrow-right,UI,bbSet,UI
-Circle Arrow Up,bb-circle-arrow-up,UI,bbSet,UI
-Go Back,bb-circle-back,UI,bbSet,UI
-Go to Beginning,bb-circle-beginning,UI,bbSet,UI
-Dollar,bb-circle-dollar,business,bbSet,business
-Go to End,bb-circle-end,UI,bbSet,UI
-Euro,bb-circle-euro,business,bbSet,business
-Facebook,bb-circle-facebook-o,social,bbSet,social
-Flickr,bb-circle-flickr-o,social,bbSet,social
-Forward,bb-circle-forward,UI,bbSet,UI
-Google Plus,bb-circle-googleplus-o,social,bbSet,social
-Info,bb-circle-info,UI,bbSet,UI
-Info,bb-circle-info-1,UI,bbSet,UI
-LinkedIN,bb-circle-linkedin-o,social,bbSet,social
-Next,bb-circle-next,UI,bbSet,UI
-Open,bb-circle-open,UI,bbSet,UI
-Pause,bb-circle-pause,UI,bbSet,UI
-Pinterest,bb-circle-pinterest-o,social,bbSet,social
-Play,bb-circle-play,UI,bbSet,UI
-Play/Pause,bb-circle-play-pause,UI,bbSet,UI
-Pound,bb-circle-pound,business,bbSet,business
-Previous,bb-circle-previous,UI,bbSet,UI
-Question,bb-circle-question,UI,bbSet,UI
-Record,bb-circle-record,UI,bbSet,UI
-RSS,bb-circle-rss-o,social,bbSet,social
-Stop,bb-circle-stop,UI,bbSet,UI
-Twitter,bb-circle-twitter-bird-o,social,bbSet,social
-Twitter,bb-circle-twitter-o,social,bbSet,social
-Vimeo,bb-circle-vimeo-o,social,bbSet,social
-YouTube,bb-circle-youtube-o,social,bbSet,social
-Clipboard,bb-clipboard,office,bbSet,office
-Clock,bb-clock,office,bbSet,office
-Close,bb-close,UI,bbSet,UI
-Cloud,bb-cloud,technology,bbSet,technology
-Cloud Download,bb-cloud-download,technology,bbSet,technology
-Cloud Upload,bb-cloud-upload,technology,bbSet,technology
-Compass,bb-compass,UI,bbSet,UI
-Contacts,bb-contacts,UI,bbSet,UI
-BBM Contacts,bb-contacts-bbm,social,bbSet,social
-Contacts Plus,bb-contacts-plus,social,bbSet,social
-Credit Cards,bb-credit-cards,business,bbSet,business
-Desk Lamp,bb-desk-lamp,office,bbSet,office
-Document,bb-document,office,bbSet,office
-Eighth Notes,bb-eighth-notes,entertainment,bbSet,"entertainment, media"
-Full Screen,bb-envelope-open,UI,bbSet,UI
-Exit Full Screen,bb-exit-full-screen,UI,bbSet,UI
-Exit Full Screen,bb-exit-full-screen-1,UI,bbSet,UI
-Film Strip,bb-film-strip,entertainment,bbSet,"entertainment, media"
-Flag,bb-flag-1,objects,bbSet,objects
-Chequered flag,bb-flag-chequered-1,sports,bbSet,sports
-Chequered flag,bb-flag-chequered-2,sports,bbSet,sports
-Golf Flag,bb-flag-golf,sports,bbSet,sports
-Golf Green,bb-flag-golf-green,sports,bbSet,sports
-Folder Closed,bb-folder-closed,office,bbSet,office
-Folder Open,bb-folder-open,office,bbSet,office
-Font Size,bb-font-size,UI,bbSet,UI
-Footprints,bb-footprints,people,bbSet,people
-Fountain Pen,bb-fountain-pen,office,bbSet,office
-Full Screen,bb-full-screen,UI,bbSet,UI
-Glasses,bb-glasses-2,people,bbSet,people
-Glasses,bb-glasses-3,people,bbSet,people
-Gear,bb-gear,UI,bbSet,UI
-Glasses,bb-glasses-1,people,bbSet,people
-Group,bb-group,people,bbSet,people
-Hand Truck,bb-hand-truck,office,bbSet,office
-Headphones,bb-headphones,entertainment,bbSet,"entertainment, media"
-Heart,bb-heart,UI,bbSet,UI
-Home,bb-home,UI,bbSet,UI
-Home Plus,bb-home-plus,UI,bbSet,UI
-Key,bb-key,objects,bbSet,objects
-Utensils,bb-knife-fork,food,bbSet,food
-Place Setting,bb-knife-fork-plate,food,bbSet,food
-iPod,bb-layer-10,entertainment,bbSet,"entertainment, media"
-Web Link,bb-link1,UI,bbSet,UI
-Web Link,bb-link2,UI,bbSet,UI
-Locked,bb-locked,UI,bbSet,UI
-Magic 8 Ball,bb-magic8-ball,objects,bbSet,objects
-Magnifying Glass,bb-magnifying-glass,objects,bbSet,objects
-Mail,bb-mail,office,bbSet,office
-Man,bb-man-turtleneck,people,bbSet,people
-Man,bb-man-vneck,people,bbSet,people
-Map Marker,bb-map-marker,objects,bbSet,objects
-Megaphone,bb-megaphone,objects,bbSet,objects
-Main Menu,bb-main-menu,UI,bbSet,UI
-Menu Overflow,bb-menu-overflow,UI,bbSet,UI
-Retro Mic,bb-mic-retro,entertainment,bbSet,"entertainment, media"
-Mobile,bb-mobile,technology,bbSet,"technology, social"
-Monitor,bb-monitor,technology,bbSet,technology
-Moon & Stars,bb-moon-stars,nature,bbSet,nature
-Motorcycle,bb-motor-bike,travel,bbSet,travel
-No Entry,bb-no-entry,UI,bbSet,UI
-Notification,bb-notification,UI,bbSet,UI
-Paint Brush,bb-paint-brush,entertainment,bbSet,"entertainment, media"
-Paint Bucket,bb-paint-bucket,entertainment,bbSet,"entertainment, media"
-Paint Palette,bb-paint-pallett,entertainment,bbSet,"entertainment, media"
-Pawprint,bb-pawprint,nature,bbSet,nature
-Pencil,bb-pencil,office,bbSet,office
-Photos,bb-photos,entertainment,bbSet,"entertainment, media"
-Piano Keys,bb-piano-keys,entertainment,bbSet,"entertainment, media"
-Pie Chart,bb-pie-chart,business,bbSet,business
-Poaroid,bb-polaroid-tulip,entertainment,bbSet,entertainment
-Printer,bb-printer,office,bbSet,"office, technology"
-Radio,bb-radio,entertainment,bbSet,"entertainment, media"
-Refresh,bb-refresh,UI,bbSet,UI
-Reload,bb-reload,UI,bbSet,UI
-Reply,bb-reply,social,bbSet,social
-Ring Buoy,bb-ring-buoy,objects,bbSet,objects
-Roller Blade,bb-roller-blade,objects,bbSet,objects
-Sciissors,bb-scissors,office,bbSet,office
-Scooter,bb-scooter,travel,bbSet,travel
-Screen,bb-screen,technology,bbSet,technology
-Send,bb-send,UI,bbSet,UI
-Server,bb-server,technology,bbSet,technology
-Shamrock,bb-shamrock,objects,bbSet,objects
-Share,bb-share,UI,bbSet,UI
-Signal,bb-signal,technology,bbSet,technology
-Signs,bb-signs,objects,bbSet,objects
-RSS,bb-rss,social,bbSet,social
-BB Spark,bb-circle-spark,social,bbSet,social
-Back,bb-square-back,UI,bbSet,UI
-Beginning,bb-square-beginning,UI,bbSet,UI
-End,bb-square-end,UI,bbSet,UI
-Facebook,bb-square-facebook,social,bbSet,social
-Flickr,bb-square-flickr,social,bbSet,social
-Forward,bb-square-forward,UI,bbSet,UI
-Goolge Plus,bb-square-googleplus,social,bbSet,social
-Web Link,bb-square-link,UI,bbSet,UI
-LinkedIN,bb-square-linkedin,social,bbSet,social
-Next,bb-square-next,UI,bbSet,UI
-Open,bb-square-open,UI,bbSet,UI
-Pause,bb-square-pause,UI,bbSet,UI
-Pinterest,bb-square-pinterest,social,bbSet,social
-Play,bb-square-play,UI,bbSet,UI
-Previous,bb-square-previous,UI,bbSet,UI
-Record,bb-square-record,UI,bbSet,UI
-Repeat,bb-square-repeat,UI,bbSet,UI
-RSS,bb-square-rss,social,bbSet,social
-Shuffle,bb-square-shuffle,UI,bbSet,UI
-Stop,bb-square-stop,UI,bbSet,UI
-Twitter,bb-square-twitter,social,bbSet,social
-Twitter,bb-square-twitter-bird,social,bbSet,social
-Vimeo,bb-square-twitter-vimeo,social,bbSet,social
-YouTube,bb-square-youtube,social,bbSet,social
-Star,bb-star,nature,bbSet,nature
-Sticky,bb-sticky,office,bbSet,office
-Stop Sign,bb-stop-sign,travel,bbSet,travel
-Stop Watch,bb-stopwatch,sports,bbSet,sports
-Suitcase,bb-suitcase,travel,bbSet,travel
-Suitcase,bb-suitcase-wheels,travel,bbSet,travel
-Sun,bb-sun-1,nature,bbSet,nature
-Sun,bb-sun-2,nature,bbSet,nature
-Tag,bb-tag-1,objects,bbSet,objects
-Tag,bb-tag-2,objects,bbSet,objects
-Target,bb-target,UI,bbSet,UI
-Thumbtack,bb-thumb-tack,office,bbSet,office
-Thumbs Down,bb-thumbs-down,social,bbSet,social
-Thumbs Up,bb-thumbs-up,social,bbSet,social
-Ticket,bb-ticket,entertainment,bbSet,"entertainment, media"
-Trash,bb-trash,objects,bbSet,objects
-Umbrella,bb-umbrella,objects,bbSet,objects
-Unlocked,bb-unlocked,UI,bbSet,UI
-Update,bb-update,UI,bbSet,UI
-Voicemail,bb-voicemail,social,bbSet,social
-Volume High,bb-vol-high,entertainment,bbSet,"entertainment, media"
-Volume Low,bb-vol-low,entertainment,bbSet,"entertainment, media"
-Volume Medium,bb-vol-med,entertainment,bbSet,"entertainment, media"
-Mute,bb-vol-mute,entertainment,bbSet,"entertainment, media"
-Warning,bb-warning,UI,bbSet,UI
-Wifi,bb-wifi,technology,bbSet,technology
-Woman,bb-woman-turtleneck,people,bbSet,people
-Woman,bb-woman-vneck,people,bbSet,people
-Zoom In,bb-zoom-in,UI,bbSet,UI
-Zoom Out,bb-zoom-out,UI,bbSet,UI
-Infinity,bb-infinity,UI,bbSet,"UI, technology"
-Cherries,bb-cherries,food,bbSet,food
+Alarm Clock,md-alarm-clock,objects,mdSet,"objects, time"
+Bar Chart,md-bar-chart,business,mdSet,business
+Barrel,md-barrel,food,mdSet,food
+Battery,md-battery,technology,mdSet,technology
+BBM,md-bbm,social,mdSet,social
+BB Logo,md-bbry-logo,business,mdSet,business
+Binders,md-binders,office,mdSet,office
+Bluetooth,md-bluetooth,technology,mdSet,technology
+Bookmark,md-bookmark,UI,mdSet,UI
+Bookmark Plus,md-bookmark-plus,UI,mdSet,UI
+Box,md-box-closed,office,mdSet,office
+Box,md-box-open,office,mdSet,office
+Briefcase,md-briefcase,office,mdSet,office
+Buggy,md-buggy,objects,mdSet,objects
+Bullseye,md-bullseye,UI,mdSet,UI
+Calculator,md-calculator,office,mdSet,office
+Calendar,md-calendar,office,mdSet,office
+Calendar Plus,md-calendar-plus,office,mdSet,office
+Incoming Call,md-call-incoming,social,mdSet,social
+Outgoing Call,md-call-outgoing,social,mdSet,social
+Returned Call,md-call-returned,social,mdSet,social
+Camera,md-camera-still,entertainment,mdSet,"entertainment, media"
+Video Camera,md-camera-video,entertainment,mdSet,"entertainment, media"
+Chat Bubble,md-chat-bubble,social,mdSet,social
+Checkmark,md-checked,UI,mdSet,UI
+Circle Arrow Down,md-circle-arrow-down,UI,mdSet,UI
+Circle Arrow Left,md-circle-arrow-left,UI,mdSet,UI
+Circle Arrow Right,md-circle-arrow-right,UI,mdSet,UI
+Circle Arrow Up,md-circle-arrow-up,UI,mdSet,UI
+Go Back,md-circle-back,UI,mdSet,UI
+Go to Beginning,md-circle-beginning,UI,mdSet,UI
+Dollar,md-circle-dollar,business,mdSet,business
+Go to End,md-circle-end,UI,mdSet,UI
+Euro,md-circle-euro,business,mdSet,business
+Facebook,md-circle-facebook-o,social,mdSet,social
+Flickr,md-circle-flickr-o,social,mdSet,social
+Forward,md-circle-forward,UI,mdSet,UI
+Google Plus,md-circle-googleplus-o,social,mdSet,social
+Info,md-circle-info,UI,mdSet,UI
+Info,md-circle-info-1,UI,mdSet,UI
+LinkedIN,md-circle-linkedin-o,social,mdSet,social
+Next,md-circle-next,UI,mdSet,UI
+Open,md-circle-open,UI,mdSet,UI
+Pause,md-circle-pause,UI,mdSet,UI
+Pinterest,md-circle-pinterest-o,social,mdSet,social
+Play,md-circle-play,UI,mdSet,UI
+Play/Pause,md-circle-play-pause,UI,mdSet,UI
+Pound,md-circle-pound,business,mdSet,business
+Previous,md-circle-previous,UI,mdSet,UI
+Question,md-circle-question,UI,mdSet,UI
+Record,md-circle-record,UI,mdSet,UI
+RSS,md-circle-rss-o,social,mdSet,social
+Stop,md-circle-stop,UI,mdSet,UI
+Twitter,md-circle-twitter-bird-o,social,mdSet,social
+Twitter,md-circle-twitter-o,social,mdSet,social
+Vimeo,md-circle-vimeo-o,social,mdSet,social
+YouTube,md-circle-youtube-o,social,mdSet,social
+Clipboard,md-clipboard,office,mdSet,office
+Clock,md-clock,office,mdSet,office
+Close,md-close,UI,mdSet,UI
+Cloud,md-cloud,technology,mdSet,technology
+Cloud Download,md-cloud-download,technology,mdSet,technology
+Cloud Upload,md-cloud-upload,technology,mdSet,technology
+Compass,md-compass,UI,mdSet,UI
+Contacts,md-contacts,UI,mdSet,UI
+BBM Contacts,md-contacts-bbm,social,mdSet,social
+Contacts Plus,md-contacts-plus,social,mdSet,social
+Credit Cards,md-credit-cards,business,mdSet,business
+Desk Lamp,md-desk-lamp,office,mdSet,office
+Document,md-document,office,mdSet,office
+Eighth Notes,md-eighth-notes,entertainment,mdSet,"entertainment, media"
+Full Screen,md-envelope-open,UI,mdSet,UI
+Exit Full Screen,md-exit-full-screen,UI,mdSet,UI
+Exit Full Screen,md-exit-full-screen-1,UI,mdSet,UI
+Film Strip,md-film-strip,entertainment,mdSet,"entertainment, media"
+Flag,md-flag-1,objects,mdSet,objects
+Chequered flag,md-flag-chequered-1,sports,mdSet,sports
+Chequered flag,md-flag-chequered-2,sports,mdSet,sports
+Golf Flag,md-flag-golf,sports,mdSet,sports
+Golf Green,md-flag-golf-green,sports,mdSet,sports
+Folder Closed,md-folder-closed,office,mdSet,office
+Folder Open,md-folder-open,office,mdSet,office
+Font Size,md-font-size,UI,mdSet,UI
+Footprints,md-footprints,people,mdSet,people
+Fountain Pen,md-fountain-pen,office,mdSet,office
+Full Screen,md-full-screen,UI,mdSet,UI
+Glasses,md-glasses-2,people,mdSet,people
+Glasses,md-glasses-3,people,mdSet,people
+Gear,md-gear,UI,mdSet,UI
+Glasses,md-glasses-1,people,mdSet,people
+Group,md-group,people,mdSet,people
+Hand Truck,md-hand-truck,office,mdSet,office
+Headphones,md-headphones,entertainment,mdSet,"entertainment, media"
+Heart,md-heart,UI,mdSet,UI
+Home,md-home,UI,mdSet,UI
+Home Plus,md-home-plus,UI,mdSet,UI
+Key,md-key,objects,mdSet,objects
+Utensils,md-knife-fork,food,mdSet,food
+Place Setting,md-knife-fork-plate,food,mdSet,food
+iPod,md-layer-10,entertainment,mdSet,"entertainment, media"
+Web Link,md-link1,UI,mdSet,UI
+Web Link,md-link2,UI,mdSet,UI
+Locked,md-locked,UI,mdSet,UI
+Magic 8 Ball,md-magic8-ball,objects,mdSet,objects
+Magnifying Glass,md-magnifying-glass,objects,mdSet,objects
+Mail,md-mail,office,mdSet,office
+Man,md-man-turtleneck,people,mdSet,people
+Man,md-man-vneck,people,mdSet,people
+Map Marker,md-map-marker,objects,mdSet,objects
+Megaphone,md-megaphone,objects,mdSet,objects
+Main Menu,md-main-menu,UI,mdSet,UI
+Menu Overflow,md-menu-overflow,UI,mdSet,UI
+Retro Mic,md-mic-retro,entertainment,mdSet,"entertainment, media"
+Mobile,md-mobile,technology,mdSet,"technology, social"
+Monitor,md-monitor,technology,mdSet,technology
+Moon & Stars,md-moon-stars,nature,mdSet,nature
+Motorcycle,md-motor-bike,travel,mdSet,travel
+No Entry,md-no-entry,UI,mdSet,UI
+Notification,md-notification,UI,mdSet,UI
+Paint Brush,md-paint-brush,entertainment,mdSet,"entertainment, media"
+Paint Bucket,md-paint-bucket,entertainment,mdSet,"entertainment, media"
+Paint Palette,md-paint-pallett,entertainment,mdSet,"entertainment, media"
+Pawprint,md-pawprint,nature,mdSet,nature
+Pencil,md-pencil,office,mdSet,office
+Photos,md-photos,entertainment,mdSet,"entertainment, media"
+Piano Keys,md-piano-keys,entertainment,mdSet,"entertainment, media"
+Pie Chart,md-pie-chart,business,mdSet,business
+Poaroid,md-polaroid-tulip,entertainment,mdSet,entertainment
+Printer,md-printer,office,mdSet,"office, technology"
+Radio,md-radio,entertainment,mdSet,"entertainment, media"
+Refresh,md-refresh,UI,mdSet,UI
+Reload,md-reload,UI,mdSet,UI
+Reply,md-reply,social,mdSet,social
+Ring Buoy,md-ring-buoy,objects,mdSet,objects
+Roller Blade,md-roller-blade,objects,mdSet,objects
+Sciissors,md-scissors,office,mdSet,office
+Scooter,md-scooter,travel,mdSet,travel
+Screen,md-screen,technology,mdSet,technology
+Send,md-send,UI,mdSet,UI
+Server,md-server,technology,mdSet,technology
+Shamrock,md-shamrock,objects,mdSet,objects
+Share,md-share,UI,mdSet,UI
+Signal,md-signal,technology,mdSet,technology
+Signs,md-signs,objects,mdSet,objects
+RSS,md-rss,social,mdSet,social
+BB Spark,md-circle-spark,social,mdSet,social
+Back,md-square-back,UI,mdSet,UI
+Beginning,md-square-beginning,UI,mdSet,UI
+End,md-square-end,UI,mdSet,UI
+Facebook,md-square-facebook,social,mdSet,social
+Flickr,md-square-flickr,social,mdSet,social
+Forward,md-square-forward,UI,mdSet,UI
+Goolge Plus,md-square-googleplus,social,mdSet,social
+Web Link,md-square-link,UI,mdSet,UI
+LinkedIN,md-square-linkedin,social,mdSet,social
+Next,md-square-next,UI,mdSet,UI
+Open,md-square-open,UI,mdSet,UI
+Pause,md-square-pause,UI,mdSet,UI
+Pinterest,md-square-pinterest,social,mdSet,social
+Play,md-square-play,UI,mdSet,UI
+Previous,md-square-previous,UI,mdSet,UI
+Record,md-square-record,UI,mdSet,UI
+Repeat,md-square-repeat,UI,mdSet,UI
+RSS,md-square-rss,social,mdSet,social
+Shuffle,md-square-shuffle,UI,mdSet,UI
+Stop,md-square-stop,UI,mdSet,UI
+Twitter,md-square-twitter,social,mdSet,social
+Twitter,md-square-twitter-bird,social,mdSet,social
+Vimeo,md-square-vimeo,social,mdSet,social
+YouTube,md-square-youtube,social,mdSet,social
+Star,md-star,nature,mdSet,nature
+Sticky,md-sticky,office,mdSet,office
+Stop Sign,md-stop-sign,travel,mdSet,travel
+Stop Watch,md-stopwatch,sports,mdSet,sports
+Suitcase,md-suitcase,travel,mdSet,travel
+Suitcase,md-suitcase-wheels,travel,mdSet,travel
+Sun,md-sun-1,nature,mdSet,nature
+Sun,md-sun-2,nature,mdSet,nature
+Tag,md-tag-1,objects,mdSet,objects
+Tag,md-tag-2,objects,mdSet,objects
+Target,md-target,UI,mdSet,UI
+Thumbtack,md-thumb-tack,office,mdSet,office
+Thumbs Down,md-thumbs-down,social,mdSet,social
+Thumbs Up,md-thumbs-up,social,mdSet,social
+Ticket,md-ticket,entertainment,mdSet,"entertainment, media"
+Trash,md-trash,objects,mdSet,objects
+Umbrella,md-umbrella,objects,mdSet,objects
+Unlocked,md-unlocked,UI,mdSet,UI
+Update,md-update,UI,mdSet,UI
+Voicemail,md-voicemail,social,mdSet,social
+Volume High,md-vol-high,entertainment,mdSet,"entertainment, media"
+Volume Low,md-vol-low,entertainment,mdSet,"entertainment, media"
+Volume Medium,md-vol-med,entertainment,mdSet,"entertainment, media"
+Mute,md-vol-mute,entertainment,mdSet,"entertainment, media"
+Warning,md-warning,UI,mdSet,UI
+Wifi,md-wifi,technology,mdSet,technology
+Woman,md-woman-turtleneck,people,mdSet,people
+Woman,md-woman-vneck,people,mdSet,people
+Zoom In,md-zoom-in,UI,mdSet,UI
+Zoom Out,md-zoom-out,UI,mdSet,UI
+Infinity,md-infinity,UI,mdSet,"UI, technology"
+Cherries,md-cherries,food,mdSet,food
 Asterisk,glyphicon glyphicon-asterisk,UI,glyphSet,UI
 Plus,glyphicon glyphicon-plus,UI,glyphSet,UI
 Euro,glyphicon glyphicon-euro,business,glyphSet,business
@@ -1021,7 +1021,7 @@ image,ion-image,,ionicSet,
 images,ion-images,,ionicSet,
 information,ion-information,,ionicSet,
 information-circled,ion-information-circled,,ionicSet,
-ionicSet,ion-ionicSet,,ionicSet,
+ionic,ion-ionic,,ionicSet,
 alarm,ion-ios-alarm,,ionicSet,ios
 alarm-outline,ion-ios-alarm-outline,,ionicSet,ios
 albums,ion-ios-albums,,ionicSet,ios
@@ -1157,7 +1157,6 @@ infinite-outline,ion-ios-infinite-outline,,ionicSet,ios
 information,ion-ios-information,,ionicSet,ios
 information-empty,ion-ios-information-empty,,ionicSet,ios
 information-outline,ion-ios-information-outline,,ionicSet,ios
-ionicSet-outline,ion-ios-ionicSet-outline,,ionicSet,ios
 keypad,ion-ios-keypad,,ionicSet,ios
 keypad-outline,ion-ios-keypad-outline,,ionicSet,ios
 lightbulb,ion-ios-lightbulb,,ionicSet,ios

@@ -31,7 +31,7 @@
 
 <div data-role="header" data-id="header" id="header" data-tap-toggle="false">
 			        
-<div id="sliderMenu"><a id="simple-menu" href="#sidr"><i class="md-main-menu" ></i></a></div>
+<div id="sliderMenu"><a id="simple-menu" href="#sidr"><i class="bb-main-menu" ></i></a></div>
 			   
 <!-- SEARCH -->								  
 <div id="mySearch"><input type="text" name="search" id="search" placeholder="Search"   />
@@ -40,13 +40,13 @@
        
 <!-- VIEW ALL -->		
 <div id="view-all" class="btn-navbar showAll">
-    <a href="#" id="btnShowAll"><i class="md-infinity"></i></a>
+    <a href="#" id="btnShowAll"><i class="bb-infinity"></i></a>
      View All
 </div>	<!-- //viewAll -->
     
 <!-- VIEW MY PICKS -->		
 <div id="view-my-picks" class="btn-navbar showMyPicks">
-    <a href="#" id="btnShowPicks"><i class="md-star"></i></a>
+    <a href="#" id="btnShowPicks"><i class="bb-star"></i></a>
     My Picks
 </div>	<!-- //viewPicks -->    
     
@@ -58,7 +58,7 @@
     
 <!-- PRINT -->		
 <div id="print" class="btn-navbar">
-<a href="picksList.html" rel="external" title="Print a list of my icons" id="btnPrinter"><i class="md-printer"></i></a>
+<a href="picksList.html" rel="external" title="Print a list of my icons" id="btnPrinter"><i class="bb-printer"></i></a>
     &nbsp; &nbsp; &nbsp;Print
 </div>	<!-- //print -->
     
@@ -80,12 +80,12 @@
 	<li>
 	<h2><a href="#" id="setToggle"><i class="fa fa-play fa-rotate-90"></i>Icon Set</a></h2>
 	<ul id="setGroup" class="menu">
-		<li id="myPicks" class="showMyPicks" data-category-value ="mypicks"><a href="#"><i class="ion-star" style="padding-left:0;margin-left:6px;!important"></i>
+		<li id="myPicks" class="showMyPicks" data-category-value ="mypicks"><a href="#"><i class="bb-star" style="float:left;margin-top:7px!important"></i>
 	My Picks<div class="count"><span id="picksTotal" class="countTxt">0</span></div></a></li>
 		<li id="faSet"><a href="#"><i class="fa fa-flag"></i>Font Awesome<div class="count"><span id="nFaSet" class="countTxt">0</span></div></a></li>
 		<li id="glyphSet"><a href="#"><i class="fa fa-pencil"></i>Glyphicons<div class="count"><span id="nGlSet" class="countTxt">0</span></div></a></li>
 		<li id="ionicSet"><a href="#"><i class="ion-ionic"></i>Ionic<div class="count"><span id="nIoSet" class="countTxt">0</span></div></a></li>
-		<li id="mdSet"><a href="#"><i class="md-box-open" style="margin-left:-2px!important"></i>Myers Design<div class="count"><span id="nMdSet" class="countTxt">0</span></div></a></li>
+		<li id="bbSet"><a href="#"><i class="bb-box-open"></i>Myers Design<div class="count"><span id="nBbSet" class="countTxt">0</span></div></a></li>
 	</ul>		
 	</li>
 
@@ -93,9 +93,9 @@
 	<li>
 	<h2><a href="#" id="colorToggle"><i class="fa fa-play fa-rotate-90" ></i>Color Scheme:</a></h2>
 	<ul id="colorGroup" class="menu">
-		<li id="dark-theme"><a href="#"><i class="md-paint-bucket"></i>Dark Theme</a></li>
-		<li id="light-theme"><a href="#"><i class="md-paint-bucket"></i>Light Theme</a></li>
-		<li id="steel-blue"><a href="#"><i class="md-paint-bucket"></i>Steel Blue</a></li>
+		<li id="dark-theme"><a href="#"><i class="bb-paint-bucket"></i>Dark Theme</a></li>
+		<li id="light-theme"><a href="#"><i class="bb-paint-bucket"></i>Light Theme</a></li>
+		<li id="steel-blue"><a href="#"><i class="bb-paint-bucket"></i>Steel Blue</a></li>
 	</ul>		
 	</li>
 
@@ -103,18 +103,18 @@
 <li>
 <h2><a href="#" id="browseToggle"><i class="fa fa-play fa-rotate-90"></i>Browse by Category:</a><div id="btnClearCategories" class="btnClear">clear</div></h2>
 <ul id="filterGroup" class="menu">
-	<li data-category-value =".business"><a href="#"><i class="md-circle-dollar"></i>Business<div class="count"><span id="nBusiness" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".entertainment"><a href="#"><i class="md-piano-keys"></i>Entertainment<div class="count"><span id="nEntertainment" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".food"><a href="#"><i class="md-knife-fork"></i>Food &amp; Drink<div class="count"><span id="nFood" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".nature"><a href="#"><i class="md-pawprint"></i>Nature<div class="count"><span id="nNature" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".objects"><a href="#"><i class="md-umbrella"></i>Objects<div class="count"><span id="nObjects" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".office"><a href="#"><i class="md-thumb-tack"></i>Office<div class="count"><span id="nOffice" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".people"><a href="#"><i class="md-man-vneck"></i>People<div class="count"><span id="nPeople" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".social"><a href="#"><i class="md-chat-bubble"></i>Social<div class="count"><span id="nSocial" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".travel"><a href="#"><i class="md-suitcase"></i>Travel<div class="count"><span id="nTravel" class="countTxt">0</span></div></a></li>				       
-	<li data-category-value=".sports"><a href="#"><i class="md-stopwatch"></i>Sports<div class="count"><span id="nSports" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".technology"><a href="#"><i class="md-gear"></i>Technology<div class="count"><span id="nTechnology" class="countTxt">0</span></div></a></li>
-	<li data-category-value=".UI"><a href="#"><i class="md-zoom-in"></i>UI Elements<div class="count"><span id="nUI" class="countTxt">0</span></div></a></li>
+	<li data-category-value =".business"><a href="#"><i class="bb-circle-dollar"></i>Business<div class="count"><span id="nBusiness" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".entertainment"><a href="#"><i class="bb-piano-keys"></i>Entertainment<div class="count"><span id="nEntertainment" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".food"><a href="#"><i class="bb-knife-fork"></i>Food &amp; Drink<div class="count"><span id="nFood" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".nature"><a href="#"><i class="bb-pawprint"></i>Nature<div class="count"><span id="nNature" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".objects"><a href="#"><i class="bb-umbrella"></i>Objects<div class="count"><span id="nObjects" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".office"><a href="#"><i class="bb-thumb-tack"></i>Office<div class="count"><span id="nOffice" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".people"><a href="#"><i class="bb-man-vneck"></i>People<div class="count"><span id="nPeople" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".social"><a href="#"><i class="bb-chat-bubble"></i>Social<div class="count"><span id="nSocial" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".travel"><a href="#"><i class="bb-suitcase"></i>Travel<div class="count"><span id="nTravel" class="countTxt">0</span></div></a></li>				       
+	<li data-category-value=".sports"><a href="#"><i class="bb-stopwatch"></i>Sports<div class="count"><span id="nSports" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".technology"><a href="#"><i class="bb-gear"></i>Technology<div class="count"><span id="nTechnology" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".UI"><a href="#"><i class="bb-zoom-in"></i>UI Elements<div class="count"><span id="nUI" class="countTxt">0</span></div></a></li>
 </ul>	
 </li>
 
@@ -133,6 +133,7 @@
     
 <!--    <script src="js/bootstrap.min.js"></script>-->
     <script src="resources/js/respond.min.js"></script>
+    <script src="resources/js/isoresize.js"></script>
     <script src="resources/js/maraschino.js"></script>	
    <script src="resources/js/maraschino-utils.js"></script>
   
@@ -158,6 +159,7 @@
 	</script>
 	<script src="resources/js/jquery.sidr.min.js"></script>
 	<script src="resources/js/isotope.js"></script>	
+	<script src="resources/js/isoresize.js"></script>
 
 </body>
 </html>

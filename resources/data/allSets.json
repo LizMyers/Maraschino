@@ -2591,1416 +2591,1416 @@
   },
   {
     "name":"Alarm Clock",
-    "symbol":"bb-alarm-clock",
+    "symbol":"md-alarm-clock",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects, time"
   },
   {
     "name":"Bar Chart",
-    "symbol":"bb-bar-chart",
+    "symbol":"md-bar-chart",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Barrel",
-    "symbol":"bb-barrel",
+    "symbol":"md-barrel",
     "category":"food",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"food"
   },
   {
     "name":"Battery",
-    "symbol":"bb-battery",
+    "symbol":"md-battery",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"BBM",
-    "symbol":"bb-bbm",
+    "symbol":"md-bbm",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"BB Logo",
-    "symbol":"bb-bbry-logo",
+    "symbol":"md-bbry-logo",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Binders",
-    "symbol":"bb-binders",
+    "symbol":"md-binders",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Bluetooth",
-    "symbol":"bb-bluetooth",
+    "symbol":"md-bluetooth",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Bookmark",
-    "symbol":"bb-bookmark",
+    "symbol":"md-bookmark",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Bookmark Plus",
-    "symbol":"bb-bookmark-plus",
+    "symbol":"md-bookmark-plus",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Box",
-    "symbol":"bb-box-closed",
+    "symbol":"md-box-closed",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Box",
-    "symbol":"bb-box-open",
+    "symbol":"md-box-open",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Briefcase",
-    "symbol":"bb-briefcase",
+    "symbol":"md-briefcase",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Buggy",
-    "symbol":"bb-buggy",
+    "symbol":"md-buggy",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Bullseye",
-    "symbol":"bb-bullseye",
+    "symbol":"md-bullseye",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Calculator",
-    "symbol":"bb-calculator",
+    "symbol":"md-calculator",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Calendar",
-    "symbol":"bb-calendar",
+    "symbol":"md-calendar",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Calendar Plus",
-    "symbol":"bb-calendar-plus",
+    "symbol":"md-calendar-plus",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Incoming Call",
-    "symbol":"bb-call-incoming",
+    "symbol":"md-call-incoming",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Outgoing Call",
-    "symbol":"bb-call-outgoing",
+    "symbol":"md-call-outgoing",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Returned Call",
-    "symbol":"bb-call-returned",
+    "symbol":"md-call-returned",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Camera",
-    "symbol":"bb-camera-still",
+    "symbol":"md-camera-still",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Video Camera",
-    "symbol":"bb-camera-video",
+    "symbol":"md-camera-video",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Chat Bubble",
-    "symbol":"bb-chat-bubble",
+    "symbol":"md-chat-bubble",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Checkmark",
-    "symbol":"bb-checked",
+    "symbol":"md-checked",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Down",
-    "symbol":"bb-circle-arrow-down",
+    "symbol":"md-circle-arrow-down",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Left",
-    "symbol":"bb-circle-arrow-left",
+    "symbol":"md-circle-arrow-left",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Right",
-    "symbol":"bb-circle-arrow-right",
+    "symbol":"md-circle-arrow-right",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Up",
-    "symbol":"bb-circle-arrow-up",
+    "symbol":"md-circle-arrow-up",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Go Back",
-    "symbol":"bb-circle-back",
+    "symbol":"md-circle-back",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Go to Beginning",
-    "symbol":"bb-circle-beginning",
+    "symbol":"md-circle-beginning",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Dollar",
-    "symbol":"bb-circle-dollar",
+    "symbol":"md-circle-dollar",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Go to End",
-    "symbol":"bb-circle-end",
+    "symbol":"md-circle-end",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Euro",
-    "symbol":"bb-circle-euro",
+    "symbol":"md-circle-euro",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Facebook",
-    "symbol":"bb-circle-facebook-o",
+    "symbol":"md-circle-facebook-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Flickr",
-    "symbol":"bb-circle-flickr-o",
+    "symbol":"md-circle-flickr-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Forward",
-    "symbol":"bb-circle-forward",
+    "symbol":"md-circle-forward",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Google Plus",
-    "symbol":"bb-circle-googleplus-o",
+    "symbol":"md-circle-googleplus-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Info",
-    "symbol":"bb-circle-info",
+    "symbol":"md-circle-info",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Info",
-    "symbol":"bb-circle-info-1",
+    "symbol":"md-circle-info-1",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"LinkedIN",
-    "symbol":"bb-circle-linkedin-o",
+    "symbol":"md-circle-linkedin-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Next",
-    "symbol":"bb-circle-next",
+    "symbol":"md-circle-next",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Open",
-    "symbol":"bb-circle-open",
+    "symbol":"md-circle-open",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Pause",
-    "symbol":"bb-circle-pause",
+    "symbol":"md-circle-pause",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Pinterest",
-    "symbol":"bb-circle-pinterest-o",
+    "symbol":"md-circle-pinterest-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Play",
-    "symbol":"bb-circle-play",
+    "symbol":"md-circle-play",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Play/Pause",
-    "symbol":"bb-circle-play-pause",
+    "symbol":"md-circle-play-pause",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Pound",
-    "symbol":"bb-circle-pound",
+    "symbol":"md-circle-pound",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Previous",
-    "symbol":"bb-circle-previous",
+    "symbol":"md-circle-previous",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Question",
-    "symbol":"bb-circle-question",
+    "symbol":"md-circle-question",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Record",
-    "symbol":"bb-circle-record",
+    "symbol":"md-circle-record",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"RSS",
-    "symbol":"bb-circle-rss-o",
+    "symbol":"md-circle-rss-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Stop",
-    "symbol":"bb-circle-stop",
+    "symbol":"md-circle-stop",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Twitter",
-    "symbol":"bb-circle-twitter-bird-o",
+    "symbol":"md-circle-twitter-bird-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Twitter",
-    "symbol":"bb-circle-twitter-o",
+    "symbol":"md-circle-twitter-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Vimeo",
-    "symbol":"bb-circle-vimeo-o",
+    "symbol":"md-circle-vimeo-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"YouTube",
-    "symbol":"bb-circle-youtube-o",
+    "symbol":"md-circle-youtube-o",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Clipboard",
-    "symbol":"bb-clipboard",
+    "symbol":"md-clipboard",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Clock",
-    "symbol":"bb-clock",
+    "symbol":"md-clock",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Close",
-    "symbol":"bb-close",
+    "symbol":"md-close",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Cloud",
-    "symbol":"bb-cloud",
+    "symbol":"md-cloud",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Cloud Download",
-    "symbol":"bb-cloud-download",
+    "symbol":"md-cloud-download",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Cloud Upload",
-    "symbol":"bb-cloud-upload",
+    "symbol":"md-cloud-upload",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Compass",
-    "symbol":"bb-compass",
+    "symbol":"md-compass",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Contacts",
-    "symbol":"bb-contacts",
+    "symbol":"md-contacts",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"BBM Contacts",
-    "symbol":"bb-contacts-bbm",
+    "symbol":"md-contacts-bbm",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Contacts Plus",
-    "symbol":"bb-contacts-plus",
+    "symbol":"md-contacts-plus",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Credit Cards",
-    "symbol":"bb-credit-cards",
+    "symbol":"md-credit-cards",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Desk Lamp",
-    "symbol":"bb-desk-lamp",
+    "symbol":"md-desk-lamp",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Document",
-    "symbol":"bb-document",
+    "symbol":"md-document",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Eighth Notes",
-    "symbol":"bb-eighth-notes",
+    "symbol":"md-eighth-notes",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Full Screen",
-    "symbol":"bb-envelope-open",
+    "symbol":"md-envelope-open",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Exit Full Screen",
-    "symbol":"bb-exit-full-screen",
+    "symbol":"md-exit-full-screen",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Exit Full Screen",
-    "symbol":"bb-exit-full-screen-1",
+    "symbol":"md-exit-full-screen-1",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Film Strip",
-    "symbol":"bb-film-strip",
+    "symbol":"md-film-strip",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Flag",
-    "symbol":"bb-flag-1",
+    "symbol":"md-flag-1",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Chequered flag",
-    "symbol":"bb-flag-chequered-1",
+    "symbol":"md-flag-chequered-1",
     "category":"sports",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"sports"
   },
   {
     "name":"Chequered flag",
-    "symbol":"bb-flag-chequered-2",
+    "symbol":"md-flag-chequered-2",
     "category":"sports",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"sports"
   },
   {
     "name":"Golf Flag",
-    "symbol":"bb-flag-golf",
+    "symbol":"md-flag-golf",
     "category":"sports",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"sports"
   },
   {
     "name":"Golf Green",
-    "symbol":"bb-flag-golf-green",
+    "symbol":"md-flag-golf-green",
     "category":"sports",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"sports"
   },
   {
     "name":"Folder Closed",
-    "symbol":"bb-folder-closed",
+    "symbol":"md-folder-closed",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Folder Open",
-    "symbol":"bb-folder-open",
+    "symbol":"md-folder-open",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Font Size",
-    "symbol":"bb-font-size",
+    "symbol":"md-font-size",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Footprints",
-    "symbol":"bb-footprints",
+    "symbol":"md-footprints",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Fountain Pen",
-    "symbol":"bb-fountain-pen",
+    "symbol":"md-fountain-pen",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Full Screen",
-    "symbol":"bb-full-screen",
+    "symbol":"md-full-screen",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Glasses",
-    "symbol":"bb-glasses-2",
+    "symbol":"md-glasses-2",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Glasses",
-    "symbol":"bb-glasses-3",
+    "symbol":"md-glasses-3",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Gear",
-    "symbol":"bb-gear",
+    "symbol":"md-gear",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Glasses",
-    "symbol":"bb-glasses-1",
+    "symbol":"md-glasses-1",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Group",
-    "symbol":"bb-group",
+    "symbol":"md-group",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Hand Truck",
-    "symbol":"bb-hand-truck",
+    "symbol":"md-hand-truck",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Headphones",
-    "symbol":"bb-headphones",
+    "symbol":"md-headphones",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Heart",
-    "symbol":"bb-heart",
+    "symbol":"md-heart",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Home",
-    "symbol":"bb-home",
+    "symbol":"md-home",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Home Plus",
-    "symbol":"bb-home-plus",
+    "symbol":"md-home-plus",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Key",
-    "symbol":"bb-key",
+    "symbol":"md-key",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Utensils",
-    "symbol":"bb-knife-fork",
+    "symbol":"md-knife-fork",
     "category":"food",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"food"
   },
   {
     "name":"Place Setting",
-    "symbol":"bb-knife-fork-plate",
+    "symbol":"md-knife-fork-plate",
     "category":"food",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"food"
   },
   {
     "name":"iPod",
-    "symbol":"bb-layer-10",
+    "symbol":"md-layer-10",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Web Link",
-    "symbol":"bb-link1",
+    "symbol":"md-link1",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Web Link",
-    "symbol":"bb-link2",
+    "symbol":"md-link2",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Locked",
-    "symbol":"bb-locked",
+    "symbol":"md-locked",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Magic 8 Ball",
-    "symbol":"bb-magic8-ball",
+    "symbol":"md-magic8-ball",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Magnifying Glass",
-    "symbol":"bb-magnifying-glass",
+    "symbol":"md-magnifying-glass",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Mail",
-    "symbol":"bb-mail",
+    "symbol":"md-mail",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Man",
-    "symbol":"bb-man-turtleneck",
+    "symbol":"md-man-turtleneck",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Man",
-    "symbol":"bb-man-vneck",
+    "symbol":"md-man-vneck",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Map Marker",
-    "symbol":"bb-map-marker",
+    "symbol":"md-map-marker",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Megaphone",
-    "symbol":"bb-megaphone",
+    "symbol":"md-megaphone",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Main Menu",
-    "symbol":"bb-main-menu",
+    "symbol":"md-main-menu",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Menu Overflow",
-    "symbol":"bb-menu-overflow",
+    "symbol":"md-menu-overflow",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Retro Mic",
-    "symbol":"bb-mic-retro",
+    "symbol":"md-mic-retro",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Mobile",
-    "symbol":"bb-mobile",
+    "symbol":"md-mobile",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology, social"
   },
   {
     "name":"Monitor",
-    "symbol":"bb-monitor",
+    "symbol":"md-monitor",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Moon & Stars",
-    "symbol":"bb-moon-stars",
+    "symbol":"md-moon-stars",
     "category":"nature",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"nature"
   },
   {
     "name":"Motorcycle",
-    "symbol":"bb-motor-bike",
+    "symbol":"md-motor-bike",
     "category":"travel",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"travel"
   },
   {
     "name":"No Entry",
-    "symbol":"bb-no-entry",
+    "symbol":"md-no-entry",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Notification",
-    "symbol":"bb-notification",
+    "symbol":"md-notification",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Paint Brush",
-    "symbol":"bb-paint-brush",
+    "symbol":"md-paint-brush",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Paint Bucket",
-    "symbol":"bb-paint-bucket",
+    "symbol":"md-paint-bucket",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Paint Palette",
-    "symbol":"bb-paint-pallett",
+    "symbol":"md-paint-pallett",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Pawprint",
-    "symbol":"bb-pawprint",
+    "symbol":"md-pawprint",
     "category":"nature",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"nature"
   },
   {
     "name":"Pencil",
-    "symbol":"bb-pencil",
+    "symbol":"md-pencil",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Photos",
-    "symbol":"bb-photos",
+    "symbol":"md-photos",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Piano Keys",
-    "symbol":"bb-piano-keys",
+    "symbol":"md-piano-keys",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Pie Chart",
-    "symbol":"bb-pie-chart",
+    "symbol":"md-pie-chart",
     "category":"business",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"business"
   },
   {
     "name":"Poaroid",
-    "symbol":"bb-polaroid-tulip",
+    "symbol":"md-polaroid-tulip",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment"
   },
   {
     "name":"Printer",
-    "symbol":"bb-printer",
+    "symbol":"md-printer",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office, technology"
   },
   {
     "name":"Radio",
-    "symbol":"bb-radio",
+    "symbol":"md-radio",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Refresh",
-    "symbol":"bb-refresh",
+    "symbol":"md-refresh",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Reload",
-    "symbol":"bb-reload",
+    "symbol":"md-reload",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Reply",
-    "symbol":"bb-reply",
+    "symbol":"md-reply",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Ring Buoy",
-    "symbol":"bb-ring-buoy",
+    "symbol":"md-ring-buoy",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Roller Blade",
-    "symbol":"bb-roller-blade",
+    "symbol":"md-roller-blade",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Sciissors",
-    "symbol":"bb-scissors",
+    "symbol":"md-scissors",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Scooter",
-    "symbol":"bb-scooter",
+    "symbol":"md-scooter",
     "category":"travel",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"travel"
   },
   {
     "name":"Screen",
-    "symbol":"bb-screen",
+    "symbol":"md-screen",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Send",
-    "symbol":"bb-send",
+    "symbol":"md-send",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Server",
-    "symbol":"bb-server",
+    "symbol":"md-server",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Shamrock",
-    "symbol":"bb-shamrock",
+    "symbol":"md-shamrock",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Share",
-    "symbol":"bb-share",
+    "symbol":"md-share",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Signal",
-    "symbol":"bb-signal",
+    "symbol":"md-signal",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Signs",
-    "symbol":"bb-signs",
+    "symbol":"md-signs",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"RSS",
-    "symbol":"bb-rss",
+    "symbol":"md-rss",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"BB Spark",
-    "symbol":"bb-circle-spark",
+    "symbol":"md-circle-spark",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Back",
-    "symbol":"bb-square-back",
+    "symbol":"md-square-back",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Beginning",
-    "symbol":"bb-square-beginning",
+    "symbol":"md-square-beginning",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"End",
-    "symbol":"bb-square-end",
+    "symbol":"md-square-end",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Facebook",
-    "symbol":"bb-square-facebook",
+    "symbol":"md-square-facebook",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Flickr",
-    "symbol":"bb-square-flickr",
+    "symbol":"md-square-flickr",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Forward",
-    "symbol":"bb-square-forward",
+    "symbol":"md-square-forward",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Goolge Plus",
-    "symbol":"bb-square-googleplus",
+    "symbol":"md-square-googleplus",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Web Link",
-    "symbol":"bb-square-link",
+    "symbol":"md-square-link",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"LinkedIN",
-    "symbol":"bb-square-linkedin",
+    "symbol":"md-square-linkedin",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Next",
-    "symbol":"bb-square-next",
+    "symbol":"md-square-next",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Open",
-    "symbol":"bb-square-open",
+    "symbol":"md-square-open",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Pause",
-    "symbol":"bb-square-pause",
+    "symbol":"md-square-pause",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Pinterest",
-    "symbol":"bb-square-pinterest",
+    "symbol":"md-square-pinterest",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Play",
-    "symbol":"bb-square-play",
+    "symbol":"md-square-play",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Previous",
-    "symbol":"bb-square-previous",
+    "symbol":"md-square-previous",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Record",
-    "symbol":"bb-square-record",
+    "symbol":"md-square-record",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Repeat",
-    "symbol":"bb-square-repeat",
+    "symbol":"md-square-repeat",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"RSS",
-    "symbol":"bb-square-rss",
+    "symbol":"md-square-rss",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Shuffle",
-    "symbol":"bb-square-shuffle",
+    "symbol":"md-square-shuffle",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Stop",
-    "symbol":"bb-square-stop",
+    "symbol":"md-square-stop",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Twitter",
-    "symbol":"bb-square-twitter",
+    "symbol":"md-square-twitter",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Twitter",
-    "symbol":"bb-square-twitter-bird",
+    "symbol":"md-square-twitter-bird",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Vimeo",
-    "symbol":"bb-square-twitter-vimeo",
+    "symbol":"md-square-vimeo",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"YouTube",
-    "symbol":"bb-square-youtube",
+    "symbol":"md-square-youtube",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Star",
-    "symbol":"bb-star",
+    "symbol":"md-star",
     "category":"nature",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"nature"
   },
   {
     "name":"Sticky",
-    "symbol":"bb-sticky",
+    "symbol":"md-sticky",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Stop Sign",
-    "symbol":"bb-stop-sign",
+    "symbol":"md-stop-sign",
     "category":"travel",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"travel"
   },
   {
     "name":"Stop Watch",
-    "symbol":"bb-stopwatch",
+    "symbol":"md-stopwatch",
     "category":"sports",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"sports"
   },
   {
     "name":"Suitcase",
-    "symbol":"bb-suitcase",
+    "symbol":"md-suitcase",
     "category":"travel",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"travel"
   },
   {
     "name":"Suitcase",
-    "symbol":"bb-suitcase-wheels",
+    "symbol":"md-suitcase-wheels",
     "category":"travel",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"travel"
   },
   {
     "name":"Sun",
-    "symbol":"bb-sun-1",
+    "symbol":"md-sun-1",
     "category":"nature",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"nature"
   },
   {
     "name":"Sun",
-    "symbol":"bb-sun-2",
+    "symbol":"md-sun-2",
     "category":"nature",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"nature"
   },
   {
     "name":"Tag",
-    "symbol":"bb-tag-1",
+    "symbol":"md-tag-1",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Tag",
-    "symbol":"bb-tag-2",
+    "symbol":"md-tag-2",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Target",
-    "symbol":"bb-target",
+    "symbol":"md-target",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Thumbtack",
-    "symbol":"bb-thumb-tack",
+    "symbol":"md-thumb-tack",
     "category":"office",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"office"
   },
   {
     "name":"Thumbs Down",
-    "symbol":"bb-thumbs-down",
+    "symbol":"md-thumbs-down",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Thumbs Up",
-    "symbol":"bb-thumbs-up",
+    "symbol":"md-thumbs-up",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Ticket",
-    "symbol":"bb-ticket",
+    "symbol":"md-ticket",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Trash",
-    "symbol":"bb-trash",
+    "symbol":"md-trash",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Umbrella",
-    "symbol":"bb-umbrella",
+    "symbol":"md-umbrella",
     "category":"objects",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"objects"
   },
   {
     "name":"Unlocked",
-    "symbol":"bb-unlocked",
+    "symbol":"md-unlocked",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Update",
-    "symbol":"bb-update",
+    "symbol":"md-update",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Voicemail",
-    "symbol":"bb-voicemail",
+    "symbol":"md-voicemail",
     "category":"social",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"social"
   },
   {
     "name":"Volume High",
-    "symbol":"bb-vol-high",
+    "symbol":"md-vol-high",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Volume Low",
-    "symbol":"bb-vol-low",
+    "symbol":"md-vol-low",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Volume Medium",
-    "symbol":"bb-vol-med",
+    "symbol":"md-vol-med",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Mute",
-    "symbol":"bb-vol-mute",
+    "symbol":"md-vol-mute",
     "category":"entertainment",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"entertainment, media"
   },
   {
     "name":"Warning",
-    "symbol":"bb-warning",
+    "symbol":"md-warning",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Wifi",
-    "symbol":"bb-wifi",
+    "symbol":"md-wifi",
     "category":"technology",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"technology"
   },
   {
     "name":"Woman",
-    "symbol":"bb-woman-turtleneck",
+    "symbol":"md-woman-turtleneck",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Woman",
-    "symbol":"bb-woman-vneck",
+    "symbol":"md-woman-vneck",
     "category":"people",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"people"
   },
   {
     "name":"Zoom In",
-    "symbol":"bb-zoom-in",
+    "symbol":"md-zoom-in",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Zoom Out",
-    "symbol":"bb-zoom-out",
+    "symbol":"md-zoom-out",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI"
   },
   {
     "name":"Infinity",
-    "symbol":"bb-infinity",
+    "symbol":"md-infinity",
     "category":"UI",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"UI, technology"
   },
   {
     "name":"Cherries",
-    "symbol":"bb-cherries",
+    "symbol":"md-cherries",
     "category":"food",
-    "set":"bbSet",
+    "set":"mdSet",
     "keywords":"food"
   },
   {
@@ -7154,8 +7154,8 @@
     "keywords":""
   },
   {
-    "name":"ionicSet",
-    "symbol":"ion-ionicSet",
+    "name":"ionic",
+    "symbol":"ion-ionic",
     "category":"",
     "set":"ionicSet",
     "keywords":""
@@ -8101,13 +8101,6 @@
   {
     "name":"information-outline",
     "symbol":"ion-ios-information-outline",
-    "category":"",
-    "set":"ionicSet",
-    "keywords":"ios"
-  },
-  {
-    "name":"ionicSet-outline",
-    "symbol":"ion-ios-ionicSet-outline",
     "category":"",
     "set":"ionicSet",
     "keywords":"ios"

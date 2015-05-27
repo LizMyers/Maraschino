@@ -1,3 +1,7 @@
+// Maraschino-Utils.js 
+// by Liz Myers
+// May 27, 2015
+
 var Utils = {
     
     displayIcons: function(allSets) {
@@ -18,7 +22,7 @@ var Utils = {
 			
         var icon='';
         var i=0;
-        var nBbSet=0;
+        var nMdSet=0;
         var nFaSet=0;
         var nGlSet=0;
         var nIoSet=0;
@@ -33,9 +37,9 @@ var Utils = {
                 var keywords = icon.keywords;
 
                 switch(set) {
-                        case "bbSet":
-                          nBbSet++;
-                         //console.log("bb10: "+nBbSet)
+                        case "mdSet":
+                          nMdSet++;
+                         console.log("MD: "+nMdSet)
                         break;
                         case "faSet":
                          //console.log("font-awesome: "+nFaSet);
@@ -113,15 +117,15 @@ var Utils = {
                         //console.log("UI: "+nUI);
                     break; 
                 }
-                if (code.substr(0, 2)=="fa") {
+               // if (code.substr(0, 2)=="fa") {
                     var author = icon.set;
-                    var symbol = "fa "+icon.symbol;  //font-awesome classes require fa-prefix
+                    var symbol = icon.symbol;  
                     var myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
                     var index = $.inArray(JSON.stringify(i+1), myPicksArray);
                     var isMyPick = ((index!==-1) && ((i+1)==myPicksArray[index])) ? "mypicks" : "";
                         if (isMyPick == "mypicks") {
                             var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star faveShow"></b></div>'+
+                                            '<div class="faveHide"><b class="md-star faveShow"></b></div>'+
                                             '<p class="number">'+(i+1)+'</p>'+
                                             '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
                                             '<p class="name">'+name+'</p>'+
@@ -131,7 +135,7 @@ var Utils = {
                                             '</div>';
                         } else {						
                             var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star"></b></div>'+
+                                            '<div class="faveHide"><b class="md-star"></b></div>'+
                                             '<p class="number">'+(i+1)+'</p>'+
                                             '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
                                             '<p class="name">'+name+'</p>'+
@@ -140,98 +144,14 @@ var Utils = {
                                             '<p class="keywords">'+keywords+'</p>'+
                                             '</div>';
                         }//end if isMyPick
-                } else if (code.substr(0, 2)=="bb") {
-                    var author = icon.set;
-                    var symbol = icon.symbol;
-                    var keywords = icon.keywords;
-                    var myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
-                    var index = $.inArray(JSON.stringify(i+1), myPicksArray);
-                    var isMyPick = ((index!==-1) && ((i+1)==myPicksArray[index])) ? "mypicks" : "";	        	
-                        if (isMyPick == "mypicks") {
-                            var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star faveShow"></b></div>'+
-                                            '<p class="number">'+(i+1)+'</p>'+
-                                            '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
-                                            '<p class="name">'+name+'</p>'+
-                                            '<p class="code">'+code+'</p>'+
-                                            '<p class="set">'+author+'</p>'+
-                                            '<p class="keywords">'+keywords+'</p>'+
-                                            '</div>';									
-                        } else {						
-                            var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star"></b></div>'+
-                                            '<p class="number">'+(i+1)+'</p>'+
-                                            '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
-                                            '<p class="name">'+name+'</p>'+
-                                            '<p class="code">'+code+'</p>'+
-                                            '<p class="set">'+author+'</p>'+
-                                            '<p class="keywords">'+keywords+'</p>'+
-                                            '</div>';
-                        }//end if isMyPick
-                    } else if (code.substr(0, 2)=="gl") {
-                    var author = icon.set;
-                    var symbol = icon.symbol;
-                    var keywords = icon.keywords;
-                    var myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
-                    var index = $.inArray(JSON.stringify(i+1), myPicksArray);
-                    var isMyPick = ((index!==-1) && ((i+1)==myPicksArray[index])) ? "mypicks" : "";	        	
-                        if (isMyPick == "mypicks") {
-                            var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star faveShow"></b></div>'+
-                                            '<p class="number">'+(i+1)+'</p>'+
-                                            '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
-                                            '<p class="name">'+name+'</p>'+
-                                            '<p class="code">'+code+'</p>'+
-                                            '<p class="set">'+author+'</p>'+
-                                            '<p class="keywords">'+keywords+'</p>'+
-                                            '</div>';									
-                        } else {						
-                            var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star"></b></div>'+
-                                            '<p class="number">'+(i+1)+'</p>'+
-                                            '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
-                                            '<p class="name">'+name+'</p>'+
-                                            '<p class="code">'+code+'</p>'+
-                                            '<p class="set">'+author+'</p>'+
-                                            '<p class="keywords">'+keywords+'</p>'+
-                                            '</div>';
-                        }//end if isMyPick
-                    } else if (code.substr(0, 2)=="io") {
-                    var author = icon.set;
-                    var symbol = icon.symbol;
-                    var keywords = icon.keywords;
-                    var myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
-                    var index = $.inArray(JSON.stringify(i+1), myPicksArray);
-                    var isMyPick = ((index!==-1) && ((i+1)==myPicksArray[index])) ? "mypicks" : "";             
-                        if (isMyPick == "mypicks") {
-                            var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'"title="'+code+'">'+
-                                            '<div class="faveHide"><b class="bb-star faveShow"></b></div>'+
-                                            '<p class="number">'+(i+1)+'</p>'+
-                                            '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
-                                            '<p class="name">'+name+'</p>'+
-                                            '<p class="code">'+code+'</p>'+
-                                            '<p class="set">'+author+'</p>'+
-                                            '<p class="keywords">'+keywords+'</p>'+
-                                            '</div>';                                   
-                        } else {                        
-                            var item = '<div data-title="'+symbol+'"class="hvr-sweep-to-top item '+category+' '+author+' '+isMyPick+'"data-id="'+i+'"data-category="'+category+'"data-libe="'+set+'">'+
-                                            '<div class="faveHide"><b class="bb-star"></b></div>'+
-                                            '<p class="number">'+(i+1)+'</p>'+
-                                            '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
-                                            '<p class="name">'+name+'</p>'+
-                                            '<p class="code">'+code+'</p>'+
-                                            '<p class="set">'+author+'</p>'+
-                                            '<p class="keywords">'+keywords+'</p>'+
-                                            '</div>';
-                        }//end if isMyPick
-                }//end if ionicons
-
+                
+            
                 //UPDATE COUNT TOTALS
-                $('#nBbSet').text(nBbSet);
+                $('#nMdSet').text(nMdSet);
                 $('#nFaSet').text(nFaSet);
                 $('#nGlSet').text(nGlSet);
                 $('#nIoSet').text(nIoSet);
-                $('#iconsTotal').text(i+1);
+                //$('#iconsTotal').text(i+1);
                 
                 $('#container').append(item);
                 

@@ -88,7 +88,7 @@ span#logo {
 	color:white!important;
 	text-decoration: none!important;
 }
-.bb-main-menu:hover {
+.md-main-menu:hover {
     color:#f64444!important;
 }
 #pageTitle{
@@ -227,14 +227,14 @@ color:  #999;
 	width:32%;
 	border:0px solid yellow!important;
 }
-#btnDownload .fa-download, #btnEraser .fa-eraser, #btnPrinter .bb-printer
-#btnShowAll .bb-infinity, #btnShowPicks .bb-star {
+#btnDownload .fa-download, #btnEraser .fa-eraser, #btnPrinter .md-printer
+#btnShowAll .md-infinity, #btnShowPicks .md-star {
     float:left;
     margin:3px -10px 0 15px;
     padding:0;
     line-height: 1.5em;
 }
-#btnShowPicks .bb-star {
+#btnShowPicks .md-star {
     line-height: 1.95em!important;
 }
 
@@ -254,7 +254,7 @@ color:  #999;
     border:0px solid yellow!important;
 }
 
-#btnShowPicks .bb-star {
+#btnShowPicks .md-star {
     margin-top:2px;
     margin-right:-16px;
     padding:0;
@@ -272,12 +272,12 @@ color:  #999;
 
 #view-all:hover, #view-my-picks:hover {background:#f64444!important;}
 
-#view-all .bb-infinity {
+#view-all .md-infinity {
     margin:0;
     padding:0;
 /*    color:#ccc;*/
 }
-#btnPrinter .bb-printer {
+#btnPrinter .md-printer {
     position:absolute;
     padding:0;
     margin:2px -10px 0 -7px;
@@ -340,7 +340,7 @@ header a {
 	text-decoration: none!important;
 	border:0px solid yellow;
 }
-.bb-main-menu {
+.md-main-menu {
 	color:#787878;
 }
  /*---------------------------------------*/
@@ -381,7 +381,7 @@ iframe{
 	z-index: 2;
 	border:0px solid yellow;
 }
-#pickList .bb-star{
+#pickList .md-star{
 	color:white;
 	font-size:2.5em;
 	line-height: 1.75em;
@@ -535,11 +535,15 @@ h2 i {
  .name {
  	 margin-top:-5px;
  	 margin-left:4px;
+       width:140px;
 	 font-size:0.75em!important;
 	 line-height: 1.5em!important;
 	 color: rgba(255,255,255,0.6);	
 	 text-shadow: none!important;
-	 text-overflow: ellipsis!important;
+       overflow:hidden;
+       white-space: nowrap;
+	 text-overflow:ellipsis;
+
  	}
  .code {
  	 position:relative;
@@ -567,7 +571,7 @@ h2 i {
     padding-right:4px;
     padding-bottom:4px;
 }
-.ui-link .bb-infinity {
+.ui-link .md-infinity {
     display:inline-block;
     margin-top:0px!important;
     padding-top:10px!important;
@@ -598,7 +602,7 @@ h2 i {
 }
   
  .selector {color:#ff0000!important;}
- .glyph i.bb-font-blk{color:#222222!important;}
+ .glyph i.md-font-blk{color:#222222!important;}
  
  /*  ---------IMPORTANT UI - LEAVE LAST------------ */
  

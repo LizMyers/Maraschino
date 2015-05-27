@@ -14,6 +14,7 @@ $(document).on('pagecreate', function() {
 	var myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
             
 	//list layout
+	var allSets=JSON.parse(localStorage.getItem('allSets'));
 	var icons = $.map(allSets, function(icon, i) {
 
 		if (myPicksArray != null) {

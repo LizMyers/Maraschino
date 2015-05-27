@@ -1,8 +1,7 @@
-/*
-MARASCHINO by Myers Design Ltd
-January 2015
-As is without warrenty statement goes here
-*/
+// Maraschino.js 
+// by Liz Myers
+// May 27, 2015
+var mySet;
 
 $(document).on('pagecreate', '#bbGrid', function() {
 
@@ -10,6 +9,7 @@ $(document).on('pagecreate', '#bbGrid', function() {
 	//http://plnkr.co/edit/4ztirik2820BxKt1Yfl4?p=preview  
 
 	//INIT
+	
 	var max = 50,
 		min = 0,
 		icons,
@@ -17,7 +17,7 @@ $(document).on('pagecreate', '#bbGrid', function() {
 
 	var allSets = JSON.parse(localStorage.getItem("allSets"));
 
-	if (allSets == null || allSets == undefined || allSets == '') {
+	if (allSets == null || allSets == 'undefined' || allSets == '') {
 		$('#bbGrid').hide();
 		grabIcons();
 	} else {
@@ -59,7 +59,7 @@ $(document).on('pagecreate', '#bbGrid', function() {
 					alert('Loading Failed...');
 				},
 				complete: function() {
-					finishedLoadingData();
+				finishedLoadingData();
 				}
 			});
 		} //grabIcons
@@ -70,7 +70,7 @@ $(document).on('pagecreate', '#bbGrid', function() {
 	});
 
 	var sliderIsOpen = localStorage.getItem("mSlider");
-	if ((sliderIsOpen == undefined) || (sliderIsOpen == '') || (sliderIsOpen == "closed")) {
+	if ((sliderIsOpen == 'undefined') || (sliderIsOpen == '') || (sliderIsOpen == "closed")) {
 		sliderIsOpen == "closed";
 	} else {
 		sliderIsOpen == "open";
@@ -111,11 +111,11 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 	var myCount = JSON.parse(localStorage.getItem('myCount'));
 	console.log("MyCount: " + myCount);
 
-	if (myCount !== undefined && myCount !== '' && myCount !== 'null') {
+	if (myCount !== 'undefined' && myCount !==' ' && myCount !== null) {
 		$('#picksTotal').text(myCount);
 	} else {
 		myCount = 0;
-		$('#picksTotal').text(myCount);
+		$('#picksTotal').find('.countTxt').text(myCount);
 	}
 
 	var $container = $('#container');
@@ -132,10 +132,12 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 		var $myPicksArray = localStorage.getItem('myPicksArray');
 		console.log($myPicksArray);
 
-		if (($myPicksArray) && ($myPicksArray !== undefined) && ($myPicksArray !== '')) {
+		if (($myPicksArray) && ($myPicksArray !=='undefined') && ($myPicksArray !==' ')&& ($myPicksArray !==null)) {
 			$myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
 		} else {
 			var $myPicksArray = [];
+			myCount = 0;
+			$('#myPicks').find('.countTxt').text = '0';
 		}
 
 		$this.toggleClass('mypicks');
@@ -166,7 +168,7 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 		var $star = $this.find('b').attr('class');
 
 		//unfave = remove from array
-		if ($star !== "bb-star faveShow") {
+		if ($star !== "md-star faveShow") {
 
 			var $myDiscard = $myPicksArray.indexOf($number);
 
@@ -181,6 +183,7 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 			$myPicksArray.push($number);
 			localStorage.setItem('myPicksArray', JSON.stringify($myPicksArray));
 			myCount++;
+
 		}
 		//update myPicks count for this set
 		$('#myCount').text(myCount);
@@ -188,7 +191,8 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 
 		myCount = JSON.parse(localStorage.getItem('myCount'));
 		var picksTotal = JSON.stringify(myCount);
-		$('#picksTotal').text(picksTotal);
+		$('#myPicks').find('.countTxt').text(picksTotal);
+		
 
 	}); //end item onClick
 
@@ -197,11 +201,15 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 	var mySet = localStorage.getItem('mySet');
 	console.log("mySet= " +mySet);
 
-	if(!mySet || mySet == ' ' || mySet == 'null' || mySet === 'faSet') {
+	if(!mySet || mySet == ' ' || mySet == null ) {
+		mySet == 'faSet';
 		localStorage.setItem('mySet', 'faSet');
 		$('#faSet').trigger('click');
-	} else if (mySet == 'bbSet') {
-		$('#bbSet').trigger('click');
+		$('#container').isotope({
+		    filter: ':contains('+mySet+')'
+		});
+	} else if (mySet == 'mdSet') {
+		$('#mdSet').trigger('click');
 	} else if (mySet == 'glyphSet') {
 		$('#glyphSet').trigger('click');
 	} else if (mySet == 'ionicSet') {	
@@ -215,7 +223,6 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 
 $(document).on('pageshow', '#bbGrid', function() {
 
-	$('#bbGid').fadeIn('slow');
 	$('#simple-menu').trigger('click');
 	sliderIsOpen = 1;
 	localStorage.setItem("sliderIsOpen", true);
@@ -245,7 +252,7 @@ $(document).on('pageshow', '#bbGrid', function() {
 			var kwd = $('input').val();
 
 			//IF SEARCH IS EMPTY 
-			if (kwd == ' ' || !kwd || kwd == undefined) {
+			if (kwd == ' ' || !kwd || kwd == 'undefined') {
 				$('#clearSearch').hide();
 				$('#container').isotope({
 					filter: '*'
@@ -359,7 +366,6 @@ $('#browseToggle').on('click', function() {
 	$('#filterGroup').slideToggle('fast');
 	if ($('#browseToggle i').hasClass('fa-rotate-270')) {
 		localStorage.setItem('mBrowse', "open");
-
 	} else {
 		localStorage.setItem('mBrowse', "closed");
 
@@ -389,12 +395,11 @@ $('#btnDownloadFiles').on('click', function(e) {
 //////////////////////////// FILTERS /////////////////////////////////////	
 
 $('.showMyPicks').on('click', function() {
-	$('#allIcons *').removeClass('selected');
+	
 	$('#myPicks *').addClass('selected');
 	$('#container').isotope({
 		filter: '.mypicks'
 	});
-	$('.showAll').css('color', '#fff').find('i').css('color', '#fff');
 	$('#clearSearch').hide();
 	$('#search').val('');
 	$('#setGroup li *').removeClass('selected');
@@ -407,23 +412,6 @@ $('.showMyPicks').on('click', function() {
 	$('#view-all').css('background', 'none').css('color', '#ccc');
 });
 
-$('.showAll').on('click', function() {
-	$('#allIcons *').addClass('selected');
-	$('#myPicks *').removeClass('selected');
-	$('#container').isotope({
-		filter: '*'
-	});
-	$('#clearSearch').hide();
-	$('#search').val('');
-	$('#filterGroup li *').removeClass('selected');
-	$('#setGroup li *').removeClass('selected');
-	$('#btnClearLibraries').css('color', '#555');
-	$('#btnClearCategories').css('color', '#555');
-	$('#view-my-picks').css('background', 'none').css('color', '#ccc');
-	$('#view-all i').css('color', '#ccc');
-	$('#view-all i').css('color', '#fff');
-	$('#view-all').css('background', '#f46666').css('color', '#fff');
-});
 
 function clearAllMyPicks() {
 	var myCount = 0;
@@ -431,12 +419,8 @@ function clearAllMyPicks() {
 	localStorage.removeItem("myCount");
 	localStorage.removeItem("myPicksArray");
 	$('#showMyPicks *').removeClass('selected');
-	$('#allIcons').css({
-		'color': '#f46666'
-	});
-	$('#myPicks').css({
-		'color': '#999'
-	});
+	$('#allIcons').css({'color': '#f46666'});
+	$('#myPicks').css({'color': '#999'});
 	$('#container *').find('b').removeClass('faveShow');
 	$('#container *').removeClass('mypicks');
 	localStorage.setItem("myCount", myCount);
@@ -506,12 +490,13 @@ $('#print').on('click', function() {
 ///////////////////////// SELECT LIBRARY /////////////////////////////////		
 //var mySet = 'faSet';
 
-$('#bbSet').on('click', function() {
-	localStorage.setItem('mySet', 'bbSet');
-	var mySet = 'bbSet';
-	console.log('clicked ' + mySet);
+$('#mdSet').on('click', function(evt) {
+	evt.preventDefault();
+	localStorage.setItem('mySet', 'mdSet');
+	mySet = "mdSet";
+	console.log("clicked "+ mySet);
 	$('#container').isotope({
-		filter: ':contains(' + mySet + ')'
+		 filter: ':contains('+mySet+')'
 	});
 	$(this).siblings().find('a').removeClass('selected').find('i').removeClass('selected');
 	$(this).find('a').addClass('selected').find('i').addClass('selected');
@@ -533,9 +518,9 @@ $('#bbSet').on('click', function() {
 $('#faSet').on('click', function() {
 	localStorage.setItem('mySet', 'faSet');
 	console.log('clicked' + mySet);
-	var mySet = 'faSet';
+	mySet="faSet";
 	$('#container').isotope({
-		filter: ':contains(' + mySet + ')'
+		 filter: ':contains('+mySet+')'
 	});
 	$(this).siblings().find('a').removeClass('selected').find('i').removeClass('selected');
 	$(this).find('a').addClass('selected').find('i').addClass('selected');
@@ -557,10 +542,10 @@ $('#faSet').on('click', function() {
 
 $('#glyphSet').on('click', function() {
 	localStorage.setItem('mySet', 'glyphSet');
-	var mySet = 'glyphSet';
+	mySet="glyphSet";
 	console.log('clicked' + mySet);
 	$('#container').isotope({
-		filter: ':contains(' + mySet + ')'
+		 filter: ':contains('+mySet+')'
 	});
 	$(this).siblings().find('a').removeClass('selected').find('i').removeClass('selected');
 	$(this).find('a').addClass('selected').find('i').addClass('selected');
@@ -583,10 +568,10 @@ $('#glyphSet').on('click', function() {
 
 $('#ionicSet').on('click', function() {
 	localStorage.setItem('mySet', 'ionicSet');
-	var mySet = 'ionicSet';
+	mySet="ionicSet";
 	console.log('clicked' + mySet);
 	$('#container').isotope({
-		filter: ':contains(' + mySet + ')'
+	  filter: ':contains('+mySet+')'
 	});
 	$(this).siblings().find('a').removeClass('selected').find('i').removeClass('selected');
 	$(this).find('a').addClass('selected').find('i').addClass('selected');
@@ -608,9 +593,8 @@ $('#ionicSet').on('click', function() {
 });
 
 $('#btnClearLibraries').on('click', function() {
-	var mySet = 'faSet';
 	$('#container').isotope({
-		filter: ':contains(' + mySet + ')'
+		filter: ':contains(*)'
 	});
 	$('#setGroup *').removeClass('selected');
 	$('#allIcons').find('a').addClass('selected').find('i').addClass('selected');
