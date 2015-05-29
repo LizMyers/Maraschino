@@ -12,15 +12,9 @@ $(document).on('pagecreate', function() {
 	$('#date').append(now);
 
 	var myPicksArray = JSON.parse(localStorage.getItem('myPicksArray'));
-            
 	//list layout
 	var allSets=JSON.parse(localStorage.getItem('allSets'));
 	var icons = $.map(allSets, function(icon, i) {
-
-		if (myPicksArray != null) {
-			$('#msg').hide();
-			$('#pList').css('top', '100px');
-		}
 
 		var id = i + 1;
 		var number = icon.number;
@@ -41,7 +35,6 @@ $(document).on('pagecreate', function() {
 			'<p class="name">' + ' ' + name + '<br>' +
 			'<span class="code">' + code + '</span></p>' +
 			'</li>';
-			
 		}
 	
 		$(item).appendTo('#pList');
@@ -54,15 +47,30 @@ $(document).on('pagecreate', function() {
 }); //pageCreate
 
 $(document).on('pagebeforeshow', function() {
-	//sort list alphabetically by name
-	var mylist = $('#pList');
-	var listitems = mylist.children('li').get();
-	listitems.sort(function(a, b) {
-	   return $(a).text().toUpperCase().localeCompare($(b).text().toUpperCase());
-	})
-	$.each(listitems, function(idx, itm) { mylist.append(itm); });
+
+	var myCount = JSON.parse(localStorage.getItem('myCount'));
+	console.log("myCount: "+myCount);
+	if (myCount <= 0) {
+		$('#pList').hide();
+		$('#msg').show();
+		console.log("show msg");
+	} else {
+		$('#msg').hide();
+		console.log("hide msg");
+		$('pList').show();
+		$('#pList').css('top', '100px');
+		//sort list alphabetically by name
+		var mylist = $('#pList');
+		var listitems = mylist.children('li').get();
+		listitems.sort(function(a, b) {
+		   return $(a).text().toUpperCase().localeCompare($(b).text().toUpperCase());
+		})
+		$.each(listitems, function(idx, itm) { mylist.append(itm); });
+	}
 
 
 }); //pageBeforeShow
+
+
 
 ///////////////////////////////////////////////////////////////////////////////////

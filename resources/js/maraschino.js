@@ -454,26 +454,30 @@ function clearAllMyPicks() {
 	$('#container *').find('b').removeClass('faveShow');
 	$('#container *').removeClass('mypicks');
 	$('#picksTotal').text(myCount);
-	$('#myNotifyDialog').popup("close");
-	$(".cover").fadeTo(500, 0).hide();
+
 	setTimeout(function(){
 		var mySet = localStorage.getItem('mySet');
 
-	if(mySet  == 'faSet' || mySet == null) {
-		$('#faSet').trigger('click');
-	} else if (mySet == 'mdSet') {
-		$('#mdSet').trigger('click');
-	} else if (mySet == 'glyphSet') {
-		$('#glyphSet').trigger('click');
-	} else if (mySet == 'ionicSet') {	
-		$('#ionicSet').trigger('click');
-	}
+		if(mySet  == 'faSet' || mySet == null) {
+			$('#faSet').trigger('click');
+		} else if (mySet == 'mdSet') {
+			$('#mdSet').trigger('click');
+		} else if (mySet == 'glyphSet') {
+			$('#glyphSet').trigger('click');
+		} else if (mySet == 'ionicSet') {	
+			$('#ionicSet').trigger('click');
+		}
 
-	$('#container').isotope({
-		 filter: ':contains('+mySet+')'
-	});
+		$('#container').isotope({
+			 filter: ':contains('+mySet+')'
+		});
+
+		$('#myNotifyDialog').popup("close");
+		$(".cover").fadeTo(500, 0).hide();
 
 	}, 1000);	
+
+
 }
 	 
 $('#filterGroup > li').on('click', this, function() {
