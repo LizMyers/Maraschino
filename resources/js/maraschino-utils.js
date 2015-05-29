@@ -39,7 +39,6 @@ var Utils = {
                 switch(set) {
                         case "mdSet":
                           nMdSet++;
-                         console.log("MD: "+nMdSet)
                         break;
                         case "faSet":
                          //console.log("font-awesome: "+nFaSet);

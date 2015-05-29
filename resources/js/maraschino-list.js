@@ -36,21 +36,12 @@ $(document).on('pagecreate', function() {
 		if (isMyPick == "mypicks") {
 			//console.log(code);
 
-			if (code.substr(0, 2) == "fa") {
-
-				var item = '<li data-sort='+name+'>' +
-					'<p class ="glyph"><i class="fa ' + symbol + '"></i></p>' +
-					'<p class="name">' + ' ' + name + '<br>' +
-					'<span class="code">' + 'fa ' + code + '</span></p>' +
-					'</li>';
-			} else {
-
-				var item = '<li data-sort='+name+'>' +
-					'<p class = "glyph"><i class="' + symbol + '"></i></p>' +
-					'<p class="name">' + ' ' + name + '<br>' +
-					'<span class="code">' + code + '</span></p>' +
-					'</li>';
-			}
+		var item = '<li data-sort='+name+'>' +
+			'<p class = "glyph"><i class="' + symbol + '"></i></p>' +
+			'<p class="name">' + ' ' + name + '<br>' +
+			'<span class="code">' + code + '</span></p>' +
+			'</li>';
+			
 		}
 	
 		$(item).appendTo('#pList');
