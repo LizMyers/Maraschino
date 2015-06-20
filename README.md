@@ -29,11 +29,10 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 <img src="https://cloud.githubusercontent.com/assets/1979777/8267619/59e39bae-1761-11e5-8ce1-21087d9e32de.jpg" />
 
 ```
-<head>
-...
- <link rel="/resources/css/ionic.css" type="text/css" /> 
-...
-</head>
+  <head>
+    ...
+    <link href="/resources/css/ionic.css" rel="stylesheet" /> 
+  </head>
 ```
 
 **6. Use <a href="http://maraschino.lizmyers.webfactional.com/index2.html" target="_blank">Maraschino</a> to "Cherry Pick" Icons for your project**
