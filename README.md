@@ -5,7 +5,7 @@
 ###Quick Start
 If you're working with a framework such as Twitter Bootstrap or Ionic, you may already have the fonts and css installed. If so, skip to **step 5: selecting icons**. To install icon font(s), do the following:
 
-**1.Download 1 or more icon fonts**. We've got links to them here: http://maraschino.lizmyers.webfactional.com#downloads/
+**1.Download 1 or more icon fonts**. We've got links to them here: http://maraschino.lizmyers.webfactional.com" target="#downloads">
 
 **2. Unzip the files to your desktop**
 
@@ -26,14 +26,14 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 **From within you HTML, call your icons with the css code inside an <i> tag like this:**
 
 ```
-<i fa fa-cog></i>
+<i class="fa fa-cog"></i>
 
 ```
 
 Font-Awesome has some <a href="http://fortawesome.github.io/Font-Awesome/examples/">nice extra</a> built-in too:
 
 ```
-<i fa fa-cog fa-spin></i>
+<i class="fa fa-cog fa-spin"></i>
 
 ```
 
