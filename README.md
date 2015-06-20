@@ -30,8 +30,8 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 ```
   <head>
-    ...
-    <link href="/resources/css/ionic.css" rel="stylesheet" /> 
+    <!--Example: connecting Ionicons to project -->
+    **<link href="/resources/css/ionic.css" rel="stylesheet" />**
   </head>
 ```
 
