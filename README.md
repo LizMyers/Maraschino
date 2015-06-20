@@ -24,7 +24,10 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 <img src ="https://cloud.githubusercontent.com/assets/1979777/8267094/10d6d388-174b-11e5-8aca-27a53670b12c.jpg"/>
 
-**5. In your index.html header, link your icons to your project like this:**
+**5. In index.html, link your icons to your project like this:**
+
+<img src="https://cloud.githubusercontent.com/assets/1979777/8267619/59e39bae-1761-11e5-8ce1-21087d9e32de.jpg" />
+
 ```
 <head>
 ...
