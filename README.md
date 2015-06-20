@@ -33,7 +33,7 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 <img src="https://cloud.githubusercontent.com/assets/1979777/8267558/f45b8834-175e-11e5-96e9-4e993a817ff5.jpg" />
 ```
-<i class="ion-contact"></i>
+<i class="ion-ios-contact"></i>
 ```
 <img src="https://cloud.githubusercontent.com/assets/1979777/8267492/1d347fa2-175c-11e5-9f1a-c7d8ffe49ba0.jpg" />
 ```
