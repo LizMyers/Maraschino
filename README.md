@@ -35,7 +35,7 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 ```
 <i class="ion-contact"></i>
 ```
-<img src="https://cloud.githubusercontent.com/assets/1979777/8267524/f96beba4-175c-11e5-9343-d8f82cc6c631.jpg" />
+<img src="https://cloud.githubusercontent.com/assets/1979777/8267492/1d347fa2-175c-11e5-9f1a-c7d8ffe49ba0.jpg" />
 ```
 <i class="md-scooter"></i>
 ```
