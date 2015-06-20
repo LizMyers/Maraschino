@@ -2,11 +2,11 @@
 
 #Project Maraschino
 
-###Welcome to Maraschino - an app to help you find the right glyphs for your project using some of the most popular open source libraries:
-  * Font-Awesome by Dave Gandy
-  * Glyphicons by Jan Kovařík
-  * Ionicons by Ben Sperry
-  * BB10 by Liz Myers
+###Welcome to Maraschino - an app to help you find the right glyphs for your project using these open source libraries:
+  * Font-Awesome by <a href="https://twitter.com/davegandy">Dave Gandy</a>
+  * Glyphicons by <a href="https://twitter.com/jankovarik">Jan Kovařík</a>
+  * Ionicons by <a href="https://twitter.com/benjsperry">Ben Sperry</a>
+  * BB10 by <a href="https://twitter.com/lizmyers">Liz Myers</a>
 
 ###Quick Start
 If you're working with a framework such as Twitter Bootstrap or Ionic, you may already have the fonts and css installed. If so, skip to **step 5: selecting icons**. To install icon font(s), do the following:
