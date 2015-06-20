@@ -5,7 +5,7 @@
 ###Quick Start
 If you're working with a framework such as Twitter Bootstrap or Ionic, you may already have the fonts and css installed. If so, skip to **step 5: selecting icons**. To install icon font(s), do the following:
 
-**1.Download 1 or more icon fonts**. We've got links to them here: http://maraschino.lizmyers.webfactional.com/#downloads
+**1. Download 1 or more icon fonts**. We've got links to them here: http://maraschino.lizmyers.webfactional.com/#downloads
 
 **2. Unzip the files to your desktop**
 
