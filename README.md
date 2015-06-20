@@ -31,7 +31,10 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 **From within you HTML, call your icons using the css code like this:**
 
-
+<img src="https://cloud.githubusercontent.com/assets/1979777/8267558/f45b8834-175e-11e5-96e9-4e993a817ff5.jpg" />
+```
+<i class="ion-contact"></i>
+```
 <img src="https://cloud.githubusercontent.com/assets/1979777/8267524/f96beba4-175c-11e5-9343-d8f82cc6c631.jpg" />
 ```
 <i class="md-scooter"></i>
