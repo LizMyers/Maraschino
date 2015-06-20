@@ -19,20 +19,23 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 <img src ="https://cloud.githubusercontent.com/assets/1979777/8267094/10d6d388-174b-11e5-8aca-27a53670b12c.jpg"/>
 
 
-**5. Use Maraschino to "Cherry Pick" Icons for your project**
+**5. Use <a href="maraschino.lizmyers.webfactional.com/index2.html">Maraschino</a> to "Cherry Pick" Icons for your project**
 
 <img src = "https://cloud.githubusercontent.com/assets/1979777/8267057/0f759472-1749-11e5-9395-c5c9a6ecbd2a.jpg" />
 
 **From within you HTML, call your icons with the css code inside an <i> tag like this:**
 
 ```
-<i md-scooter></i>
-<fa fa-book></i>
-<glyphicon glyphicon-circle-arrow-down></i>
-<ion ion-book></i>
+<i fa fa-cog></i>
 
 ```
 
+Note: Font-Awesome has some nice extras built-in:
+
+```
+<i fa fa-cog fa-spin></i>
+
+```
 
 
 
