@@ -23,7 +23,7 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 <img src = "https://cloud.githubusercontent.com/assets/1979777/8267057/0f759472-1749-11e5-9395-c5c9a6ecbd2a.jpg" />
 
-**From within you HTML, call your icons with the css code inside an <pre>"<i>"</pre>> tag like this:**
+**From within you HTML, call your icons using the css code like this:**
 
 ```
 <i class="fa fa-cog"></i>
