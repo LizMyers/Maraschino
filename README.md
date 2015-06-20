@@ -9,7 +9,7 @@
   * BB10 by <a href="https://twitter.com/lizmyers" target="_new">Liz Myers</a>
 
 ###Quick Start
-If you're working with a framework such as Twitter Bootstrap or Ionic, you may already have the fonts and css installed. If so, skip to **step 5: selecting icons**. To install icon font(s), do the following:
+If you're working with a framework such as Twitter Bootstrap or Ionic, you may already have the fonts and css installed. If so, skip to **step 6: selecting icons**. To install icon font(s), do the following:
 
 **1. Download 1 or more icon fonts**. We've got links to them here: http://maraschino.lizmyers.webfactional.com/#downloads
 
