@@ -24,8 +24,16 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 <img src ="https://cloud.githubusercontent.com/assets/1979777/8267094/10d6d388-174b-11e5-8aca-27a53670b12c.jpg"/>
 
+**5. In your index.html header, link your icons to your project like this:**
+```
+<head>
+...
+ <link rel="/resources/css/ionic.css" type="text/css" /> 
+...
+</head>
+```
 
-**5. Use <a href="http://maraschino.lizmyers.webfactional.com/index2.html" target="_blank">Maraschino</a> to "Cherry Pick" Icons for your project**
+**6. Use <a href="http://maraschino.lizmyers.webfactional.com/index2.html" target="_blank">Maraschino</a> to "Cherry Pick" Icons for your project**
 
 <img src = "https://cloud.githubusercontent.com/assets/1979777/8267057/0f759472-1749-11e5-9395-c5c9a6ecbd2a.jpg" />
 
