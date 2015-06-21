@@ -51,8 +51,9 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 ```
 
 
-###WE WANT YOU
+
 <img src="https://cloud.githubusercontent.com/assets/1979777/8271441/e413a78e-180f-11e5-947e-51cb9ba21085.jpg" />
+###WE NEED YOU
 
 Being able to cherry pick icons for your project and see them all in a "virtual basket" is great... but, it would be so much **better if we could download the basket as a skinny icon font**. This would boost performance and make our customers very happy.
 
