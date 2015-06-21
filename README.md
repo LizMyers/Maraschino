@@ -8,7 +8,7 @@
   * Ionicons by <a href="https://twitter.com/benjsperry" target="_new">Ben Sperry</a>
   * BB10 by <a href="https://twitter.com/lizmyers" target="_new">Liz Myers</a>
 
-###Quick Start
+###Getting Started
 If you're working with a framework such as Twitter Bootstrap or Ionic, you may already have the fonts and css installed. If so, skip to **step 6: selecting icons**. To install icon font(s), do the following:
 
 **1. Download 1 or more icon fonts**. We've got links to them here: http://maraschino.lizmyers.webfactional.com/#downloads
@@ -49,6 +49,12 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 ```
 <i class="md-scooter"></i>
 ```
+
+###Help Wanted
+
+Being able to cherry pick icons for your project and see them all in a "virtual basket" is great - but - it would be so much better if we could download the basket as a skinny icon font. This would boost performance and make our customers very happy.
+
+Unfortunately, the technologies involved are a bit beyond my skill set. The creators of <a href="http://font-custom.com>font-custom</a> were kind enough to point us in the right direction and offer tips from time to time. But what's really needed here is a volunteer. Are you the one who can help make this open source project more useful for everyone? If so, please get in touch and let's make it happen!
 
 
 
