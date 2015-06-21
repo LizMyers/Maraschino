@@ -54,7 +54,7 @@ If you're working with a framework such as Twitter Bootstrap or Ionic, you may a
 
 Being able to cherry pick icons for your project and see them all in a "virtual basket" is great... but, it would be so much **better if we could download the basket as a skinny icon font**. This would boost performance and make our customers very happy.
 
-Unfortunately, the technologies involved are a bit beyond my skill set. The creators of <a href="http://fontello.com">fontello.com</a> were kind enough to point us in the right direction and offer tips from time to time. But what's really needed is a volunteer engineer. Are you the one who can help make this open source project more useful for everyone? If so, **<a href="mailto: liz@myersdesign.com">please get in touch</a> and let's make it happen!**
+Unfortunately, the technologies involved are a bit beyond my skill set. The creators of <a href="http://fontello.com">fontello.com</a> were kind enough to point us in the right direction and offer tips from time to time. But what's really needed is a volunteer engineer. **Are you the one who can help make this open source project more useful for everyone? If so, <a href="mailto: liz@myersdesign.com">please get in touch</a> and let's make it happen!**
 
 
 
