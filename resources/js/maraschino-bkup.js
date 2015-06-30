@@ -239,8 +239,8 @@ $(document).on('pageshow', '#bbGrid', function() {
 		return false;
 	});
 
-	$('input').on("keyup", function(e) {
-		if ($(this).val().length > 2 || e.keyCode == 13) {
+	$('input').on("keyup", function(event) {
+		if (event.keyCode === 13) {
 			event.preventDefault();
 			$('#view-my-picks').css('background', 'none').css('color', '#ccc');
 			$('#view-my-picks i').css('color', '#ccc');
@@ -534,8 +534,8 @@ $('#download').on('click', function() {
 });
 
 $('#print').on('click', function() {
-	window.open("http://maraschino.lizmyers.webfactional.com/picksList.html", "_blank");
-	//window.open("http://localhost:3000/picksList.html", "_blank");
+	//window.open("http://maraschino.lizmyers.webfactional.com/picksList.html", "_blank");
+	window.open("http://localhost:3000/picksList.html", "_blank");
 });
 
 ///////////////////////// SELECT LIBRARY /////////////////////////////////		

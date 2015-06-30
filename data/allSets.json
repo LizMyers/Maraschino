@@ -16,35 +16,35 @@
   {
     "name":"Search",
     "symbol":"fa fa-search",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
-    "keywords":"ui, technology"
+    "keywords":"UI, technology"
   },
   {
     "name":"Envelope",
     "symbol":"fa fa-envelope-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Heart",
     "symbol":"fa fa-heart",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Star",
     "symbol":"fa fa-star",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Star",
     "symbol":"fa fa-star-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -65,49 +65,49 @@
   {
     "name":"Table Header",
     "symbol":"fa fa-th-large",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Table Header",
     "symbol":"fa fa-th",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"List",
     "symbol":"fa fa-th-list",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"OK",
     "symbol":"fa fa-check",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Close",
     "symbol":"fa fa-times",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Zoom In",
     "symbol":"fa fa-search-plus",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Zoom Out",
     "symbol":"fa fa-search-minus",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -128,21 +128,21 @@
   {
     "name":"Cog",
     "symbol":"fa fa-cog",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Trash",
     "symbol":"fa fa-trash-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Home",
     "symbol":"fa fa-home",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -170,21 +170,21 @@
   {
     "name":"Download",
     "symbol":"fa fa-download",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Down",
     "symbol":"fa fa-arrow-circle-o-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Up",
     "symbol":"fa fa-arrow-circle-o-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -212,28 +212,28 @@
   {
     "name":"Refresh",
     "symbol":"fa fa-refresh",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"List",
     "symbol":"fa fa-list-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Lock",
     "symbol":"fa fa-lock",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Flag",
     "symbol":"fa fa-flag",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -296,21 +296,21 @@
   {
     "name":"Book",
     "symbol":"fa fa-book",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Bookmark",
     "symbol":"fa fa-bookmark",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Print",
     "symbol":"fa fa-print",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -324,84 +324,84 @@
   {
     "name":"Font",
     "symbol":"fa fa-font",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Bold",
     "symbol":"fa fa-bold",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Italic",
     "symbol":"fa fa-italic",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Text Height",
     "symbol":"fa fa-text-height",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Text Width",
     "symbol":"fa fa-text-width",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Align Left",
     "symbol":"fa fa-align-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Align Center",
     "symbol":"fa fa-align-center",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Align Right",
     "symbol":"fa fa-align-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Align Justify",
     "symbol":"fa fa-align-justify",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"List",
     "symbol":"fa fa-list",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Indent",
     "symbol":"fa fa-indent",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Outdent",
     "symbol":"fa fa-outdent",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -429,7 +429,7 @@
   {
     "name":"Map Marker",
     "symbol":"fa fa-map-marker",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -464,14 +464,14 @@
   {
     "name":"OK",
     "symbol":"fa fa-check-square-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Move",
     "symbol":"fa fa-arrows",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -548,133 +548,133 @@
   {
     "name":"Chevron Left",
     "symbol":"fa fa-chevron-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Chevron Right",
     "symbol":"fa fa-chevron-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Plus",
     "symbol":"fa fa-plus-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Minus",
     "symbol":"fa fa-minus-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Close",
     "symbol":"fa fa-times-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle OK",
     "symbol":"fa fa-check-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Question",
     "symbol":"fa fa-question-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Info",
     "symbol":"fa fa-info-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Crosshairs",
     "symbol":"fa fa-crosshairs",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Close",
     "symbol":"fa fa-times-circle-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle OK",
     "symbol":"fa fa-check-circle-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Ban",
     "symbol":"fa fa-ban",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Left",
     "symbol":"fa fa-arrow-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Right",
     "symbol":"fa fa-arrow-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Up",
     "symbol":"fa fa-arrow-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Down",
     "symbol":"fa fa-arrow-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Share",
     "symbol":"fa fa-share",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Expand",
     "symbol":"fa fa-expand",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Compress",
     "symbol":"fa fa-compress",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -702,14 +702,14 @@
   {
     "name":"Circle Caution",
     "symbol":"fa fa-exclamation-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Gift",
     "symbol":"fa fa-gift",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -730,21 +730,21 @@
   {
     "name":"Visible",
     "symbol":"fa fa-eye",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Not Visible",
     "symbol":"fa fa-eye-slash",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caution",
     "symbol":"fa fa-exclamation-triangle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -765,7 +765,7 @@
   {
     "name":"Random",
     "symbol":"fa fa-random",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -779,21 +779,21 @@
   {
     "name":"Magnet",
     "symbol":"fa fa-magnet",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Chevron Up",
     "symbol":"fa fa-chevron-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Chevron Down",
     "symbol":"fa fa-chevron-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -814,28 +814,28 @@
   {
     "name":"Folder",
     "symbol":"fa fa-folder",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Folder Open",
     "symbol":"fa fa-folder-open",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrows Vertical",
     "symbol":"fa fa-arrows-v",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrows Horizontal",
     "symbol":"fa fa-arrows-h",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -870,14 +870,14 @@
   {
     "name":"Key",
     "symbol":"fa fa-key",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Cogs",
     "symbol":"fa fa-cogs",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -905,21 +905,21 @@
   {
     "name":"Star Half",
     "symbol":"fa fa-star-half",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Heart",
     "symbol":"fa fa-heart-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sign Out",
     "symbol":"fa fa-sign-out",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -940,21 +940,21 @@
   {
     "name":"Link",
     "symbol":"fa fa-external-link",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sign In",
     "symbol":"fa fa-sign-in",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Trophy",
     "symbol":"fa fa-trophy",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -989,14 +989,14 @@
   {
     "name":"Square",
     "symbol":"fa fa-square-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Bookmark",
     "symbol":"fa fa-bookmark-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1031,7 +1031,7 @@
   {
     "name":"Unlock",
     "symbol":"fa fa-unlock",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1059,21 +1059,21 @@
   {
     "name":"Bullhorn",
     "symbol":"fa fa-bullhorn",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Bell",
     "symbol":"fa fa-bell",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Certificate",
     "symbol":"fa fa-certificate",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1108,49 +1108,49 @@
   {
     "name":"Circle Arrow Left",
     "symbol":"fa fa-arrow-circle-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Right",
     "symbol":"fa fa-arrow-circle-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Up",
     "symbol":"fa fa-arrow-circle-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Down",
     "symbol":"fa fa-arrow-circle-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Globe",
     "symbol":"fa fa-globe",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Wrench",
     "symbol":"fa fa-wrench",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Tasks",
     "symbol":"fa fa-tasks",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1164,14 +1164,14 @@
   {
     "name":"Briefcase",
     "symbol":"fa fa-briefcase",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrows",
     "symbol":"fa fa-arrows-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1234,7 +1234,7 @@
   {
     "name":"Square",
     "symbol":"fa fa-square",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1248,42 +1248,42 @@
   {
     "name":"List Unordered",
     "symbol":"fa fa-list-ul",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"List Ordered",
     "symbol":"fa fa-list-ol",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Strikethrough",
     "symbol":"fa fa-strikethrough",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Underline",
     "symbol":"fa fa-underline",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Table",
     "symbol":"fa fa-table",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Magic",
     "symbol":"fa fa-magic",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1332,56 +1332,56 @@
   {
     "name":"Caret Down",
     "symbol":"fa fa-caret-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caret Up",
     "symbol":"fa fa-caret-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caret Left",
     "symbol":"fa fa-caret-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caret Right",
     "symbol":"fa fa-caret-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Columns",
     "symbol":"fa fa-columns",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort",
     "symbol":"fa fa-sort",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Down",
     "symbol":"fa fa-sort-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Up",
     "symbol":"fa fa-sort-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1402,14 +1402,14 @@
   {
     "name":"Undo",
     "symbol":"fa fa-undo",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Legal",
     "symbol":"fa fa-legal",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1437,7 +1437,7 @@
   {
     "name":"Bold",
     "symbol":"fa fa-bolt",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1451,28 +1451,28 @@
   {
     "name":"Umbrella",
     "symbol":"fa fa-umbrella",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Paste",
     "symbol":"fa fa-paste",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Lightbulb",
     "symbol":"fa fa-lightbulb-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Exchange",
     "symbol":"fa fa-exchange",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1514,7 +1514,7 @@
   {
     "name":"Bell",
     "symbol":"fa fa-bell-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1584,7 +1584,7 @@
   {
     "name":"Square",
     "symbol":"fa fa-h-square",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1598,56 +1598,56 @@
   {
     "name":"Angle Double Left",
     "symbol":"fa fa-angle-double-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle Double Right",
     "symbol":"fa fa-angle-double-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle Double Up",
     "symbol":"fa fa-angle-double-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle double Down",
     "symbol":"fa fa-angle-double-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle Left",
     "symbol":"fa fa-angle-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle Right",
     "symbol":"fa fa-angle-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle Up",
     "symbol":"fa fa-angle-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Angle Down",
     "symbol":"fa fa-angle-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1682,42 +1682,42 @@
   {
     "name":"Circle",
     "symbol":"fa fa-circle-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Qutoe Left",
     "symbol":"fa fa-quote-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Quote Right",
     "symbol":"fa fa-quote-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Spinner",
     "symbol":"fa fa-spinner",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle",
     "symbol":"fa fa-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Reply",
     "symbol":"fa fa-reply",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1731,14 +1731,14 @@
   {
     "name":"Folder",
     "symbol":"fa fa-folder-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Folder",
     "symbol":"fa fa-folder-open-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1780,14 +1780,14 @@
   {
     "name":"Flag",
     "symbol":"fa fa-flag-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Flag Checkerred",
     "symbol":"fa fa-flag-checkered",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1808,28 +1808,28 @@
   {
     "name":"Reply All",
     "symbol":"fa fa-reply-all",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Mail Reply All",
     "symbol":"fa fa-mail-reply-all",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Star Half",
     "symbol":"fa fa-star-half-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Location",
     "symbol":"fa fa-location-arrow",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1850,42 +1850,42 @@
   {
     "name":"Unlink",
     "symbol":"fa fa-unlink",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Question",
     "symbol":"fa fa-question",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Info",
     "symbol":"fa fa-info",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Exclamation",
     "symbol":"fa fa-exclamation",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Superscript",
     "symbol":"fa fa-superscript",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Subscript",
     "symbol":"fa fa-subscript",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1899,7 +1899,7 @@
   {
     "name":"Puzzle Piece",
     "symbol":"fa fa-puzzle-piece",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1920,7 +1920,7 @@
   {
     "name":"Shield",
     "symbol":"fa fa-shield",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1934,7 +1934,7 @@
   {
     "name":"Fire Exttinguisher",
     "symbol":"fa fa-fire-extinguisher",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1955,28 +1955,28 @@
   {
     "name":"Circle Chevron Left",
     "symbol":"fa fa-chevron-circle-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Chevron Right",
     "symbol":"fa fa-chevron-circle-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Chevron Up",
     "symbol":"fa fa-chevron-circle-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Chevron Down",
     "symbol":"fa fa-chevron-circle-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -1997,42 +1997,42 @@
   {
     "name":"Anchor ",
     "symbol":"fa fa-anchor",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Unlock",
     "symbol":"fa fa-unlock-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Bullseye",
     "symbol":"fa fa-bullseye",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Ellipsis",
     "symbol":"fa fa-ellipsis-h",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Ellipsis",
     "symbol":"fa fa-ellipsis-v",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Ellipsis Vertical",
     "symbol":"fa fa-ellipsis-v",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2053,42 +2053,42 @@
   {
     "name":"Ticket",
     "symbol":"fa fa-ticket",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Minus",
     "symbol":"fa fa-minus-square",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Minus",
     "symbol":"fa fa-minus-square-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Level Up",
     "symbol":"fa fa-level-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Level Down",
     "symbol":"fa fa-level-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"OK",
     "symbol":"fa fa-check-square",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2102,42 +2102,42 @@
   {
     "name":"Link",
     "symbol":"fa fa-external-link-square",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Compass",
     "symbol":"fa fa-compass",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Share",
     "symbol":"fa fa-share-square",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caret Square Up",
     "symbol":"fa fa-caret-square-o-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caret Square Down",
     "symbol":"fa fa-caret-square-o-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Caret Square Right",
     "symbol":"fa fa-caret-square-o-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2214,42 +2214,42 @@
   {
     "name":"Sort Alpha Asc",
     "symbol":"fa fa-sort-alpha-asc",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Alpha Desc",
     "symbol":"fa fa-sort-alpha-desc",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Amount Asc",
     "symbol":"fa fa-sort-amount-asc",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Amount Desc",
     "symbol":"fa fa-sort-amount-desc",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Numeric Asc",
     "symbol":"fa fa-sort-numeric-asc",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Sort Numeric Desc",
     "symbol":"fa fa-sort-numeric-desc",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2368,28 +2368,28 @@
   {
     "name":"Arrow Long Down",
     "symbol":"fa fa-long-arrow-down",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Long Up",
     "symbol":"fa fa-long-arrow-up",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Long Left",
     "symbol":"fa fa-long-arrow-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Long Right",
     "symbol":"fa fa-long-arrow-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2487,7 +2487,7 @@
   {
     "name":"Archive",
     "symbol":"fa fa-archive",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2536,35 +2536,35 @@
   {
     "name":"Circle Arrow Right",
     "symbol":"fa fa-arrow-circle-o-right",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Left",
     "symbol":"fa fa-arrow-circle-o-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Square Caret Left",
     "symbol":"fa fa-caret-square-o-left",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Dot",
     "symbol":"fa fa-dot-circle-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Wheelchair",
     "symbol":"fa fa-wheelchair",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2585,7 +2585,7 @@
   {
     "name":"Square Plus",
     "symbol":"fa fa-plus-square-o",
-    "category":"UI",
+   "category":"UI",
     "set":"faSet",
     "keywords":"UI"
   },
@@ -2648,14 +2648,14 @@
   {
     "name":"Bookmark",
     "symbol":"md-bookmark",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Bookmark Plus",
     "symbol":"md-bookmark-plus",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2690,7 +2690,7 @@
   {
     "name":"Bullseye",
     "symbol":"md-bullseye",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2760,49 +2760,49 @@
   {
     "name":"Checkmark",
     "symbol":"md-checked",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Down",
     "symbol":"md-circle-arrow-down",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Left",
     "symbol":"md-circle-arrow-left",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Right",
     "symbol":"md-circle-arrow-right",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Up",
     "symbol":"md-circle-arrow-up",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Go Back",
     "symbol":"md-circle-back",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Go to Beginning",
     "symbol":"md-circle-beginning",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2816,7 +2816,7 @@
   {
     "name":"Go to End",
     "symbol":"md-circle-end",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2844,7 +2844,7 @@
   {
     "name":"Forward",
     "symbol":"md-circle-forward",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2858,14 +2858,14 @@
   {
     "name":"Info",
     "symbol":"md-circle-info",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Info",
     "symbol":"md-circle-info-1",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2879,21 +2879,21 @@
   {
     "name":"Next",
     "symbol":"md-circle-next",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Open",
     "symbol":"md-circle-open",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Pause",
     "symbol":"md-circle-pause",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2907,14 +2907,14 @@
   {
     "name":"Play",
     "symbol":"md-circle-play",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Play/Pause",
     "symbol":"md-circle-play-pause",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2928,21 +2928,21 @@
   {
     "name":"Previous",
     "symbol":"md-circle-previous",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Question",
     "symbol":"md-circle-question",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Record",
     "symbol":"md-circle-record",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -2956,7 +2956,7 @@
   {
     "name":"Stop",
     "symbol":"md-circle-stop",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3005,7 +3005,7 @@
   {
     "name":"Close",
     "symbol":"md-close",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3033,14 +3033,14 @@
   {
     "name":"Compass",
     "symbol":"md-compass",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Contacts",
     "symbol":"md-contacts",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3089,21 +3089,21 @@
   {
     "name":"Full Screen",
     "symbol":"md-envelope-open",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Exit Full Screen",
     "symbol":"md-exit-full-screen",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Exit Full Screen",
     "symbol":"md-exit-full-screen-1",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3166,7 +3166,7 @@
   {
     "name":"Font Size",
     "symbol":"md-font-size",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3187,7 +3187,7 @@
   {
     "name":"Full Screen",
     "symbol":"md-full-screen",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3208,7 +3208,7 @@
   {
     "name":"Gear",
     "symbol":"md-gear",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3243,21 +3243,21 @@
   {
     "name":"Heart",
     "symbol":"md-heart",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Home",
     "symbol":"md-home",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Home Plus",
     "symbol":"md-home-plus",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3292,21 +3292,21 @@
   {
     "name":"Web Link",
     "symbol":"md-link1",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Web Link",
     "symbol":"md-link2",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Locked",
     "symbol":"md-locked",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3362,14 +3362,14 @@
   {
     "name":"Main Menu",
     "symbol":"md-main-menu",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Menu Overflow",
     "symbol":"md-menu-overflow",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3411,14 +3411,14 @@
   {
     "name":"No Entry",
     "symbol":"md-no-entry",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Notification",
     "symbol":"md-notification",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3502,14 +3502,14 @@
   {
     "name":"Refresh",
     "symbol":"md-refresh",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Reload",
     "symbol":"md-reload",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3558,7 +3558,7 @@
   {
     "name":"Send",
     "symbol":"md-send",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3579,7 +3579,7 @@
   {
     "name":"Share",
     "symbol":"md-share",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3614,21 +3614,21 @@
   {
     "name":"Back",
     "symbol":"md-square-back",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Beginning",
     "symbol":"md-square-beginning",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"End",
     "symbol":"md-square-end",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3649,7 +3649,7 @@
   {
     "name":"Forward",
     "symbol":"md-square-forward",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3663,7 +3663,7 @@
   {
     "name":"Web Link",
     "symbol":"md-square-link",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3677,21 +3677,21 @@
   {
     "name":"Next",
     "symbol":"md-square-next",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Open",
     "symbol":"md-square-open",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Pause",
     "symbol":"md-square-pause",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3705,28 +3705,28 @@
   {
     "name":"Play",
     "symbol":"md-square-play",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Previous",
     "symbol":"md-square-previous",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Record",
     "symbol":"md-square-record",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Repeat",
     "symbol":"md-square-repeat",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3740,14 +3740,14 @@
   {
     "name":"Shuffle",
     "symbol":"md-square-shuffle",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Stop",
     "symbol":"md-square-stop",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3852,7 +3852,7 @@
   {
     "name":"Target",
     "symbol":"md-target",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3901,14 +3901,14 @@
   {
     "name":"Unlocked",
     "symbol":"md-unlocked",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Update",
     "symbol":"md-update",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3950,7 +3950,7 @@
   {
     "name":"Warning",
     "symbol":"md-warning",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
@@ -3978,21 +3978,21 @@
   {
     "name":"Zoom In",
     "symbol":"md-zoom-in",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Zoom Out",
     "symbol":"md-zoom-out",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI"
   },
   {
     "name":"Infinity",
     "symbol":"md-infinity",
-    "category":"UI",
+   "category":"UI",
     "set":"bbSet",
     "keywords":"UI, technology"
   },
@@ -4006,14 +4006,14 @@
   {
     "name":"Asterisk",
     "symbol":"glyphicon glyphicon-asterisk",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Plus",
     "symbol":"glyphicon glyphicon-plus",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4027,7 +4027,7 @@
   {
     "name":"Minus",
     "symbol":"glyphicon glyphicon-minus",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4069,7 +4069,7 @@
   {
     "name":"Search",
     "symbol":"glyphicon glyphicon-search",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4083,14 +4083,14 @@
   {
     "name":"Star",
     "symbol":"glyphicon glyphicon-star",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Star Empty",
     "symbol":"glyphicon glyphicon-star-empty",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4111,56 +4111,56 @@
   {
     "name":"Th Large",
     "symbol":"glyphicon glyphicon-th-large",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Th",
     "symbol":"glyphicon glyphicon-th",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Th List",
     "symbol":"glyphicon glyphicon-th-list",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Ok",
     "symbol":"glyphicon glyphicon-ok",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Remove",
     "symbol":"glyphicon glyphicon-remove",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Zoom In",
     "symbol":"glyphicon glyphicon-zoom-in",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Zoom Out",
     "symbol":"glyphicon glyphicon-zoom-out",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Off",
     "symbol":"glyphicon glyphicon-off",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4174,7 +4174,7 @@
   {
     "name":"Cog",
     "symbol":"glyphicon glyphicon-cog",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4188,7 +4188,7 @@
   {
     "name":"Home",
     "symbol":"glyphicon glyphicon-home",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4216,21 +4216,21 @@
   {
     "name":"Download Alt",
     "symbol":"glyphicon glyphicon-download-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Download",
     "symbol":"glyphicon glyphicon-download",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Upload",
     "symbol":"glyphicon glyphicon-upload",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4265,7 +4265,7 @@
   {
     "name":"List Alt",
     "symbol":"glyphicon glyphicon-list-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4328,14 +4328,14 @@
   {
     "name":"Tag",
     "symbol":"glyphicon glyphicon-tag",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Tags",
     "symbol":"glyphicon glyphicon-tags",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4370,84 +4370,84 @@
   {
     "name":"Font",
     "symbol":"glyphicon glyphicon-font",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Bold",
     "symbol":"glyphicon glyphicon-bold",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Italic",
     "symbol":"glyphicon glyphicon-italic",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Line Height",
     "symbol":"glyphicon glyphicon-text-height",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Text Width",
     "symbol":"glyphicon glyphicon-text-width",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Align Left",
     "symbol":"glyphicon glyphicon-align-left",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Align Center",
     "symbol":"glyphicon glyphicon-align-center",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Align Right",
     "symbol":"glyphicon glyphicon-align-right",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Align Justify",
     "symbol":"glyphicon glyphicon-align-justify",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"List",
     "symbol":"glyphicon glyphicon-list",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Indent Left",
     "symbol":"glyphicon glyphicon-indent-left",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Indent Right",
     "symbol":"glyphicon glyphicon-indent-right",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4475,21 +4475,21 @@
   {
     "name":"Adjust",
     "symbol":"glyphicon glyphicon-adjust",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Tint",
     "symbol":"glyphicon glyphicon-tint",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Edit",
     "symbol":"glyphicon glyphicon-edit",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4503,14 +4503,14 @@
   {
     "name":"Check",
     "symbol":"glyphicon glyphicon-check",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Move",
     "symbol":"glyphicon glyphicon-move",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4559,112 +4559,112 @@
   {
     "name":"Chevron Left",
     "symbol":"glyphicon glyphicon-chevron-left",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Chevron Right",
     "symbol":"glyphicon glyphicon-chevron-right",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Plus Sign",
     "symbol":"glyphicon glyphicon-plus-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Minus Sign",
     "symbol":"glyphicon glyphicon-minus-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Remove Sign",
     "symbol":"glyphicon glyphicon-remove-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Ok Sign",
     "symbol":"glyphicon glyphicon-ok-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Question Mark",
     "symbol":"glyphicon glyphicon-question-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Info Sign",
     "symbol":"glyphicon glyphicon-info-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Screenshot",
     "symbol":"glyphicon glyphicon-screenshot",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Remove Circle",
     "symbol":"glyphicon glyphicon-remove-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Ok Circle",
     "symbol":"glyphicon glyphicon-ok-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Ban Circle",
     "symbol":"glyphicon glyphicon-ban-circle",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Left",
     "symbol":"glyphicon glyphicon-arrow-left",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Right",
     "symbol":"glyphicon glyphicon-arrow-right",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Up",
     "symbol":"glyphicon glyphicon-arrow-up",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Arrow Down",
     "symbol":"glyphicon glyphicon-arrow-down",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4678,21 +4678,21 @@
   {
     "name":"Resize Full",
     "symbol":"glyphicon glyphicon-resize-full",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Resize Small",
     "symbol":"glyphicon glyphicon-resize-small",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Exclamation Sign",
     "symbol":"glyphicon glyphicon-exclamation-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4734,7 +4734,7 @@
   {
     "name":"Warning Sign",
     "symbol":"glyphicon glyphicon-warning-sign",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4755,7 +4755,7 @@
   {
     "name":"Random",
     "symbol":"glyphicon glyphicon-random",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4776,14 +4776,14 @@
   {
     "name":"Chevron Up",
     "symbol":"glyphicon glyphicon-chevron-up",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Chevron Down",
     "symbol":"glyphicon glyphicon-chevron-down",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4818,14 +4818,14 @@
   {
     "name":"Resize Vertical",
     "symbol":"glyphicon glyphicon-resize-vertical",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Resize Horizontal",
     "symbol":"glyphicon glyphicon-resize-horizontal",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4853,7 +4853,7 @@
   {
     "name":"Certificate",
     "symbol":"glyphicon glyphicon-certificate",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4902,35 +4902,35 @@
   {
     "name":"Circle Arrow Right",
     "symbol":"glyphicon glyphicon-circle-arrow-right",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Left",
     "symbol":"glyphicon glyphicon-circle-arrow-left",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Up",
     "symbol":"glyphicon glyphicon-circle-arrow-up",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Circle Arrow Down",
     "symbol":"glyphicon glyphicon-circle-arrow-down",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Globe",
     "symbol":"glyphicon glyphicon-globe",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4944,14 +4944,14 @@
   {
     "name":"Tasks",
     "symbol":"glyphicon glyphicon-tasks",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Filter",
     "symbol":"glyphicon glyphicon-filter",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4965,14 +4965,14 @@
   {
     "name":"Full Screen",
     "symbol":"glyphicon glyphicon-fullscreen",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Dashboard",
     "symbol":"glyphicon glyphicon-dashboard",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -4993,7 +4993,7 @@
   {
     "name":"Link",
     "symbol":"glyphicon glyphicon-link",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -5028,105 +5028,105 @@
   {
     "name":"Sort",
     "symbol":"glyphicon glyphicon-sort",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Sort by Alphabet",
     "symbol":"glyphicon glyphicon-sort-by-alphabet",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Sort by Alphabet Alt",
     "symbol":"glyphicon glyphicon-sort-by-alphabet-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Sort by Order",
     "symbol":"glyphicon glyphicon-sort-by-order",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Sort by Order Alt",
     "symbol":"glyphicon glyphicon-sort-by-order-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Sort by Attributes",
     "symbol":"glyphicon glyphicon-sort-by-attributes",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Sort by Attributes Alt",
     "symbol":"glyphicon glyphicon-sort-by-attributes-alt",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Unchecked ",
     "symbol":"glyphicon glyphicon-unchecked",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Expand",
     "symbol":"glyphicon glyphicon-expand",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Collapse Down",
     "symbol":"glyphicon glyphicon-collapse-down",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Collapse Up",
     "symbol":"glyphicon glyphicon-collapse-up",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Login",
     "symbol":"glyphicon glyphicon-log-in",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Flash",
     "symbol":"glyphicon glyphicon-flash",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Logout",
     "symbol":"glyphicon glyphicon-log-out",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"New Window",
     "symbol":"glyphicon glyphicon-new-window",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
@@ -5238,14 +5238,14 @@
   {
     "name":"Header",
     "symbol":"glyphicon glyphicon-header",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
   {
     "name":"Compressed",
     "symbol":"glyphicon glyphicon-compressed",
-    "category":"UI",
+   "category":"UI",
     "set":"glyphSet",
     "keywords":"UI"
   },
