@@ -2,7 +2,7 @@
 
 #Project Maraschino
 
-###Welcome to Maraschino - an app to help you find the right glyphs for your project using these open source libraries:
+###Helping you "cherry pick" icons from these open source libraries:
   * Font-Awesome by <a href="https://twitter.com/davegandy" target="_new">Dave Gandy</a>
   * Glyphicons by <a href="https://twitter.com/jankovarik" target="_new">Jan Kovařík</a>
   * Ionicons by <a href="https://twitter.com/benjsperry" target="_new">Ben Sperry</a>
