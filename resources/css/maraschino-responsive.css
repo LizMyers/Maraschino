@@ -1,0 +1,470 @@
+/* ===  MARASCHINO MEDIA QUERIES ===*/
+
+/* ==========================================================
+                   LARGE min-width: 1200px
+==========================================================*/
+
+@media (min-width: 1200px) {
+    
+    /* ======================
+              Quick Start
+    =======================*/ 
+    
+        code {
+            background:lightblue;
+            border:0px solid blue;
+            display:block;
+            font-size: 1.15em!important;
+            height:50px;
+            margin-left: 10%;
+            margin-top:-10px;
+            text-align: center!important;
+            white-space: nowrap!important;
+            width:75%;
+        }
+        .steps {
+            font-size: 1em;
+            padding:4px;
+            text-align: left;
+            width:91%;
+        }
+
+ 
+} /* // END LARGE (min-width 1200px)*/
+
+/* ==========================================================
+                  MEDIUM min-width: 992px
+===========================================================*/
+
+@media (min-width: 992px) {
+    
+    /* ======================
+              Quick Start
+    =======================*/ 
+    
+        code {
+            background:lightblue;
+            border:0px solid blue;
+            display:block;
+            font-size: 1.15em!important;
+            height:50px;
+            margin-left: 10%;
+            margin-top:-10px;
+            text-align: center!important;
+            white-space: nowrap!important;
+            width:75%;
+        }
+        .steps {
+            font-size: 1em;
+            padding:4px;
+            text-align: left;
+            width:91%;
+        }
+        .steps-sub {
+            margin-top:20px;
+        }
+        .faq-row {
+            margin-top:100px;
+        }
+
+    
+} /* // END MEDIUM (max-width 992px)*/
+
+   /* =======================================================
+            IPAD 768 - 991 pixel devices
+    ========================================================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+/* ======================
+              Quick Start
+    =======================*/ 
+    
+        code {
+            background:lightblue;
+            border:0px solid blue;
+            display:block;
+            font-size: 1.15em!important;
+            height:50px;
+            margin-left: 10%;
+            margin-top:-10px;
+            text-align: center!important;
+            white-space: nowrap!important;
+            width:75%;
+        }
+        .steps {
+            font-size: 1em;
+            padding:4px;
+            text-align: left;
+            width:91%;
+        }
+
+        .faq-row {
+            margin-top:150px!important;
+        }
+
+        /*-----------------------------------------------------
+        ------------------------- FAQ ------------------------
+        -------------------------------------------------------*/
+        #faq {
+            background: url(../img/developers01.jpg)no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            /*min-height:900px;*/
+            /*max-height: 1200px;*/
+            padding-top: 20px;
+            padding-left:50px;
+            width:100%;
+            overflow: hidden;
+            z-index: 1000!important;
+        }
+
+    
+}/* // END iPAD/
+
+/* ===========================================================
+                    SMALL -min-width: 768px
+============================================================*/
+
+@media (min-width: 768px) {
+    
+    /* ======================
+              Quick Start
+    =======================*/ 
+    
+        code {
+            background:lightblue;
+            border:0px solid blue;
+            display:block;
+            font-size: 1.15em!important;
+            height:50px;
+            margin-left: 10%;
+            margin-top:-10px;
+            text-align: center!important;
+            white-space: nowrap!important;
+            width:75%;
+        }
+        .steps {
+            font-size: 1em;
+            line-height: 1.2em;
+            padding:4px;
+            text-align: left;
+            width:91%;
+        }
+                /*-----------------------------------------------------
+        ------------------------- FAQ ------------------------
+        -------------------------------------------------------*/
+        #faq {
+            background: url(../img/developers01.jpg)no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+          /*  min-height:900px;*/
+            /*max-height: 1200px;*/
+            padding-top: 20px;
+            padding-left:50px;
+            width:100%;
+            overflow: hidden;
+            z-index: 1000!important;
+        }
+        .faq-title {
+            color: #FFC900;
+            font-family: 'Lato', sans-serif;
+            font-size: 1.1em;
+            line-height: 1.3em;
+            text-shadow: 2px 2px 2px #222;
+        }
+        .faq-body {
+            color:snow;
+            /*font-family: 'Lato', sans-serif;*/
+            font-size: 1em;
+            line-height: 1.6em;
+            margin-top: -6px;
+            padding-bottom: 50px!important;
+            text-shadow: 2px 2px 2px #222;
+            width:85%;
+        }
+        .header-icon {
+            border:0px solid #ddd;
+            font-size: 1.5em;
+            margin-top: -15px;
+            text-align: center;
+            width:100%;
+        }
+        .last-row {
+            padding-bottom: 80px;
+        }
+        .faq-row {
+            margin-left:50px;
+            width:93%;
+        }
+
+
+} /* // END SMALL (min-width 768px)*/
+
+/* ===========================================================
+                   XTRA SMALL max-width:767px
+============================================================*/
+
+@media (max-width:767px) {
+    
+    /* ======================
+              Quick Start
+    =======================*/ 
+    
+        code {
+            background:lightblue;
+            border:0px solid blue;
+            display:block;
+            font-size: 0.85em!important;
+            height:50px;
+            margin-left: 10%;
+            margin-top:-10px;
+            text-align: center!important;
+            white-space: nowrap!important;
+            width:75%;
+        }
+        .steps {
+            font-size: 1em;
+            line-height: 1.2em;
+            padding:4px;
+            text-align: left;
+            width:91%;
+        }
+        .steps-sub {
+            display:none;
+        }
+
+        .row-faq{
+            margin-top:0;
+            padding-top:0;
+        }
+
+         /*-----------------------------------------------------
+        ------------------- DOWNLOADS------------------
+        -------------------------------------------------------*/
+
+        #downloads {
+            background:#F04E52;
+            font-size:0.85em;
+            font-weight: normal;
+            line-height: 2em;
+            text-align: center;
+        }
+
+        div.circle-bkgnd i {
+            line-height: 2.5em;
+            text-align: center;
+        }
+        .download {
+            border-left:none;
+            text-align: center!important;
+        }
+        #downloads .row {
+            font-family:'Lato', sans-serif;
+            margin-top: 50px;
+            padding-bottom:90px;
+            text-align: center!important;
+        }
+        i.download-icon {
+            font-size: 1.75em;
+        }
+        span.icon-fonts-total {
+            font-size: 2em;
+        }
+         span.no-icons {
+            font-size: 0.8em!important;
+            margin-bottom: 20px;
+        }
+        .btn {
+            margin-top:10px;
+            margin-bottom:50px;
+        }
+        .btn-download {
+            cursor: pointer;
+            line-height: 1.5em;
+            padding-bottom: 4px;
+        } 
+
+    
+}/* // END XTRA SMALL (max-width 767px)*/
+
+/* ===========================================================
+                   XTRA SMALL XTRA STYLES min-width: 481 max-width:767px
+============================================================*/
+
+@media (min-width:350px) and (max-width:767px) {
+    
+/* ======================
+              Quick Start
+    =======================*/ 
+    
+        code {
+            background:lightblue;
+            border:0px solid blue;
+            display:block;
+            font-size: 0.85em!important;
+            height:50px;
+            margin-left: 10%;
+            margin-top:-10px;
+            text-align: center!important;
+            white-space: nowrap!important;
+            width:75%;
+        }
+        .steps {
+            font-size: 1em;
+            padding:4px;
+            text-align: left;
+            width:91%;
+        }
+        /*-----------------------------------------------------
+        ------------------------- FAQ ------------------------
+        -------------------------------------------------------*/
+        #faq {
+            background: url(../img/developers01.jpg)no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+         /*   min-height:900px;*/
+            /*max-height: 1200px;*/
+            padding-top: 20px;
+            padding-left:50px;
+            width:100%;
+            overflow: hidden;
+            z-index: 1000!important;
+        }
+        .faq-title {
+            color: #FFC900;
+            font-family: 'Lato', sans-serif;
+            font-size: 1.1em;
+            line-height: 1.3em;
+            text-shadow: 2px 2px 2px #222;
+        }
+        .faq-body {
+            color:snow;
+            /*font-family: 'Lato', sans-serif;*/
+            font-size: 1em;
+            line-height: 1.6em;
+            margin-top: -6px;
+            padding-bottom: 50px!important;
+            text-shadow: 2px 2px 2px #222;
+        }
+        .header-icon {
+            border:0px solid #ddd;
+            font-size: 1.5em;
+            margin-top: -15px;
+            text-align: center;
+            width:100%;
+        }
+        .last-row {
+            padding-bottom: 80px;
+        }
+        .faq-row {
+            margin-left:0px;
+            width:98%;
+
+        }
+   /*-----------------------------------------------------
+------------------- DOWNLOADS------------------
+-------------------------------------------------------*/
+
+        #downloads {
+            background:#F04E52;
+            font-size:0.85em;
+            font-weight: normal;
+            line-height: 2em;
+            text-align: center;
+        }
+
+        div.circle-bkgnd i {
+            line-height: 2.5em;
+            text-align: center;
+        }
+        .download {
+            border-top:2px dotted gold;
+            margin:0 18% auto;
+            padding-top:20px;
+            text-align: center!important;
+            width:60%;
+        }
+        #downloads .row {
+            font-family:'Lato', sans-serif;
+            margin-top: 50px;
+            padding-bottom:90px;
+            text-align: center!important;
+        }
+        i.download-icon {
+            font-size: 1.75em;
+        }
+        span.icon-fonts-total {
+            font-size: 2em;
+        }
+         span.no-icons{
+            font-size: 0.8em!important;
+            margin-bottom: 20px;
+        }
+        .btn {
+            margin-top:10px;
+        }
+        .btn-download {
+            cursor: pointer;
+            line-height: 1.5em;
+            padding-bottom: 4px;
+        } 
+
+        /*-----------------------------------------------------
+        ---------------------FOOTER ------------------------
+        -------------------------------------------------------*/
+        footer {
+            background:#262626;
+            color:#ccc;
+            font-family:'Lato', sans-serif;
+            font-size: 0.65em;
+            font-weight: 300;
+            min-height: 200px;
+            text-align: left;
+        }
+        .footer{
+            line-height:1em;
+        }
+        .footer a {
+            color:gold;
+        }
+        h4 {
+            color:#f04e52;
+            font-weight: bold;
+            line-height: 0.75em;
+            text-align: left;
+        }
+        .icon-credits, .help-wanted {
+            line-height: 1.5em;
+            padding:0;
+            padding-right:120px;
+        }
+        #credits{
+            margin: 50px 20px 20px 20px;
+            width:100%;
+        }
+        #help-wanted {
+            margin: 50px 20px 100px 20px;
+            line-height: 1.5em;
+        }
+        .icon-credits {
+            text-align: right!important;    
+        }
+        .icon-github i.ion-social-github,
+        .icon-credits  .fa-thumbs-up {
+            color:#f04e52;
+            font-size: 3em;
+            text-align: right;
+        }
+
+  
+} /*// END XTRA XTRA SMALL (max-width 767px)*/
+
+
+

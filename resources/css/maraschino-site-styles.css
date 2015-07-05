@@ -1,0 +1,403 @@
+body {
+	color:snow;
+	font-family:'Amiri', serif;
+	font-size:17pt;
+	line-height: 1.2em;
+	background:#262626;
+	margin:0;
+	overflow-x:hidden;
+	padding:0;
+	width:100%!important;
+
+}
+.navbar-nav >.active > a{
+	background:blue!important;
+	background-color:#262626!important;
+	border-top:2px solid yellow!important;
+	color:gray!important;
+}
+.navbar, .navbar-default, .navbar-fixed-top {
+	/*background:#262626;*/
+	border-bottom:none!important;
+}
+div.navbar.collapse.navbar-collapse.navbar-fixed-top {
+	background:blue!important;
+}
+a {
+	color:gold;
+}
+a:hover, a:visited, button, 
+.btn, .btn-lg
+{
+	color:white;
+}
+a:hover, .btn:hover, .btn-lg:hover
+{
+	color:yellow;
+}
+.btn .btn-lg:focus {
+	border:none!important;
+}
+nav {
+	background:#f04e52;
+	/*border:1px solid green;*/
+	color:white;
+	font-size:0.65em;
+	font-weight:normal;
+	letter-spacing: 0.25em;
+/*	line-height: 1em;*/
+	padding-left: 20px;
+	text-transform: uppercase;
+	width:100%;
+}
+.navbar-brand {
+	color:white!important;
+	left:30px;
+	margin:0;
+	padding:0;
+	position: absolute;
+	top:12px!important;
+}
+nav i.md-cherries {
+	font-size: 1.5em;
+	position:relative;
+	top:4px;
+}
+.navbar-default, .navbar-collapse {
+	background: #F04E52;
+	border: 0px solid #F04E52;
+	color:white!important;
+}
+.navbar-toggle  {
+	background:#F04E52!important;
+	border:1px solid white!important;
+}
+.navbar-toggle span {
+	background:white!important;
+}
+
+.navbar-default li a {
+	color:white!important;
+	letter-spacing: none;
+}
+.navbar-default li a:hover {
+	color:gold!important;
+	letter-spacing: none;
+	/*text-decoration: underline!important;*/
+}
+h1 {
+	border:0px solid red;
+	font-size: 2.5em;
+	color:white;
+	line-height: -2em;
+	margin-top:-30px!important;
+	text-align: center;
+}
+h4 {
+	color:white;
+	text-align: center;
+}
+h1.dark-text {
+	color: #444;
+}
+
+i {
+	padding-top: 10px;
+}
+
+/*-----------------------------------------------------
+--------------------- INTRO --------------------
+-------------------------------------------------------*/
+#intro {
+	/*height:100%!important;*/
+	padding-top:10px;
+	padding-bottom: 10px;
+	text-align: center;
+	width:100%;
+}
+.light-text {
+	border:opx solid red;
+	margin-top: -40px;
+	margin-bottom: 50px;
+}
+/*iframe {margin:5%;}*/
+.gray-grid {
+	background-color:#444;
+	background-image: linear-gradient(#555 1px, transparent 1px),
+	linear-gradient(90deg, #555 1px, transparent 1px),
+	linear-gradient(rgba(110,110,110,.3) 1px, transparent 1px),
+	linear-gradient(90deg, rgba(110,110,110,.3) 1px, transparent 1px);
+	background-size:100px 100px, 100px 100px, 20px 20px, 20px 20px;
+	background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px
+}
+#action-bar{
+	background:#333;
+	height:90px;
+	margin-top:0px;
+	padding-top:10px;
+	text-align: center;
+	width:100%;
+}
+.btn-cherry {
+	background:#f04e52;
+	color:white;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	height:50px;
+	line-height: 0em;
+	margin-top: 10px;
+	padding:0;
+	padding-bottom:10px;
+	text-align: center;
+	width:13em;
+}
+
+/*-----------------------------------------------------
+------------------- QUICK START ------------------
+-------------------------------------------------------*/
+#quick-start {
+	background:#FEDEA1;
+	color:#444;
+	text-align: center;
+	width:100%;
+}
+.dark-text {
+	border:0px solid red;
+	margin-top: -30px;
+}
+.demo-icon {
+	border:0px solid red;
+	font-size: 1.95em;
+	margin-top: 30px;
+}
+.fa-spin {
+	height:100%;
+	margin-top:10px;
+	padding:0;
+	width:100%;
+}
+.header-icon {
+	font-size: 1.5em;
+	line-height: 3em;
+	margin-top: 50px
+}
+.instructions {
+	border:0px solid red;
+	margin-top:50px;
+	text-align:center!important;
+	width:100%;	
+}
+.steps {
+	font-size: 0.9em;
+	line-height: 3em;
+	margin-left:4%;
+	padding-top: 10px;
+	padding:4px;
+	text-align: center!important;
+}
+ .steps-sub {
+ 	font-family:'Lato', sans-serif;
+	font-size: 0.7em;
+	margin-top:-30px;
+	margin-bottom:30px;
+	padding-left:20%;
+	padding-right:20%;
+	text-align: center;
+	width:100%;
+}
+b.code-highlight {
+	color:#f04e52;
+	background:lightlblue;
+}
+code {
+	background:lightblue;
+	border:0px solid blue;
+	display:block;
+	font-size: 1.25em!important;
+	height:50px;
+	margin-left: 10%;
+	margin-top:-10px;
+	text-align: center!important;
+	white-space: nowrap!important;
+	width:75%;
+}
+.last-row {
+	padding-bottom: 80px;
+}
+.instructions i {
+	color:#444;
+}
+pre {
+	background:#FFF5D7;
+	border:1px solid #D0CB8D;
+	font-family: 'Lato', sans-serif;
+	font-size: 0.35em;
+	margin-top:10px;
+}
+
+/*-----------------------------------------------------
+------------------------- FAQ ------------------------
+-------------------------------------------------------*/
+#faq {
+	background: url(../img/developers01.jpg)no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height:900px;
+	/*max-height: 1200px;*/
+	padding-top: 20px;
+	padding-left:50px;
+	/*width:100%;*/
+	overflow: hidden;
+	z-index: 1000!important;
+}
+.faq-title {
+	color: #FFC900;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.1em;
+	line-height: 1.3em;
+	text-shadow: 2px 2px 2px #222;
+}
+.faq-body {
+	color:snow;
+	/*font-family: 'Lato', sans-serif;*/
+	font-size: 1em;
+	line-height: 1.6em;
+	margin-top: -6px;
+	padding-bottom: 50px!important;
+	text-shadow: 2px 2px 2px #222;
+	width:85%;
+}
+.header-icon {
+	border:0px solid #ddd;
+	font-size: 1.5em;
+	margin-top: -15px;
+	text-align: center;
+	width:100%;
+}
+.last-row {
+	padding-bottom: 80px;
+}
+.faq-row {
+	margin-left:50px;
+	width:98%;
+
+}
+
+/*-----------------------------------------------------
+------------------- DOWNLOADS------------------
+-------------------------------------------------------*/
+
+#downloads {
+	background:#F04E52;
+	color:white;
+	font-size:0.85em;
+	font-weight: normal;
+	line-height: 2em;
+	text-align: center;
+}
+.circle-bkgnd {
+	/*background:#EB153F;*/
+	background:#EBA33F;
+	border-radius: 50%;
+	height:50px;
+	margin:0 40% auto;
+	padding-bottom:20px;
+	text-align: center!important;
+	width:50px;
+}
+div.circle-bkgnd i {
+	line-height: 2em;
+	text-align: center;
+}
+.download {
+	border-left:2px dotted gold;
+	text-align: center!important;
+}
+#downloads .row {
+	font-family:'Lato', sans-serif;
+	margin-top: 50px;
+	padding-bottom:130px;
+	text-align: center!important;
+}
+i.download-icon {
+	font-size: 1.75em;
+	line-height: -2em;
+}
+span.icon-fonts-total {
+	font-size: 2em;
+}
+ span.no-icons{
+	font-size: 0.8em!important;
+	margin-bottom: 40px;
+}
+span.label {
+	border:0px solid white;
+	vertical-align: middle;
+	display: inline-block;
+	line-height: -2em!important;
+	margin:0;
+	margin-left:-5px;	
+}
+.btn-download{
+	cursor: pointer;
+	line-height: -1em;
+	margin:0;
+	padding:0;
+	/*padding-bottom: 10px;*/
+
+}
+/*-----------------------------------------------------
+---------------------FOOTER ------------------------
+-------------------------------------------------------*/
+footer {
+	background:#262626;
+	color:#ccc;
+	font-family:'Lato', sans-serif;
+	font-size: 0.65em;
+	font-weight: 300;
+	min-height: 200px;
+	text-align: left;
+}
+.footer{
+	line-height:1em;
+}
+.footer a {
+	color:gold;
+}
+h4 {
+	color:#f04e52;
+	font-weight: bold;
+	line-height: 0.75em;
+	text-align: left;
+}
+.icon-credits, .help-wanted {
+	line-height: 1.5em;
+	padding:0;
+}
+#credits{
+	border:0px solid gold;
+	margin-top:10px;
+	/*width:40%;*/
+}
+#help-wanted {
+	border:0px solid gold;
+	line-height: 1.5em;
+	margin-top:10px;
+}
+.icon-credits i {
+	text-align: right!important;	
+}
+.icon-github .ion-social-github,
+.icon-credits  i.fa-thumbs-up {
+	color:#f04e52;
+	font-size: 3em;
+	margin-top:10px;
+}
+
+
+
+
+
+
