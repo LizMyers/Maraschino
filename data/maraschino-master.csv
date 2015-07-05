@@ -121,8 +121,8 @@ Cloud Download,fa fa-cloud-download,technology,faSet,technology
 Cloud Upload,fa fa-cloud-upload,technology,faSet,technology
 Chinese Yuan,fa fa-cny,business,faSet,business
 Code,fa fa-code,technology,faSet,technology
-Codepen,fa fa-codepen,social,faSet,technology
 Fork Code,fa fa-code-fork,technology,faSet,technology
+Codepen,fa fa-codepen,social,faSet,technology
 Coffee,fa fa-coffee,entertainment,faSet,"entertainment, media"
 Cog,fa fa-cog,UI,faSet,UI
 Cogs,fa fa-cogs,UI,faSet,UI
@@ -170,8 +170,8 @@ Expand,fa fa-expand,UI,faSet,UI
 Link,fa fa-external-link,UI,faSet,UI
 Link,fa fa-external-link-square,UI,faSet,UI
 Visible,fa fa-eye,UI,faSet,UI
-Eye Dropper,fa fa-eyedropper,objects,faSet,objects
 Not Visible,fa fa-eye-slash,UI,faSet,UI
+Eye Dropper,fa fa-eyedropper,objects,faSet,objects
 Facebook,fa fa-facebook,social,faSet,social
 Facebook,fa fa-facebook-official,social,faSet,social
 Facebook,fa fa-facebook-square,social,faSet,social
@@ -181,12 +181,12 @@ Fax,fa fa-fax,office,faSet,"office, business, communications"
 Female,fa fa-female,social,faSet,social
 Fighter Jet,fa fa-fighter-jet,travel,faSet,travel
 File,fa fa-file,technology,faSet,technology
-File,fa fa-file-o,technology,faSet,technology
 Archive ,fa fa-file-archive-o,technology,faSet,technology
 Audio File,fa fa-file-audio-o,technology,faSet,technology
 Code File,fa fa-file-code-o,technology,faSet,technology
 Excel Document,fa fa-file-excel-o,technology,faSet,technology
 Image File,fa fa-file-image-o,technology,faSet,technology
+File,fa fa-file-o,technology,faSet,technology
 PDF Document,fa fa-file-pdf-o,technology,faSet,technology
 Powerpoint File,fa fa-file-powerpoint-o,technology,faSet,technology
 Document,fa fa-file-text,technology,faSet,technology
@@ -322,9 +322,9 @@ Open ID,fa fa-openid,people,faSet,technology
 Outdent,fa fa-outdent,UI,faSet,UI
 PageLines,fa fa-pagelines,social,faSet,social
 Paint Brush,fa fa-paint-brush,objects,faSet,"art, UI"
-Paperclip,fa fa-paperclip,business,faSet,business
 Paper Airplane,fa fa-paper-plane,travel,faSet,"UI, mail"
 Paper Airplane,fa fa-paper-plane-o,travel,faSet,"UI, mail"
+Paperclip,fa fa-paperclip,business,faSet,business
 Paragraph,fa fa-paragraph,UI,faSet,"UI, type"
 Paste,fa fa-paste,UI,faSet,UI
 Pause,fa fa-pause,entertainment,faSet,"entertainment, media"
@@ -403,12 +403,12 @@ Sliders,fa fa-sliders,UI,faSet,UI
 Slideshare,fa fa-slideshare,social,faSet,social
 Smile ,fa fa-smile-o,social,faSet,social
 Sort,fa fa-sort,UI,faSet,UI
+Sort Ascending,fa fa-sort asc,UI,faSet,UI
+Sort Descending,fa fa-sort desc,UI,faSet,UI
 Sort Alpha Asc,fa fa-sort-alpha-asc,UI,faSet,UI
 Sort Alpha Desc,fa fa-sort-alpha-desc,UI,faSet,UI
 Sort Amount Asc,fa fa-sort-amount-asc,UI,faSet,UI
 Sort Amount Desc,fa fa-sort-amount-desc,UI,faSet,UI
-Sort Ascending,fa fa-sort asc,UI,faSet,UI
-Sort Descending,fa fa-sort desc,UI,faSet,UI
 Sort Down,fa fa-sort-down,UI,faSet,UI
 Sort Numeric Asc,fa fa-sort-numeric-asc,UI,faSet,UI
 Sort Numeric Desc,fa fa-sort-numeric-desc,UI,faSet,UI
@@ -465,8 +465,8 @@ Close,fa fa-times,UI,faSet,UI
 Circle Close,fa fa-times-circle,UI,faSet,UI
 Circle Close,fa fa-times-circle-o,UI,faSet,UI
 Tint,fa fa-tint,entertainment,faSet,"entertainment, media"
-Toggle On,fa fa-toggle-on,UI,faSet,UI
 Toggle Off,fa fa-toggle-off,UI,faSet,UI
+Toggle On,fa fa-toggle-on,UI,faSet,UI
 Train,fa fa-train,travel,faSet,"travel, railroad"
 Transgender,fa fa-transgender,people,faSet,people
 Transgender,fa fa-transgender-alt,people,faSet,people
@@ -522,25 +522,32 @@ YouTube,fa fa-youtube,social,faSet,social
 YouTube Play,fa fa-youtube-play,social,faSet,social
 YouTube,fa fa-youtube-square,social,faSet,social
 Adjust,glyphicon glyphicon-adjust,UI,glyphSet,UI
+Alert,glyphicon glyphicon-alert,UI,glyphSet,warning
 Align Center,glyphicon glyphicon-align-center,UI,glyphSet,UI
 Align Justify,glyphicon glyphicon-align-justify,UI,glyphSet,UI
 Align Left,glyphicon glyphicon-align-left,UI,glyphSet,UI
 Align Right,glyphicon glyphicon-align-right,UI,glyphSet,UI
+Apple,glyphicon glyphicon-apple,food,glyphSet,
 Arrow Down,glyphicon glyphicon-arrow-down,UI,glyphSet,UI
 Arrow Left,glyphicon glyphicon-arrow-left,UI,glyphSet,UI
 Arrow Right,glyphicon glyphicon-arrow-right,UI,glyphSet,UI
 Arrow Up,glyphicon glyphicon-arrow-up,UI,glyphSet,UI
 Asterisk,glyphicon glyphicon-asterisk,UI,glyphSet,UI
+Baby Formula,glyphicon glyphicon-baby-formula,people,glyphSet,food
 Backward,glyphicon glyphicon-backward,entertainment,glyphSet,"entertainment, media"
 Ban Circle,glyphicon glyphicon-ban-circle,UI,glyphSet,UI
 Barcode,glyphicon glyphicon-barcode,technology,glyphSet,technology
+Bed,glyphicon glyphicon-bed,travel,glyphSet,"hotel, hostel, travel, sleep"
 Bell,glyphicon glyphicon-bell,objects,glyphSet,objects
+Bishop,glyphicon glyphicon-bishop,entertainment,glyphSet,chess
+Bitcoin,glyphicon glyphicon-bitcoin,business,glyphSet,"btc, xbt, currency, money"
+Blackboard,glyphicon glyphicon-blackboard,objects,glyphSet,"chalkboard, school, learn, education"
 Bold,glyphicon glyphicon-bold,UI,glyphSet,UI
 Book,glyphicon glyphicon-book,objects,glyphSet,objects
 Bookmark,glyphicon glyphicon-bookmark,objects,glyphSet,objects
-Briefcase,glyphicon glyphicon-briefcase,"office, business, objects",glyphSet,"office, business, objects"
+Briefcase,glyphicon glyphicon-briefcase,office,glyphSet,"office, business, objects"
 Bullhorn,glyphicon glyphicon-bullhorn,objects,glyphSet,objects
-Calendar,glyphicon glyphicon-calendar,"objects, office",glyphSet,"objects, office"
+Calendar,glyphicon glyphicon-calendar,objects,glyphSet,"objects, office"
 Camera,glyphicon glyphicon-camera,entertainment,glyphSet,"entertainment, media"
 Certificate,glyphicon glyphicon-certificate,UI,glyphSet,UI
 Check,glyphicon glyphicon-check,UI,glyphSet,UI
@@ -553,48 +560,61 @@ Circle Arrow Left,glyphicon glyphicon-circle-arrow-left,UI,glyphSet,UI
 Circle Arrow Right,glyphicon glyphicon-circle-arrow-right,UI,glyphSet,UI
 Circle Arrow Up,glyphicon glyphicon-circle-arrow-up,UI,glyphSet,UI
 Cloud,glyphicon glyphicon-cloud,technology,glyphSet,technology
-Download,glyphicon glyphicon-cloud-download,"UI, technology",glyphSet,"UI, technology"
-Upload,glyphicon glyphicon-cloud-upload,"UI, technology",glyphSet,"UI, technology"
+Download,glyphicon glyphicon-cloud-download,UI,glyphSet,"UI, technology"
+Upload,glyphicon glyphicon-cloud-upload,UI,glyphSet,"UI, technology"
 Cog,glyphicon glyphicon-cog,UI,glyphSet,UI
 Collapse Down,glyphicon glyphicon-collapse-down,UI,glyphSet,UI
 Collapse Up,glyphicon glyphicon-collapse-up,UI,glyphSet,UI
 Comment,glyphicon glyphicon-comment,social,glyphSet,social
 Compressed,glyphicon glyphicon-compressed,UI,glyphSet,UI
+Console,glyphicon glyphicon-console,UI,glyphSet,prompt
+Copy,glyphicon glyphicon-copy,UI,glyphSet,edit
 Copyright,glyphicon glyphicon-copyright-mark,business,glyphSet,business
 Credit Card,glyphicon glyphicon-credit-card,business,glyphSet,business
 Cutlery,glyphicon glyphicon-cutlery,food,glyphSet,food
 Dashboard,glyphicon glyphicon-dashboard,UI,glyphSet,UI
 Download,glyphicon glyphicon-download,UI,glyphSet,UI
 Download Alt,glyphicon glyphicon-download-alt,UI,glyphSet,UI
+Duplicate,glyphicon glyphicon-duplicate,UI,glyphSet,edit
 Earphone,glyphicon glyphicon-earphone,entertainment,glyphSet,entertainment
 Edit,glyphicon glyphicon-edit,UI,glyphSet,UI
+Education,glyphicon glyphicon-education,objects,glyphSet,"cap, graduation, school"
 Eject,glyphicon glyphicon-eject,entertainment,glyphSet,"entertainment, media"
-Envelope,glyphicon glyphicon-envelope,"business, office",glyphSet,"business, office"
+Envelope,glyphicon glyphicon-envelope,business,glyphSet,"business, office"
+Equalizer,glyphicon glyphicon-equalizer,entertainment,glyphSet,sound
+Erase,glyphicon glyphicon-erase,objects,glyphSet,"edit, delete"
 Euro,glyphicon glyphicon-euro,business,glyphSet,business
 Exclamation Sign,glyphicon glyphicon-exclamation-sign,UI,glyphSet,UI
 Expand,glyphicon glyphicon-expand,UI,glyphSet,UI
-Export,glyphicon glyphicon-export,"UI, technology",glyphSet,"UI, technology"
+Export,glyphicon glyphicon-export,UI,glyphSet,"UI, technology"
+Export,glyphicon glyphicon-export,UI,glyphSet,UI
 Eye Close,glyphicon glyphicon-eye-close,people,glyphSet,people
 Eye Open,glyphicon glyphicon-eye-open,people,glyphSet,people
 Facetime Video,glyphicon glyphicon-facetime-video,entertainment,glyphSet,"entertainment, media"
 Fast Backward,glyphicon glyphicon-fast-backward,entertainment,glyphSet,"entertainment, media"
 Fast Forward,glyphicon glyphicon-fast-forward,entertainment,glyphSet,"entertainment, media"
-File,glyphicon glyphicon-file,"UI, technology",glyphSet,"UI, technology"
+File,glyphicon glyphicon-file,UI,glyphSet,"UI, technology"
 Film,glyphicon glyphicon-film,entertainment,glyphSet,"entertainment, media"
 Filter,glyphicon glyphicon-filter,UI,glyphSet,UI
 Fire,glyphicon glyphicon-fire,objects,glyphSet,objects
 Flag,glyphicon glyphicon-flag,objects,glyphSet,objects
 Flash,glyphicon glyphicon-flash,UI,glyphSet,UI
-Floppy Disk,glyphicon glyphicon-floppy-disk,"UI, technology",glyphSet,"UI, technology"
-Floppy Saved,glyphicon glyphicon-floppy-saved,"UI, technology",glyphSet,"UI, technology"
-Folder-Close,glyphicon glyphicon-folder-close,"office, technology",glyphSet,"office, technology"
-Folder Open,glyphicon glyphicon-folder-open,"office, technology",glyphSet,"office, technology"
+Floppy Disk,glyphicon glyphicon-floppy-disk,UI,glyphSet,"UI, technology"
+Floppy Disk,glyphicon glyphicon-floppy-disk,UI,glyphSet,UI
+Open,glyphicon glyphicon-floppy-open,UI,glyphSet,UI
+Remove,glyphicon glyphicon-floppy-remove,UI,glyphSet,UI
+Save,glyphicon glyphicon-floppy-save,UI,glyphSet,UI
+Floppy Saved,glyphicon glyphicon-floppy-saved,UI,glyphSet,"UI, technology"
+Saved,glyphicon glyphicon-floppy-saved,UI,glyphSet,UI
+Folder-Close,glyphicon glyphicon-folder-close,office,glyphSet,"office, technology"
+Folder Open,glyphicon glyphicon-folder-open,office,glyphSet,"office, technology"
 Font,glyphicon glyphicon-font,UI,glyphSet,UI
 Full Screen,glyphicon glyphicon-fullscreen,UI,glyphSet,UI
 GBP,glyphicon glyphicon-gbp,business,glyphSet,business
 Gift,glyphicon glyphicon-gift,objects,glyphSet,objects
-Glass,glyphicon glyphicon-glass,"food, objects",glyphSet,"food, objects"
+Glass,glyphicon glyphicon-glass,food,glyphSet,"entertainment, food, drink, party "
 Globe,glyphicon glyphicon-globe,UI,glyphSet,UI
+Grain,glyphicon glyphicon-grain,food,glyphSet,wheat
 Hand Down,glyphicon glyphicon-hand-down,social,glyphSet,social
 Hand Left,glyphicon glyphicon-hand-left,social,glyphSet,social
 Hand Right,glyphicon glyphicon-hand-right,social,glyphSet,social
@@ -603,54 +623,85 @@ HD Video,glyphicon glyphicon-hd-video,entertainment,glyphSet,"entertainment, med
 Hdd,glyphicon glyphicon-hdd,entertainment,glyphSet,"entertainment, media"
 Header,glyphicon glyphicon-header,UI,glyphSet,UI
 Headphones,glyphicon glyphicon-headphones,entertainment,glyphSet,"entertainment, media"
-Heart,glyphicon glyphicon-heart,"People, UI",glyphSet,"People, UI"
-Heart Empty,glyphicon glyphicon-heart-empty,"people, UI",glyphSet,"people, UI"
+Heart,glyphicon glyphicon-heart,People,glyphSet,"People, UI"
+Heart Empty,glyphicon glyphicon-heart-empty,people,glyphSet,"people, UI"
 Home,glyphicon glyphicon-home,UI,glyphSet,UI
-Import,glyphicon glyphicon-import,"UI, technology",glyphSet,"UI, technology"
-Inbox,glyphicon glyphicon-inbox,"UI, office",glyphSet,"UI, office"
+Hour Glass,glyphicon glyphicon-hourglass,objects,glyphSet,time
+Ice Lolly,glyphicon glyphicon-ice-lolly,food,glyphSet,popsicle
+Ice Lolly Tasted,glyphicon glyphicon-ice-lolly-tasted,food,glyphSet,popsicle
+Import,glyphicon glyphicon-import,UI,glyphSet,"UI, technology"
+Import,glyphicon glyphicon-import,UI,glyphSet,UI
+Inbox,glyphicon glyphicon-inbox,UI,glyphSet,"UI, office"
 Indent Left,glyphicon glyphicon-indent-left,UI,glyphSet,UI
 Indent Right,glyphicon glyphicon-indent-right,UI,glyphSet,UI
 Info Sign,glyphicon glyphicon-info-sign,UI,glyphSet,UI
 Italic,glyphicon glyphicon-italic,UI,glyphSet,UI
+King,glyphicon glyphicon-king,entertainment,glyphSet,chess
+Knight,glyphicon glyphicon-knight,entertainment,glyphSet,chess
+Lamp,glyphicon glyphicon-lamp,objects,glyphSet,
 Leaf,glyphicon glyphicon-leaf,objects,glyphSet,objects
+Level Up,glyphicon glyphicon-level-up,UI,glyphSet,game
 Link,glyphicon glyphicon-link,UI,glyphSet,UI
 List,glyphicon glyphicon-list,UI,glyphSet,UI
 List Alt,glyphicon glyphicon-list-alt,UI,glyphSet,UI
-Lock,glyphicon glyphicon-lock,"UI, objects",glyphSet,"UI, objects"
+Lock,glyphicon glyphicon-lock,UI,glyphSet,"UI, objects"
 Login,glyphicon glyphicon-log-in,UI,glyphSet,UI
 Logout,glyphicon glyphicon-log-out,UI,glyphSet,UI
 Magnet,glyphicon glyphicon-magnet,objects,glyphSet,objects
 Map Marker,glyphicon glyphicon-map-marker,travel,glyphSet,travel
+Menu Down,glyphicon glyphicon-menu-down,UI,glyphSet,menu
+Hamburger Menu,glyphicon glyphicon-menu-hamburger,UI,glyphSet,menu
+Menu Left,glyphicon glyphicon-menu-left,UI,glyphSet,menu
+Menu Right,glyphicon glyphicon-menu-right,UI,glyphSet,menu
+Menu Up,glyphicon glyphicon-menu-up,UI,glyphSet,menu
 Minus,glyphicon glyphicon-minus,UI,glyphSet,UI
 Minus Sign,glyphicon glyphicon-minus-sign,UI,glyphSet,UI
+Modal Window,glyphicon glyphicon-modal-window,UI,glyphSet,dialog
 Move,glyphicon glyphicon-move,UI,glyphSet,UI
 Music,glyphicon glyphicon-music,entertainment,glyphSet,"entertainment, media"
 New Window,glyphicon glyphicon-new-window,UI,glyphSet,UI
+Align Bottom,glyphicon glyphicon-object-align-bottom,UI,glyphSet,graphic
+Align Middle,glyphicon glyphicon-object-align-horizontal,UI,glyphSet,graphic
+Align Left,glyphicon glyphicon-object-align-left,UI,glyphSet,graphic
+Align Right,glyphicon glyphicon-object-align-right,UI,glyphSet,graphic
+Align Top,glyphicon glyphicon-object-align-top,UI,glyphSet,graphic
+Align Center,glyphicon glyphicon-object-align-vertical,UI,glyphSet,graphic
 Off,glyphicon glyphicon-off,UI,glyphSet,UI
+Oil,glyphicon glyphicon-oil,nature,glyphSet,fuel
 Ok,glyphicon glyphicon-ok,UI,glyphSet,UI
 Ok Circle,glyphicon glyphicon-ok-circle,UI,glyphSet,UI
 Ok Sign,glyphicon glyphicon-ok-sign,UI,glyphSet,UI
-Open,glyphicon glyphicon-open,"UI, technology",glyphSet,"UI, technology"
-Floppy Open,glyphicon glyphicon-open,"UI, technology",glyphSet,"UI, technology"
-Paperclip,glyphicon glyphicon-paperclip,"objects, office",glyphSet,"objects, office"
-Pencil,glyphicon glyphicon-pencil,"business, office",glyphSet,"business, office"
+Open,glyphicon glyphicon-open,UI,glyphSet,"UI, technology"
+Floppy Open,glyphicon glyphicon-open,UI,glyphSet,"UI, technology"
+Open,glyphicon glyphicon-open,UI,glyphSet,UI
+Open File,glyphicon glyphicon-open-file,UI,glyphSet,UI
+Options Menu,glyphicon glyphicon-option-horizontal,UI,glyphSet,"horizontal, menu"
+Options Menu,glyphicon glyphicon-option-vertical,UI,glyphSet,"vertical, menu"
+Paperclip,glyphicon glyphicon-paperclip,objects,glyphSet,"objects, office"
+Paste,glyphicon glyphicon-paste,UI,glyphSet,edit
+Pause,glyphicon glyphicon-pause,entertainment,glyphSet,media
+Pawn,glyphicon glyphicon-pawn,entertainment,glyphSet,chess
+Pencil,glyphicon glyphicon-pencil,business,glyphSet,"business, office"
 Phone,glyphicon glyphicon-phone,objects,glyphSet,objects
 Phone Alt,glyphicon glyphicon-phone-alt,objects,glyphSet,objects
 Picture,glyphicon glyphicon-picture,entertainment,glyphSet,"entertainment, media"
+Piggy Bank,glyphicon glyphicon-piggy-bank,objects,glyphSet,"save, money"
 Plane,glyphicon glyphicon-plane,objects,glyphSet,objects
+Play,glyphicon glyphicon-play,entertainment,glyphSet,media
 Play Circle,glyphicon glyphicon-play-circle,entertainment,glyphSet,"entertainment, media"
 Plus,glyphicon glyphicon-plus,UI,glyphSet,UI
 Plus Sign,glyphicon glyphicon-plus-sign,UI,glyphSet,UI
 Print,glyphicon glyphicon-print,office,glyphSet,office
-Pushpin,glyphicon glyphicon-pushpin,"office, objects",glyphSet,"office, objects"
+Pushpin,glyphicon glyphicon-pushpin,office,glyphSet,"office, objects"
 Qrcode,glyphicon glyphicon-qrcode,technology,glyphSet,technology
+Queen,glyphicon glyphicon-queen,entertainment,glyphSet,chess
 Question Mark,glyphicon glyphicon-question-sign,UI,glyphSet,UI
 Random,glyphicon glyphicon-random,UI,glyphSet,UI
 Record,glyphicon glyphicon-record,entertainment,glyphSet,entertainment
-Refresh,glyphicon glyphicon-refresh,"UI, technology",glyphSet,"UI, technology"
+Refresh,glyphicon glyphicon-refresh,UI,glyphSet,"UI, technology"
 Registered ,glyphicon glyphicon-registration-mark,business,glyphSet,business
 Remove,glyphicon glyphicon-remove,UI,glyphSet,UI
-Floppy Remove,glyphicon glyphicon-remove,"UI, technology",glyphSet,"UI, technology"
+Floppy Remove,glyphicon glyphicon-remove,UI,glyphSet,"UI, technology"
 Remove Circle,glyphicon glyphicon-remove-circle,UI,glyphSet,UI
 Remove Sign,glyphicon glyphicon-remove-sign,UI,glyphSet,UI
 Repeat,glyphicon glyphicon-repeat,entertainment,glyphSet,"entertainment, media"
@@ -659,17 +710,24 @@ Resize Horizontal,glyphicon glyphicon-resize-horizontal,UI,glyphSet,UI
 Resize Small,glyphicon glyphicon-resize-small,UI,glyphSet,UI
 Resize Vertical,glyphicon glyphicon-resize-vertical,UI,glyphSet,UI
 Retweet,glyphicon glyphicon-retweet,social,glyphSet,social
-Road,glyphicon glyphicon-road,"UI, travel",glyphSet,"UI, travel"
-Save,glyphicon glyphicon-save,"UI, technology",glyphSet,"UI, technology"
-Floppy Save,glyphicon glyphicon-save,"UI, technology",glyphSet,"UI, technology"
-Saved,glyphicon glyphicon-saved,"UI, technology",glyphSet,"UI, technology"
+Road,glyphicon glyphicon-road,UI,glyphSet,"UI, travel"
+Ruble,glyphicon glyphicon-ruble,business,glyphSet,"rub, currency, money"
+Save,glyphicon glyphicon-save,UI,glyphSet,"UI, technology"
+Floppy Save,glyphicon glyphicon-save,UI,glyphSet,"UI, technology"
+Save,glyphicon glyphicon-save,UI,glyphSet,UI
+Save File,glyphicon glyphicon-save-file,UI,glyphSet,UI
+Saved,glyphicon glyphicon-saved,UI,glyphSet,"UI, technology"
+Saved,glyphicon glyphicon-saved,UI,glyphSet,UI
+Scale,glyphicon glyphicon-scale,objects,glyphSet,"weight, measure"
+Scissors,glyphicon glyphicon-scissors,objects,glyphSet,cut
 Screenshot,glyphicon glyphicon-screenshot,UI,glyphSet,UI
 SD Video,glyphicon glyphicon-sd-video,entertainment,glyphSet,"entertainment, media"
 Search,glyphicon glyphicon-search,UI,glyphSet,UI
-Send,glyphicon glyphicon-send,"UI, technology",glyphSet,"UI, technology"
-Share,glyphicon glyphicon-share,"UI, social",glyphSet,"UI, social"
-Share Alt,glyphicon glyphicon-share-alt,"UI, social",glyphSet,"UI, social"
-Shopping Cart,glyphicon glyphicon-shopping-cart,"objects, business",glyphSet,"objects, business"
+Send,glyphicon glyphicon-send,UI,glyphSet,"UI, technology"
+Send,glyphicon glyphicon-send,UI,glyphSet,"UI, social"
+Share,glyphicon glyphicon-share,UI,glyphSet,"UI, social"
+Share Alt,glyphicon glyphicon-share-alt,UI,glyphSet,"UI, social"
+Shopping Cart,glyphicon glyphicon-shopping-cart,objects,glyphSet,"objects, business"
 Signal,glyphicon glyphicon-signal,objects,glyphSet,objects
 Sort,glyphicon glyphicon-sort,UI,glyphSet,UI
 Sort by Alphabet,glyphicon glyphicon-sort-by-alphabet,UI,glyphSet,UI
@@ -685,107 +743,49 @@ Dolby Sound,glyphicon glyphicon-sound-dolby,entertainment,glyphSet,"entertainmen
 Stereo Sound,glyphicon glyphicon-sound-stereo,entertainment,glyphSet,"entertainment, media"
 Star,glyphicon glyphicon-star,UI,glyphSet,UI
 Star Empty,glyphicon glyphicon-star-empty,UI,glyphSet,UI
-Stats,glyphicon glyphicon-stats,"UI, business",glyphSet,"UI, business"
+Stats,glyphicon glyphicon-stats,UI,glyphSet,"UI, business"
 Step Backward,glyphicon glyphicon-step-backward,entertainment,glyphSet,"entertainment, media"
 Step Forward,glyphicon glyphicon-step-forward,entertainment,glyphSet,"entertainment, media"
+Stop,glyphicon glyphicon-stop,entertainment,glyphSet,media
+Subscript,glyphicon glyphicon-subscript,UI,glyphSet,type
 Subtitles,glyphicon glyphicon-subtitles,entertainment,glyphSet,"entertainment, media"
+Sun Glasses,glyphicon glyphicon-sunglasses,people,glyphSet,object
+Superscript,glyphicon glyphicon-superscript,UI,glyphSet,type
 Tag,glyphicon glyphicon-tag,UI,glyphSet,UI
 Tags,glyphicon glyphicon-tags,UI,glyphSet,UI
 Tasks,glyphicon glyphicon-tasks,UI,glyphSet,UI
+Tent,glyphicon glyphicon-tent,sports,glyphSet,"camp, outdoors"
+Text Background,glyphicon glyphicon-text-background,UI,glyphSet,type
+Text Color,glyphicon glyphicon-text-color,UI,glyphSet,type
 Line Height,glyphicon glyphicon-text-height,UI,glyphSet,UI
+Text Size,glyphicon glyphicon-text-size,UI,glyphSet,type
 Text Width,glyphicon glyphicon-text-width,UI,glyphSet,UI
 Th,glyphicon glyphicon-th,UI,glyphSet,UI
 Th Large,glyphicon glyphicon-th-large,UI,glyphSet,UI
 Th List,glyphicon glyphicon-th-list,UI,glyphSet,UI
 Thumbs Down,glyphicon glyphicon-thumbs-down,social,glyphSet,social
-Save,glyphicon glyphicon-save,UI,glyphSet,UI
-Saved,glyphicon glyphicon-saved,UI,glyphSet,UI
-Open,glyphicon glyphicon-open,UI,glyphSet,UI
-Import,glyphicon glyphicon-import,UI,glyphSet,UI
-Export,glyphicon glyphicon-export,UI,glyphSet,UI
-Send,glyphicon glyphicon-send,UI,glyphSet,"UI, social"
-Floppy Disk,glyphicon glyphicon-floppy-disk,UI,glyphSet,UI
-Save,glyphicon glyphicon-floppy-save,UI,glyphSet,UI
-Saved,glyphicon glyphicon-floppy-saved,UI,glyphSet,UI
-Remove,glyphicon glyphicon-floppy-remove,UI,glyphSet,UI
-Open,glyphicon glyphicon-floppy-open,UI,glyphSet,UI
-Save File,glyphicon glyphicon-save-file,UI,glyphSet,UI
-Open File,glyphicon glyphicon-open-file,UI,glyphSet,UI
-Level Up,glyphicon glyphicon-level-up,UI,glyphSet,game
-Copy,glyphicon glyphicon-copy,UI,glyphSet,edit
-Paste,glyphicon glyphicon-paste,UI,glyphSet,edit
-Alert,glyphicon glyphicon-alert,UI,glyphSet,warning
-Equalizer,glyphicon glyphicon-equalizer,entertainment,glyphSet,sound
-King,glyphicon glyphicon-king,entertainment,glyphSet,chess
-Queen,glyphicon glyphicon-queen,entertainment,glyphSet,chess
-Pawn,glyphicon glyphicon-pawn,entertainment,glyphSet,chess
-Bishop,glyphicon glyphicon-bishop,entertainment,glyphSet,chess
-Knight,glyphicon glyphicon-knight,entertainment,glyphSet,chess
-Baby Formula,glyphicon glyphicon-baby-formula,people,glyphSet,food
-Play,glyphicon glyphicon-play,entertainment,glyphSet,media
-Pause,glyphicon glyphicon-pause,entertainment,glyphSet,media
-Stop,glyphicon glyphicon-stop,entertainment,glyphSet,media
-Tent,glyphicon glyphicon-tent,sports,glyphSet,"camp, outdoors"
-Blackboard,glyphicon glyphicon-blackboard,objects,glyphSet,"chalkboard, school, learn, education"
-Bed,glyphicon glyphicon-bed,travel,glyphSet,"hotel, hostel, travel, sleep"
-Apple,glyphicon glyphicon-apple,food,glyphSet,
-Erase,glyphicon glyphicon-erase,objects,glyphSet,"edit, delete"
-Hour Glass,glyphicon glyphicon-hourglass,objects,glyphSet,time
-Lamp,glyphicon glyphicon-lamp,objects,glyphSet,
-Duplicate,glyphicon glyphicon-duplicate,UI,glyphSet,edit
-Piggy Bank,glyphicon glyphicon-piggy-bank,objects,glyphSet,"save, money"
-Scissors,glyphicon glyphicon-scissors,objects,glyphSet,cut
-Bitcoin,glyphicon glyphicon-bitcoin,business,glyphSet,"btc, xbt, currency, money"
-Yen,glyphicon glyphicon-yen,business,glyphSet,"jpy, currency, money"
-Ruble,glyphicon glyphicon-ruble,business,glyphSet,"rub, currency, money"
-Scale,glyphicon glyphicon-scale,objects,glyphSet,"weight, measure"
-Ice Lolly,glyphicon glyphicon-ice-lolly,food,glyphSet,popsicle
-Ice Lolly Tasted,glyphicon glyphicon-ice-lolly-tasted,food,glyphSet,popsicle
-Education,glyphicon glyphicon-education,objects,glyphSet,"cap, graduation, school"
-Options Menu,glyphicon glyphicon-option-horizontal,UI,glyphSet,"horizontal, menu"
-Options Menu,glyphicon glyphicon-option-vertical,UI,glyphSet,"vertical, menu"
-Hamburger Menu,glyphicon glyphicon-menu-hamburger,UI,glyphSet,menu
-Modal Window,glyphicon glyphicon-modal-window,UI,glyphSet,dialog
-Oil,glyphicon glyphicon-oil,nature,glyphSet,fuel
-Grain,glyphicon glyphicon-grain,food,glyphSet,wheat
-Sun Glasses,glyphicon glyphicon-sunglasses,people,glyphSet,object
-Text Size,glyphicon glyphicon-text-size,UI,glyphSet,type
-Text Color,glyphicon glyphicon-text-color,UI,glyphSet,type
-Text Background,glyphicon glyphicon-text-background,UI,glyphSet,type
-Align Top,glyphicon glyphicon-object-align-top,UI,glyphSet,graphic
-Align Bottom,glyphicon glyphicon-object-align-bottom,UI,glyphSet,graphic
-Align Center,glyphicon glyphicon-object-align-vertical,UI,glyphSet,graphic
-Align Left,glyphicon glyphicon-object-align-left,UI,glyphSet,graphic
-Align Middle,glyphicon glyphicon-object-align-horizontal,UI,glyphSet,graphic
-Align Right,glyphicon glyphicon-object-align-right,UI,glyphSet,graphic
-Console,glyphicon glyphicon-console,UI,glyphSet,prompt
-Superscript,glyphicon glyphicon-superscript,UI,glyphSet,type
-Subscript,glyphicon glyphicon-subscript,UI,glyphSet,type
+Thumbs Up,glyphicon glyphicon-thumbs-up,social,glyphSet,social
+Time,glyphicon glyphicon-time,UI,glyphSet,"UI, objects"
+Tint,glyphicon glyphicon-tint,UI,glyphSet,UI
+Tower,glyphicon glyphicon-tower,objects,glyphSet,objects
+Transfer,glyphicon glyphicon-transfer,UI,glyphSet,"UI, technology"
+Trash,glyphicon glyphicon-trash,UI,glyphSet,"bin, garbage, rubbish, trash"
+Tree Conifer,glyphicon glyphicon-tree-conifer,nature,glyphSet,nature
+Tree Deciduous,glyphicon glyphicon-tree-deciduous,nature,glyphSet,nature
+Triangle Bottom,glyphicon glyphicon-triangle-bottom,UI,glyphSet,UI
 Triangle Left,glyphicon glyphicon-triangle-left,UI,glyphSet,UI
 Triangle Right,glyphicon glyphicon-triangle-right,UI,glyphSet,UI
 Triangle Top,glyphicon glyphicon-triangle-top,UI,glyphSet,UI
-Triangle Bottom,glyphicon glyphicon-triangle-bottom,UI,glyphSet,UI
-Menu Left,glyphicon glyphicon-menu-left,UI,glyphSet,menu
-Menu Right,glyphicon glyphicon-menu-right,UI,glyphSet,menu
-Menu Up,glyphicon glyphicon-menu-up,UI,glyphSet,menu
-Menu Down,glyphicon glyphicon-menu-down,UI,glyphSet,menu
-Thumbs Up,glyphicon glyphicon-thumbs-up,social,glyphSet,social
-Time,glyphicon glyphicon-time,"UI, objects",glyphSet,"UI, objects"
-Tint,glyphicon glyphicon-tint,UI,glyphSet,UI
-Tower,glyphicon glyphicon-tower,objects,glyphSet,objects
-Transfer,glyphicon glyphicon-transfer,"UI, technology",glyphSet,"UI, technology"
-Trash,glyphicon glyphicon-trash,"UI, objects",glyphSet,"bin, garbage, rubbish, trash"
-Tree Conifer,glyphicon glyphicon-tree-conifer,nature,glyphSet,nature
-Tree Deciduous,glyphicon glyphicon-tree-deciduous,nature,glyphSet,nature
 Unchecked ,glyphicon glyphicon-unchecked,UI,glyphSet,UI
 Upload,glyphicon glyphicon-upload,UI,glyphSet,UI
 USD,glyphicon glyphicon-usd,business,glyphSet,business
-User,glyphicon glyphicon-user,"people, UI",glyphSet,"people, UI"
+User,glyphicon glyphicon-user,UI,glyphSet,"people, UI"
 Volume Down,glyphicon glyphicon-volume-down,entertainment,glyphSet,"entertainment, media"
 Volume Off,glyphicon glyphicon-volume-off,entertainment,glyphSet,"entertainment, media"
 Volume Up,glyphicon glyphicon-volume-up,entertainment,glyphSet,"entertainment, media"
 Warning Sign,glyphicon glyphicon-warning-sign,UI,glyphSet,UI
 Wrench,glyphicon glyphicon-wrench,objects,glyphSet,objects
+Yen,glyphicon glyphicon-yen,business,glyphSet,"jpy, currency, money"
 Zoom In,glyphicon glyphicon-zoom-in,UI,glyphSet,UI
 Zoom Out,glyphicon glyphicon-zoom-out,UI,glyphSet,UI
 Alert,ion-alert,UI,ionicSet,UI
@@ -815,9 +815,9 @@ boat,ion-android-boat,travel,ionicSet,android
 bookmark,ion-android-bookmark,object,ionicSet,android
 bulb,ion-android-bulb,object,ionicSet,android
 bus,ion-android-bus,travel,ionicSet,android
-calendar,ion-android-calendar,"objects, office",ionicSet,android
-call,ion-android-call,"office, technology",ionicSet,android
-camera,ion-android-camera,"object, entertainment",ionicSet,android
+calendar,ion-android-calendar,office,ionicSet,android
+call,ion-android-call,technology,ionicSet,android
+camera,ion-android-camera,entertainment,ionicSet,android
 cancel,ion-android-cancel,UI,ionicSet,android
 car,ion-android-car,travel,ionicSet,android
 cart,ion-android-cart,business,ionicSet,android
@@ -864,7 +864,7 @@ laptop,ion-android-laptop,objects,ionicSet,android
 list,ion-android-list,objects,ionicSet,android
 locate,ion-android-locate,UI,ionicSet,android
 lock,ion-android-lock,objects,ionicSet,android
-mail,ion-android-mail,"objects, business",ionicSet,android
+mail,ion-android-mail,business,ionicSet,android
 map,ion-android-map,objects,ionicSet,android
 menu,ion-android-menu,UI,ionicSet,android
 microphone,ion-android-microphone,entertainment,ionicSet,android
@@ -954,7 +954,7 @@ battery-full,ion-battery-full,objects,ionicSet,
 battery-half,ion-battery-half,objects,ionicSet,
 battery-low,ion-battery-low,objects,ionicSet,
 beaker,ion-beaker,objects,ionicSet,
-beer,ion-beer,food,ionicSet,food
+beer,ion-beer,food,ionicSet,"entertainment, food, drink, party, glass"
 bluetooth,ion-bluetooth,technology,ionicSet,
 bonfire,ion-bonfire,nature,ionicSet,nature
 bookmark,ion-bookmark,objects,ionicSet,
@@ -1107,7 +1107,7 @@ clock-outline,ion-ios-clock-outline,objects,ionicSet,ios
 close,ion-ios-close,UI,ionicSet,ios
 close-empty,ion-ios-close-empty,UI,ionicSet,ios
 close-outline,ion-ios-close-outline,UI,ionicSet,ios
-cloud,ion-ios-cloud,"technology, nature",ionicSet,ios
+cloud,ion-ios-cloud,technology,ionicSet,"ios, weather"
 cloud-download,ion-ios-cloud-download,technology,ionicSet,ios
 cloud-download-outline,ion-ios-cloud-download-outline,technology,ionicSet,ios
 cloud-outline,ion-ios-cloud-outline,technology,ionicSet,ios
@@ -1230,8 +1230,8 @@ personadd,ion-ios-personadd,people,ionicSet,ios
 personadd-outline,ion-ios-personadd-outline,people,ionicSet,ios
 photos,ion-ios-photos,entertainment,ionicSet,ios
 photos-outline,ion-ios-photos-outline,entertainment,ionicSet,ios
-pie,ion-ios-pie,"business, food",ionicSet,ios
-pie-outline,ion-ios-pie-outline,"business, food",ionicSet,ios
+pie,ion-ios-pie,food,ionicSet,"ios, chart, graph"
+pie-outline,ion-ios-pie-outline,food,ionicSet,"ios, chart, graph"
 pint,ion-ios-pint,food,ionicSet,ios
 pint-outline,ion-ios-pint-outline,food,ionicSet,ios
 play,ion-ios-play,entertainment,ionicSet,ios
@@ -1307,8 +1307,8 @@ videocam,ion-ios-videocam,entertainment,ionicSet,ios
 videocam-outline,ion-ios-videocam-outline,entertainment,ionicSet,ios
 volume-high,ion-ios-volume-high,entertainment,ionicSet,ios
 volume-low,ion-ios-volume-low,entertainment,ionicSet,ios
-wineglass,ion-ios-wineglass,food,ionicSet,ios
-wineglass-outline,ion-ios-wineglass-outline,food,ionicSet,ios
+wineglass,ion-ios-wineglass,food,ionicSet,"ios, entertainment, food, drink, party, glass"
+wineglass-outline,ion-ios-wineglass-outline,food,ionicSet,"ios, entertainment, food, drink, party, glass"
 world,ion-ios-world,business,ionicSet,ios
 world-outline,ion-ios-world-outline,business,ionicSet,ios
 ipad,ion-ipad,technology,ionicSet,
@@ -1359,7 +1359,7 @@ outlet,ion-outlet,objects,ionicSet,electricity
 paintbrush,ion-paintbrush,objects,ionicSet,
 paintbucket,ion-paintbucket,objects,ionicSet,
 paper-airplane,ion-paper-airplane,objects,ionicSet,"mail, send"
-paperclip,ion-paperclip,"objects, office",ionicSet,attachment
+paperclip,ion-paperclip,office,ionicSet,attachment
 pause,ion-pause,entertainment,ionicSet,
 person,ion-person,people,ionicSet,
 person-add,ion-person-add,people,ionicSet,
@@ -1381,10 +1381,10 @@ power,ion-power,"UI, technology",ionicSet,
 pricetag,ion-pricetag,business,ionicSet,
 pricetags,ion-pricetags,business,ionicSet,
 printer,ion-printer,office,ionicSet,
-pull-request,ion-pull-request,"UI, technology",ionicSet,
-qr-scanner,ion-qr-scanner,"UI, technology",ionicSet,
+pull-request,ion-pull-request,technology,ionicSet,
+qr-scanner,ion-qr-scanner,technology,ionicSet,
 quote,ion-quote,UI,ionicSet,
-radio-waves,ion-radio-waves,"UI, technology",ionicSet,
+radio-waves,ion-radio-waves,technology,ionicSet,
 record,ion-record,entertainment,ionicSet,
 refresh,ion-refresh,UI,ionicSet,
 reply,ion-reply,UI,ionicSet,
@@ -1501,8 +1501,8 @@ transgender,ion-transgender,people,ionicSet,
 trash-a,ion-trash-a,objects,ionicSet,"bin, garbage, rubbish, trash"
 trash-b,ion-trash-b,objects,ionicSet,"bin, garbage, rubbish, trash"
 trophy,ion-trophy,objects,ionicSet,
-tshirt,ion-tshirt,"objects, people",ionicSet,
-tshirt-outline,ion-tshirt-outline,"objects, people",ionicSet,
+tshirt,ion-tshirt,people,ionicSet,
+tshirt-outline,ion-tshirt-outline,people,ionicSet,
 umbrella,ion-umbrella,objects,ionicSet,
 university,ion-university,people,ionicSet,"cap, graduation, school"
 unlocked,ion-unlocked,objects,ionicSet,
@@ -1516,23 +1516,28 @@ volume-mute,ion-volume-mute,entertainment,ionicSet,
 wand,ion-wand,UI,ionicSet,
 waterdrop,ion-waterdrop,nature,ionicSet,
 wifi,ion-wifi,technology,ionicSet,
-wine glass,ion-wineglass,food,ionicSet,
+wine glass,ion-wineglass,food,ionicSet,"entertainment, food, drink, party, glass"
 woman,ion-woman,people,ionicSet,
 wrench,ion-wrench,objects,ionicSet,tools
 xbox,ion-xbox,entertainment,ionicSet,
 Alarm Clock,md-alarm-clock,objects,mdSet,"objects, time"
+Ambulance,md-ambulance-air,healthcare,mdSet,"medicine, health"
+Ambulance,md-ambulance-car,healthcare,mdSet,"medicine, health"
 Bar Chart,md-bar-chart,business,mdSet,business
 Barrel,md-barrel,food,mdSet,food
 Battery,md-battery,technology,mdSet,technology
 BBM,md-bbm,social,mdSet,social
 BB Logo,md-bbry-logo,business,mdSet,business
 Binders,md-binders,office,mdSet,office
+Blood Pressure,md-blood-pressure,healthcare,mdSet,"medicine, health"
 Bluetooth,md-bluetooth,technology,mdSet,technology
 Bookmark,md-bookmark,UI,mdSet,UI
 Bookmark Plus,md-bookmark-plus,UI,mdSet,UI
 Box,md-box-closed,office,mdSet,office
 Box,md-box-open,office,mdSet,office
 Briefcase,md-briefcase,office,mdSet,office
+Broken Arm,md-broken-arm,healthcare,mdSet,"medicine, health"
+Broken Leg,md-broken-leg,healthcare,mdSet,"medicine, health"
 Buggy,md-buggy,objects,mdSet,objects
 Bullseye,md-bullseye,UI,mdSet,UI
 Calculator,md-calculator,office,mdSet,office
@@ -1543,9 +1548,13 @@ Outgoing Call,md-call-outgoing,social,mdSet,social
 Returned Call,md-call-returned,social,mdSet,social
 Camera,md-camera-still,entertainment,mdSet,"entertainment, media"
 Video Camera,md-camera-video,entertainment,mdSet,"entertainment, media"
+Capsule,md-capsule,healthcare,mdSet,"medicine, health"
+Chart,md-chart,healthcare,mdSet,"medicine, health, clipboard"
 Chat Bubble,md-chat-bubble,social,mdSet,social
 Checkmark,md-checked,UI,mdSet,UI
+Chemist,md-chemist,healthcare,mdSet,"medicine, health, pharma"
 Cherries,md-cherries,food,mdSet,food
+Cigarette,md-cigarette,healthcare,mdSet,"medicine, health, smoker"
 Circle Arrow Down,md-circle-arrow-down,UI,mdSet,UI
 Circle Arrow Left,md-circle-arrow-left,UI,mdSet,UI
 Circle Arrow Right,md-circle-arrow-right,UI,mdSet,UI
@@ -1573,6 +1582,7 @@ Previous,md-circle-previous,UI,mdSet,UI
 Question,md-circle-question,UI,mdSet,UI
 Record,md-circle-record,UI,mdSet,UI
 RSS,md-circle-rss-o,social,mdSet,social
+RSS,md-circle-rss-o,social,mdSet,social
 BB Spark,md-circle-spark,social,mdSet,social
 Stop,md-circle-stop,UI,mdSet,UI
 Twitter,md-circle-twitter-bird-o,social,mdSet,social
@@ -1590,18 +1600,26 @@ Contacts,md-contacts,UI,mdSet,UI
 BBM Contacts,md-contacts-bbm,social,mdSet,social
 Contacts Plus,md-contacts-plus,social,mdSet,social
 Credit Cards,md-credit-cards,business,mdSet,business
+Crutches,md-crutches,healthcare,mdSet,"medicine, health"
 Desk Lamp,md-desk-lamp,office,mdSet,office
+Doctor,md-doctor,healthcare,mdSet,"medicine, health"
+Doctor,md-doctor-female,healthcare,mdSet,"medicine, health"
+Doctor,md-doctor-male,healthcare,mdSet,"medicine, health"
 Document,md-document,office,mdSet,office
 Eighth Notes,md-eighth-notes,entertainment,mdSet,"entertainment, media"
+Elderly,md-elderly,healthcare,mdSet,"medicine, health"
 Full Screen,md-envelope-open,UI,mdSet,UI
 Exit Full Screen,md-exit-full-screen,UI,mdSet,UI
 Exit Full Screen,md-exit-full-screen-1,UI,mdSet,UI
+Eye,md-eye,healthcare,mdSet,"medicine, health"
+Eye Dropper,md-eye-dropper,healthcare,mdSet,"medicine, health"
 Film Strip,md-film-strip,entertainment,mdSet,"entertainment, media"
 Flag,md-flag-1,objects,mdSet,objects
 Chequered flag,md-flag-chequered-1,sports,mdSet,sports
 Chequered flag,md-flag-chequered-2,sports,mdSet,sports
 Golf Flag,md-flag-golf,sports,mdSet,sports
 Golf Green,md-flag-golf-green,sports,mdSet,sports
+Flask,md-flask,healthcare,mdSet,"medicine, health, beaker, test, chemistry"
 Folder Closed,md-folder-closed,office,mdSet,office
 Folder Open,md-folder-open,office,mdSet,office
 Font Size,md-font-size,UI,mdSet,UI
@@ -1613,12 +1631,18 @@ Glasses,md-glasses-1,people,mdSet,people
 Glasses,md-glasses-2,people,mdSet,people
 Glasses,md-glasses-3,people,mdSet,people
 Group,md-group,people,mdSet,people
+Gurney,md-gurney,healthcare,mdSet,"medicine, health"
 Hand Truck,md-hand-truck,office,mdSet,office
 Headphones,md-headphones,entertainment,mdSet,"entertainment, media"
 Heart,md-heart,UI,mdSet,UI
+Heartbeat,md-heartbeat,healthcare,mdSet,"medicine, health"
 Home,md-home,UI,mdSet,UI
 Home Plus,md-home-plus,UI,mdSet,UI
+Hospital,md-hospital,healthcare,mdSet,"medicine, health"
+Hospital,md-hospital-sign,healthcare,mdSet,"medicine, health"
 Infinity,md-infinity,UI,mdSet,"UI, technology"
+IV Drip,md-iv-drip,healthcare,mdSet,"medicine, health"
+IV Drips,md-iv-drips,healthcare,mdSet,"medicine, health"
 Key,md-key,objects,mdSet,objects
 Utensils,md-knife-fork,food,mdSet,utensils
 Place Setting,md-knife-fork-plate,food,mdSet,utensils
@@ -1629,36 +1653,55 @@ Locked,md-locked,UI,mdSet,UI
 Magic 8 Ball,md-magic8-ball,objects,mdSet,objects
 Magnifying Glass,md-magnifying-glass,objects,mdSet,objects
 Mail,md-mail,office,mdSet,office
-Main Menu,md-menu-main,UI,mdSet,UI
 Man,md-man-turtleneck,people,mdSet,people
 Man,md-man-vneck,people,mdSet,people
 Map Marker,md-map-marker,objects,mdSet,objects
+Martini,md-martini,food,mdSet,"entertainment, food, drink, party, glass"
+Medicine,md-medical,healthcare,mdSet,"medicine, health"
+Medical Bag,md-medical-bag,healthcare,mdSet,"medicine, health"
+Medicine,md-medicine,healthcare,mdSet,"medicine, health, pills, prescription"
 Megaphone,md-megaphone,objects,mdSet,objects
+Main Menu,md-menu-main,UI,mdSet,UI
 Menu Overflow,md-menu-overflow,UI,mdSet,UI
 Retro Mic,md-mic-retro,entertainment,mdSet,"entertainment, media"
+Microscope,md-microscope,healthcare,mdSet,"medicine, health"
 Mobile,md-mobile,technology,mdSet,"technology, social"
 Monitor,md-monitor,technology,mdSet,technology
 Moon & Stars,md-moon-stars,nature,mdSet,nature
+Mother Child,md-mother-child,healthcare,mdSet,"medicine, health, baby"
 Motorcycle,md-motor-bike,travel,mdSet,travel
 No Entry,md-no-entry,UI,mdSet,UI
 Notification,md-notification,UI,mdSet,UI
+Nurse,md-nurse,healthcare,mdSet,"medicine, health"
+Operating Theatre,md-operating-theatre,healthcare,mdSet,"medicine, health"
+Oxygen,md-oxygen,healthcare,mdSet,"medicine, health"
 Paint Brush,md-paint-brush,entertainment,mdSet,"entertainment, media"
 Paint Bucket,md-paint-bucket,entertainment,mdSet,"entertainment, media"
 Paint Palette,md-paint-pallett,entertainment,mdSet,"entertainment, media"
+Patient,md-patient,healthcare,mdSet,"medicine, health, bed"
 Pawprint,md-pawprint,nature,mdSet,nature
 Pencil,md-pencil,office,mdSet,office
 Photos,md-photos,entertainment,mdSet,"entertainment, media"
 Piano Keys,md-piano-keys,entertainment,mdSet,"entertainment, media"
 Pie Chart,md-pie-chart,business,mdSet,business
+Pills,md-pills,healthcare,mdSet,"medicine, health"
+Plaster,md-plaster,healthcare,mdSet,"medicine, health, bandaid"
+Poison,md-poison,healthcare,mdSet,"medicine, health"
 Poaroid,md-polaroid-tulip,entertainment,mdSet,entertainment
+Pregnant Woman,md-pregnant,healthcare,mdSet,"medicine, health"
+Prescription,md-prescription,healthcare,mdSet,"medicine, health"
 Printer,md-printer,office,mdSet,"office, technology"
 Radio,md-radio,entertainment,mdSet,"entertainment, media"
+Radiation,md-radioactive,healthcare,mdSet,"medicine, health"
 Refresh,md-refresh,UI,mdSet,UI
 Reload,md-reload,UI,mdSet,UI
 Reply,md-reply,social,mdSet,social
+Ribbon,md-ribbon,healthcare,mdSet,"medicine, health"
 Ring Buoy,md-ring-buoy,objects,mdSet,objects
 Roller Blade,md-roller-blade,objects,mdSet,objects
-RSS,md-circle-rss-o,social,mdSet,social
+Scale,md-scale,healthcare,mdSet,"medicine, health, weight"
+Scalpal,md-scalpal,healthcare,mdSet,"medicine, health"
+Scan,md-scan,healthcare,mdSet,"medicine, health"
 Sciissors,md-scissors,office,mdSet,office
 Scooter,md-scooter,travel,mdSet,travel
 Screen,md-screen,technology,mdSet,technology
@@ -1693,6 +1736,7 @@ Twitter,md-square-twitter-bird,social,mdSet,social
 Vimeo,md-square-vimeo,social,mdSet,social
 YouTube,md-square-youtube,social,mdSet,social
 Star,md-star,nature,mdSet,nature
+Stethoscope,md-stethoscope,healthcare,mdSet,"medicine, health"
 Sticky,md-sticky,office,mdSet,office
 Stop Sign,md-stop-sign,travel,mdSet,travel
 Stop Watch,md-stopwatch,sports,mdSet,sports
@@ -1700,9 +1744,12 @@ Suitcase,md-suitcase,travel,mdSet,travel
 Suitcase,md-suitcase-wheels,travel,mdSet,travel
 Sun,md-sun-1,nature,mdSet,nature
 Sun,md-sun-2,nature,mdSet,nature
+Surgeon,md-surgeon,healthcare,mdSet,"medicine, health"
+Syringe,md-syringe,healthcare,mdSet,"medicine, health"
 Tag,md-tag-1,objects,mdSet,objects
 Tag,md-tag-2,objects,mdSet,objects
 Target,md-target,UI,mdSet,UI
+Test Tubes,md-test-tubes,healthcare,mdSet,"medicine, health"
 Thumbtack,md-thumb-tack,office,mdSet,office
 Thumbs Down,md-thumbs-down,social,mdSet,social
 Thumbs Up,md-thumbs-up,social,mdSet,social
@@ -1711,14 +1758,17 @@ Trash,md-trash,objects,mdSet,"bin, garbage, rubbish, trash"
 Umbrella,md-umbrella,objects,mdSet,objects
 Unlocked,md-unlocked,UI,mdSet,UI
 Update,md-update,UI,mdSet,UI
+Urine Sample,md-urine-sample,healthcare,mdSet,"medicine, health, test"
 Voicemail,md-voicemail,social,mdSet,social
 Volume High,md-vol-high,entertainment,mdSet,"entertainment, media"
 Volume Low,md-vol-low,entertainment,mdSet,"entertainment, media"
 Volume Medium,md-vol-med,entertainment,mdSet,"entertainment, media"
 Mute,md-vol-mute,entertainment,mdSet,"entertainment, media"
 Warning,md-warning,UI,mdSet,UI
+Wheelchair,md-wheelchair,healthcare,mdSet,"medicine, health, disabled"
 Wifi,md-wifi,technology,mdSet,technology
 Woman,md-woman-turtleneck,people,mdSet,people
 Woman,md-woman-vneck,people,mdSet,people
+X-ray,md-x-ray,healthcare,mdSet,"medicine, health"
 Zoom In,md-zoom-in,UI,mdSet,UI
 Zoom Out,md-zoom-out,UI,mdSet,UI
