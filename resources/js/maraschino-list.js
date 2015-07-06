@@ -1,9 +1,3 @@
-/*
-MARASCHINO by Myers Design Ltd
-January 2014
-As is without warrenty statement goes here
-*/
-
 $(document).on('pagecreate', function() {
 
 	//time date stamp

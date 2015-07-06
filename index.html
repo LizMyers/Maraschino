@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Reference Site for Open Source Icon Fonts: Font Awesome, Ionic, Halflings, BB10">
+    <meta name="author" content="Liz Myers">
+    <link rel="icon" href="resources/img/favicon.ico">
+
+    <title>Maraschino</title>
+
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Amiri' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap core CSS -->
+    <link href="resources/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome Icons CSS -->
+    <link href="resources/css/font-awesome.css" rel="stylesheet">
+
+    <!-- Ionic Icons CSS -->
+    <link href="resources/css/ionicons.css" rel="stylesheet">
+
+      <!-- Myers Design Icons CSS -->
+    <link href="resources/css/md-styles.css" rel="stylesheet">
+
+    <!-- CSS Animations -->
+    <link rel="stylesheet" href="resources/css/animate.min.css">
+
+    <!-- Custom styles for maraschino -->
+    <link href="resources/css/maraschino-site-styles.css" rel="stylesheet">
+    <link href="resources/css/maraschino-responsive.css" rel="stylesheet">
+
+  </head>
+
+  <body class="gray-grid">
+
+  <header class="header" data-stellar-background-ratio="0.5" id="home">
+    
+<!-- =====================
+      NAV
+===================== -->  
+
+<nav class="navbar navbar-default navbar-fixed-top sticky-navigation">
+  <div class="container-fluid">
+   
+    <div class="navbar-header" style="border:none!important;">
+     <!--  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse"> -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false"
+      style="border:none;color:white;">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><i class="md-cherries"></i>Maraschino</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="collapse">
+   
+      <ul class="nav navbar-nav navbar-right main-navigation" style="padding-right:50px;">
+        <li><a href="#intro"><i class="fa fa-home"></i>Home</a></li>
+        <li><a href="index2.html"><i class="fa fa-star"></i>Icons</a></li>
+        <li><a href="#downloads" id="download-button"><i class="fa fa-chevron-circle-down"></i>Downloads</a></li>
+        <li><a href="https://github.com/LizMyers/Maraschino" target="_blank"><i class="fa fa-github"></i>Repo</a></li>
+      </ul>
+    </div>
+  </div>
+</nav> 
+
+    <!-- Begin page content: SECTION 1 -->
+    <section id="intro">
+         <div class="container-fluid" style="padding-top:50px;color:#ccc">
+            <i class="header-icon md-film-strip"></i><br>
+            <h2 class="light-text" style="font-size:1.75em;line-height:1.5em;color:#ccc;">Overview</h2><br>
+                  <div class="embed-responsive embed-responsive-16by9" style="margin-top:-60px;">
+                  
+
+<iframe class="embed-responsive-item"  src="https://player.vimeo.com/video/132649176?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/132649176">Introducing Project Marascino</a> from <a href="https://vimeo.com/lizmyers">Liz Myers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                    <br><br>
+                  </div>
+        </div><!-- //end section container -->
+    </section>
+
+    <section id="action-bar">
+        <a href="index2.html">
+          <button id="btn-pickNow" class="btn btn-cherry btn-lg"><i class="fa fa-star"></i>&nbsp;Let's Get Picking &raquo; &nbsp;</button>
+        </a>
+    </section>
+
+    <!--QUICK START -->
+    <section id="quick-start">
+         <div class="container-fluid" ><br>
+            <i class="header-icon md-flag-chequered-1"></i>
+            <p><h1 class="dark-text">Quick Start</h1></p>
+
+                  <!-- STEP 1 -->
+                  <div class="instructions">
+                      <p class="steps">1: Download &amp; unzip the icons. Move the fonts into the  
+                      <b class="code-highlight">project/resources/fonts</b> directory.</p>
+                      <center><img src = "resources/img/move-fonts.png" class="img-responsive" /></center>
+                  </div>
+            
+                  <!-- STEP 2 -->
+                  <div class="instructions">
+                      <p class="steps">2: Move the CSS file into the 
+                      <b class="code-highlight">project/resources/css</b> directory.</p>
+                      <center><img src = "resources/img/move-css.png"  class="img-responsive" /></center>
+                  </div>
+              
+                <!-- STEP 3 -->
+                <div class="instructions">
+                  <p class="steps">3: Inside <b class="code-highlight">index.html</b> link the icon library to your project.</p>
+                  <center><img src = "resources/img/link-styles.png" class="img-responsive" /></center>
+                </div>
+   
+                <!-- STEP 4 -->
+                <div class="instructions">
+                  <p class="steps">4: <b class="code-highlight">Find the icons</b> you want to use:</p>
+                  <center><img src = "resources/img/find-icons2.png" class="img-responsive" /></center>
+                </div>
+
+                <!-- STEP 5 -->
+                <div class="instructions">
+                  <p class="steps">5:  Within your HTML markup,
+                   <b class="code-highlight">call the icons like this:</b></p>
+                   <p class="steps-sub">
+                    (Note: this demo includes icons from all 4 open source libraries. But this is not required. You may install any or all of the icon fonts listed below.)</p>
+
+                      <div class="row"> 
+                          <div class="col-md-4 demo-icon" style="margin-top:30px;padding-top:12px">
+                              <i class="ion-ios-contact"></i>
+                              <pre>&lt;i class="ion-ios-contact"&gt;&lt;/i&gt;</pre>
+                          </div>    
+                          <div class="col-md-4 demo-icon">
+                              <i class="glyphicon glyphicon-download"></i> 
+                              <pre>&lt;i class="glyphicon glyphicon-download"&gt;&lt;/i&gt;</pre>
+                          </div>
+                          <div class="col-md-4 demo-icon">
+                              <i class="glyphicon glyphicon-upload"></i> 
+                              <pre>&lt;i class="glyphicon glyphicon-upload"&gt;&lt;/i&gt;</pre>
+                          </div>
+                   </div>
+              
+                  <div class="row last-row"> 
+                          <div class="col-md-4 demo-icon" style="margin-top:30px;padding-top:8px">
+                              <i class="md-scooter"></i>
+                              <pre>&lt;i class="md-scooter"&gt;&lt;/i&gt;</pre>
+                          </div>    
+                          <div class="col-md-4 demo-icon">
+                              <i class="fa fa-cog"></i> 
+                              <pre>&lt;i class="fa fa-cog"&gt;&lt;/i&gt;</pre>
+                          </div>
+                          <div class="col-md-4 demo-icon">
+                              <i class="fa fa-cog fa-spin"></i> 
+                              <pre>&lt;i class="fa fa-cog fa-spin"&gt;&lt;/i&gt;</pre>
+                          </div>
+                    </div>
+
+                </div><!--//end instructions -->
+        </div><!-- //end section container -->
+    </section><!-- //end features section  -->
+
+    
+    <!-- Benefits -->
+    <section id="faq" aname="benefits">
+         <div class="container-fluid">
+          <div style="border:0px solid yellow;margin:0;padding:0;position:relative;left:-40px">
+             <i class="header-icon fa fa-code"></i>
+            <p><h1 class="light-text">Made for You</h1></p>
+          </div>
+           
+            <div class="row faq-row">
+                 <div class="col-sm-12 col-md-6">
+                        <p><b class="faq-title">Browse Categories / Search Keywords</b></p>
+                        <div class="faq-body">
+                       We've added keywords and categories to the database - which speeds the process of finding the right icons.
+                      </div>
+                  </div>
+
+                   <div class="col-sm-12 col-md-6">
+                        <p><b class="faq-title">Preview the Family</b></p>
+                        <div class="faq-body">
+                       One of the main drawbacks of most icon libraries is that you have to view your favorites in isolation. Maraschino allows you to build a cohesive icon family.
+                      </div>
+                  </div>
+
+                </div>
+                <div class="row faq-row">
+
+                    <div class="col-sm-12 col-md-6">
+                        <p><b class="faq-title">Stay Organized</b></p>
+                        <div class="faq-body">
+                       By using the "print" feature you can save your icon list (w/classes!) as a PDF to your project folder. Alternatively, print the list and check off items as you go.
+                      </div>
+                  </div>
+
+                 <div class="col-sm-12 col-md-6">
+                        <p><b class="faq-title">Maintain Your Project</b></p>
+                        <div class="faq-body">
+                        Return to your project right where you left off. Now that you've identified and recorded all the icons - it's easier to share the work as needed.
+                      </div>
+                  </div>
+      
+                </div><!-- //end row1 -->
+        </div><!-- //end section container -->
+    </section><!-- //end benefits section  -->
+
+    <!-- DOWNLOADS-->
+    <section id="downloads" aname="downloads">
+         <div class="container-fluid">
+          <i class="header-icon glyphicon glyphicon-download"></i></div>
+            <p style="margin-top:30px"><h1 class="light-text">Downloads</h1></p>
+
+              <div class="row">
+
+                    <div class="col-sm-3 download" style="border-left:none">
+                            <i class="fa fa-flag download-icon"></i>
+                            <p class="icon-fonts-title">Font Awesome 4.3.0</p>
+                            <p><span style="font-size:2em!important">522</span>
+                            <span class="label">ICONS</span></p>
+                            <a href="http://fortawesome.github.io/Font-Awesome/assets/font-awesome-4.3.0.zip">
+                              <div class="btn btn-warning">
+                                  <i class="glyphicon glyphicon-download btn-download"></i>&nbsp;Download
+                             </div></a>
+                    </div>
+
+                    <div class="col-sm-3 download">
+                            <i class="glyphicon glyphicon-object-align-horizontal download-icon" ></i>
+                            <p class="icon-fonts-title">Glyphicons</p>
+                            <p><span style="font-size:2em!important">267</span>
+                            <span class="label">ICONS</span></p>
+                            <a href="http://getbootstrap.com" target="_blank" title="Please Note: Glyphicons are part of Twitter Booterstrap">
+                              <div class="btn btn-warning">
+                                  <i class="glyphicon glyphicon-download btn-download"></i>&nbsp;Download
+                              </div></a>
+                    </div>
+
+                    <div class="col-sm-3 download">
+                            <i class="ion-ionic download-icon" style="display:inline-block;margin-top:2px;"></i>
+                            <p class="icon-fonts-title">Ionic 2.0.1</p>
+                            <p><span style="font-size:2em!important">732</span>
+                            <span class="label">ICONS</span></p>
+                            <a href="https://github.com/driftyco/ionicons/archive/v2.0.1.zip">
+                            <div class="btn btn-warning">
+                                <i class="glyphicon glyphicon-download btn-download"></i>&nbsp;Download
+                          </div></a>
+                    </div>
+
+                    <div class="col-sm-3 download">
+                            <i class="md-calendar download-icon" style="display:inline-block;margin-top:1px;"></i>
+                            <p class="icon-fonts-title">BB10 2.0</p>
+                            <p><span style="font-size:2em!important">252</span>
+                            <span class="label">ICONS</span></p>
+                            <a href="http://maraschino.lizmyers.webfactional.com/zip/bb10.zip">
+                            <div class="btn btn-warning">
+                                <i class="glyphicon glyphicon-download btn-download"></i>&nbsp;Download
+                          </div></a>
+
+                    </div>
+
+              </div> <!-- //end row 1 -->
+
+        </div><!-- //end section container -->
+    </section>
+
+    <footer>
+      <div class="container-fluid">
+
+          <div class="col-md-1 col-sm-1 col-sm-offset-1 hidden-xs icon-credits" style="border:0px solid green;margin:0;margin-top:-8px;padding:0;text-align:right;">
+            <i class="fa fa-thumbs-up"></i></div>
+
+            <div class="col-md-5 col-sm-5" id="credits">
+
+              <h4>Credits</h4>
+
+              <p class="footer"><a href="http://glyphicons.com/" target="_blank"> Glyphicons</a> created by 
+                <a href="https://twitter.com/jankovarik?lang=en" target="_blank"> Jan Kovařík</a></p> 
+
+              <p class="footer"><a href="http://fortawesome.github.io/Font-Awesome//" target="_blank">Font-Awesome</a> created by 
+                <a href="https://twitter.com/davegandy?lang=en" target="_blank">Dave Gandy</a></p>
+
+              <p class="footer"><a href="http://ionicons.com/" target="_blank">Ionicons</a> created by 
+                <a href="https://twitter.com/benjsperry?lang=en" target="_blank">Ben Sperry</a></p> 
+
+              <p class="footer"><a href="http://maraschino.lizmyers.webfactional.com" target="_blank">
+              Maraschino</a> &amp; BB10 Icons by <a href="https://twitter.com/lizmyers?lang=en" target="_blank">Liz Myers</a></p>
+
+          </div>
+   
+          <div class="col-md-1 col-sm-1 col-sm-offset-1 hidden-xs icon-github" style="margin:0;margin-top:10px;padding:0;border:0px solid green;text-align:right;">
+            <i class="ion-social-github"></i></div>
+
+          <div class="col-md-4 col-sm-5" id="help-wanted">
+             <h4>Help Wanted</h4>
+              <p>We need assistance implementing the download feature - the "cherry on top" everyone wants. For details, please see the 
+                <a href="https://github.com/LizMyers/Maraschino" target="_new" style="color:gold">&nbsp;project on GitHub</a>.</p>
+          </div><!-- //end col 2 -->
+
+     </div><!-- //end container -->
+
+    </footer>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug
+    // <script src="resources/js/ie10-viewport-bug-workaround.js"></script> -->
+    <script src="resources/js/jquery-1.11.2.min.js"></script>
+    <script src="resources/js/bootstrap.min.js"></script>
+    <script src="resources/js/smoothscroll.js"></script>
+    <script src="resources/js/jquery.scrollTo.min.js"></script>
+    <script src="resources/js/jquery.localScroll.min.js"></script>
+    <script src="resources/js/simple-expand.min.js"></script>
+    <script src="resources/js/wow.min.js"></script>
+    <script src="resources/js/jquery.nav.js"></script>
+    <script src="resources/js/matchMedia.js"></script>
+    <script src="resources/js/jquery.fitvids.js"></script>
+    <script src="resources/js/maraschino-custom.js"></script>
+
+  </body>
+</html>

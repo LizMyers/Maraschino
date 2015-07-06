@@ -40,7 +40,6 @@ $(document).on('pagecreate', '#bbGrid', function() {
 				category: '[data-category]'
 			}
 		});
-
 		//reload document
 		location.reload();
 	};
@@ -253,6 +252,7 @@ $(document).on('pageshow', '#bbGrid', function() {
 			$('#btnClearCategories').css('color', '#555');
 			$('#clearSearch').show();
 			var kwd = $('input').val();
+			var mySet="ionicSet";
 
 			//IF SEARCH IS EMPTY 
 			if (kwd == ' ' || !kwd || kwd == 'undefined') {
@@ -263,7 +263,8 @@ $(document).on('pageshow', '#bbGrid', function() {
 				$('#showAll *').css('color', '#fff');
 			} else {
 				$('#container').isotope({
-					filter: ':contains(' + kwd + ')'
+					filter: ':contains(' + kwd + ')' 
+
 				});
 				$('#setGroup').find('a').removeClass('selected').find('i').removeClass('selected');
 			}
@@ -527,6 +528,15 @@ $('#btnClearCategories').on('click', function() {
 	$('#container').isotope({
 		 filter: ':contains('+mySet+')'
 	});
+});
+
+$('#logo').on('click', function() {
+	console.log("clicked logo");
+      window.open("http://maraschino.lizmyers.webfactional.com/index.html", "_parent");
+});
+$('#home').on('click', function() {
+	console.log("clicked infoBtn");
+      window.open("http://maraschino.lizmyers.webfactional.com/index.html", "_parent");
 });
 
 $('#download').on('click', function() {

@@ -8,9 +8,10 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <link rel='stylesheet' href='resources/css/jquery.mobile-1.2.1.min.css' />	
 <link rel='stylesheet' href='resources/css/allSets.min.css' />
+
 <link rel="stylesheet" href='resources/css/jquery.sidr.dark.css'>
 <link rel='stylesheet' href='resources/css/maraschino.css' />	
-<script src='resources/js/jquery-1.10.2.min.js'></script>	
+<script src='resources/js/jquery-1.11.2.min.js'></script>	
 	<script language="text/javascript">
 			//configure jQM
 			$(document).bind("mobileinit", function () {
@@ -30,9 +31,10 @@
 <body>
 <div class="cover"></div>
 <div data-role='page' id='bbGrid' class="gridView">
+
 <div data-role="header" data-id="header" id="header" data-tap-toggle="false">
 			        
-<div id="sliderMenu"><a id="simple-menu" href="#sidr"><i class="md-main-menu" ></i></a></div>
+<div id="sliderMenu"><a id="simple-menu" href="#sidr"><i class="md-menu-main" style="position:absolute;left:-10px;top:-16px!important;color:#666"></i></a></div>
 			   
 <!-- SEARCH -->								  
 <div id="mySearch"><input type="text" name="search" id="search" placeholder="Search"   />
@@ -57,15 +59,22 @@
     Clear Picks
 </div>	<!-- //clear -->
 
+<!-- INFO -->		 
+<div class="btn-navbar" style="border:none;">
+    <a href="https://github.com/lizmyers/maraschino/" target="_blank" class="circle-btn">
+    	<i class="ion-social-github" style="color:#999;font-size:2.25em;margin:-4px 0 0 4px!important;"></i></a>
+    <a href="#" class="circle-btn" id="home">
+    	<i class="fa fa-home" style="color:#999;font-size:2.25em;margin:-4px 10px 0 10px!important;"></i></a>
+
+</div>	<!-- //info -->
+
 </div><!-- //end header -->
 	
 <div data-role='content'>
 		
   <div id="sidr">
-  <a href="index.html>"
-      <span id="logo">Maraschino</span> </a>
-<ul style="margin:-10px 0 50px!important;">
-
+      <span id="logo" style="margin-left:30px;"><i class="md-cherries" style="margin-top:4px;color:#EF4D53"></i>&nbsp;Maraschino</span>
+	<ul>
 <!-- ////////////// LIBRARIES ///////////////// -->
 	<li>
 	<h2><a href="#" id="setToggle"><i class="fa fa-play fa-rotate-90"></i>Icon Set</a></h2>
@@ -75,7 +84,7 @@
 		<li id="faSet"><a href="#"><i class="fa fa-flag"></i>Font Awesome<div class="count"><span id="nFaSet" class="countTxt">0</span></div></a></li>
 		<li id="glyphSet"><a href="#"><i class="fa fa-pencil"></i>Glyphicons<div class="count"><span id="nGlSet" class="countTxt">0</span></div></a></li>
 		<li id="ionicSet"><a href="#"><i class="ion-ionic"></i>Ionic<div class="count"><span id="nIoSet" class="countTxt">0</span></div></a></li>
-		<li id="mdSet"><a href="#"><i class="md-box-open" style="margin-left:-2px!important"></i>Myers Design<div class="count"><span id="nMdSet" class="countTxt">0</span></div></a></li>
+		<li id="mdSet"><a href="#"><i class="md-calendar" style="margin-left:-2px!important"></i>Myers Design<div class="count"><span id="nMdSet" class="countTxt">0</span></div></a></li>
 	</ul>		
 	</li>
 
@@ -96,6 +105,7 @@
 	<li data-category-value =".business"><a href="#"><i class="md-circle-dollar"></i>Business<div class="count"><span id="nBusiness" class="countTxt">0</span></div></a></li>
 	<li data-category-value=".entertainment"><a href="#"><i class="md-piano-keys"></i>Entertainment<div class="count"><span id="nEntertainment" class="countTxt">0</span></div></a></li>
 	<li data-category-value=".food"><a href="#"><i class="md-knife-fork"></i>Food &amp; Drink<div class="count"><span id="nFood" class="countTxt">0</span></div></a></li>
+	<li data-category-value=".healthcare"><a href="#"><i class="md-stethoscope"></i>Healthcare<div class="count"><span id="nHealth" class="countTxt">0</span></div></a></li>
 	<li data-category-value=".nature"><a href="#"><i class="md-pawprint"></i>Nature<div class="count"><span id="nNature" class="countTxt">0</span></div></a></li>
 	<li data-category-value=".objects"><a href="#"><i class="md-umbrella"></i>Objects<div class="count"><span id="nObjects" class="countTxt">0</span></div></a></li>
 	<li data-category-value=".office"><a href="#"><i class="md-thumb-tack"></i>Office<div class="count"><span id="nOffice" class="countTxt">0</span></div></a></li>

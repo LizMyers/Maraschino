@@ -12,7 +12,7 @@ body {
     font-weight:normal!important;
     color:white;
     text-shadow:none!important;
-    background:yellow;
+    background:black;
     border:0!important;
 }
 #header {
@@ -20,11 +20,13 @@ body {
     margin:0;
     padding:0;
     width:100%;
-    height:64px;
-    padding-top:2px;
-    background:rgba(50, 50, 50, 0.95)!important;
-    z-index:20000!important;
+    height:60px;
+    border-top:5px solid #f04e52;
+    border-left:0px solid #121212;
+    background:#333;
+    z-index: 20000!important;
 }
+#logo {cursor: pointer}
 #btnDownloadFiles {
     display:block;
     margin:0px 10px 10px 15%;
@@ -49,6 +51,9 @@ body {
 #btnDownloadFiles:hover {
     padding:0;
     background:#f64444;
+}
+a:hover  i {
+  color:#f64444!important;
 }
 span#downloadTxt {
     float:left;
@@ -81,11 +86,13 @@ span#logo {
 /*  --------------------NAVBAR---------------------- */
 /*  ----------------------------------------------------- */
 #sidr {
+  margin-top:2px solid black;
+  border-top:5px solid #f04e52;
   overflow-y:hidden;
-/*  z-index: 500!important;*/
+  border-top:5px solid #f04e52;
 }
-#sliderMenu{width:100px!important;}
-#simple-menu{margin-left:20px!important;padding:0!important;}
+#sliderMenu{width:100px!important;z-index:500!important;}
+#simple-menu{position:relative;top:8px;margin-left:20px!important;}
 #sliderMenu a{
 	font-size:1.5em;
 	line-height: 2.25em;
@@ -108,21 +115,22 @@ span#logo {
 
 #mySearch{
   position:absolute;
-  top:12px!important;
+  top:15px!important;
   left:60px;
   width:3000px;
   border:0px solid yellow;
 }
-#mySearch input{border:2px solid #666; border-radius:5px;}
+#mySearch input{border:2px solid #666; border-radius:5px; vertical-align: text-top;}
 #mySearch input, .ui-input-text{
   margin:0;
   padding:0;
   position:absolute; 
-  top:-1px;
+  top:0px;
   left:5px;
   padding-left:5px;
+  padding:-4px!important;
   font-size:0.925em;
-  line-height: -10%!important;
+  line-height: -2em!important;
   text-shadow:none!important;
   width:220px!important;
   height:32px!important;
@@ -131,6 +139,7 @@ span#logo {
   outline:none;
   box-shadow:none;
   color:white!important;
+  vertical-align: text-top;
 }
 #mySearch input:focus {
     outline:none;
@@ -150,7 +159,7 @@ span#logo {
     position:relative;
     height:20px;
     width:30px;
-    margin-top:0px;
+    margin-top:6px!important;
     margin-right:50px;
     color:#f46666;
     font-size:1.35em;
@@ -161,8 +170,8 @@ span#logo {
 #clearSearch {
     display:block;
     position:absolute;
-    top:10px;
-    left:210px;
+    top:7px;
+    left:206px;
     color:white;
 }
 ::-webkit-input-placeholder { /* WebKit browsers */
@@ -185,7 +194,7 @@ color:  #999;
     display:inline-block;
     position:relative;
     left:320px;
-    top:-50px;
+    top:-43px;
     width:120px;
     height:32px;
     font-size:0.85em;
@@ -244,7 +253,6 @@ color:  #999;
 #btnShowPicks .md-star {
     line-height: 1.95em!important;
 }
-
 #faSet .fa-flag {
     line-height: 1.75em!important;
 }
@@ -252,11 +260,10 @@ color:  #999;
     line-height: 1.65!important;
 /*    color:yellow!important;*/
 }
-
 #clearSearch .fa-times{
     float:right;
     position:relative;
-    margin-top:-3px!important;
+    margin-top:px!important;
     line-height: -1em!important;
     border:0px solid yellow!important;
 }
@@ -369,7 +376,7 @@ color:  #999;
     line-height: 2.95em;
     color:white;
     text-align: center;
-     background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.5);
     border-radius: 15px 15px 0px 0px!important;
 }
 .myNotifyMsg{
@@ -386,7 +393,8 @@ color:  #999;
     border:0px solid yellow;
 }
 .myNotifyCancelBtn{
-    float:left;
+    position:absolute;
+    bottom:0!important;
     width:50%;
     height:68px;
     font-size:1.15em;
@@ -399,7 +407,9 @@ color:  #999;
     cursor: pointer;
 }
 .myNotifyOkBtn{
-    float:right;
+    left:150px;
+    position:absolute;
+    bottom:0px!important;
     width:50%;
     height:68px;
     font-size:1.15em;
@@ -408,8 +418,8 @@ color:  #999;
     text-align:center;
     text-shadow:none!important;
     border-bottom-right-radius: 10px;
-     background:rgba(0,0,0,0.5);
-     cursor: pointer;
+    background:rgba(0,0,0,0.5);
+    cursor: pointer;
 }
 
 header a {
@@ -420,7 +430,6 @@ header a {
 	margin-right:40%!important;
 	text-decoration: none!important;
 	border:0px solid yellow;
-       z-index: 1500;
 }
 .md-main-menu {
 	color:#787878;
@@ -494,13 +503,7 @@ h2 i {
 	width:150px;
 	height:100px;
 	}
-#container {
-  width:90%;
-  height:100%; 
-  margin-top:46px!important; 
-  margin-left:-10px!important;
- z-index: 1!important;
-}			
+#container {width:90%;height:100%; margin-top:54px!important; margin-left:-10px!important;border:0px solid yellow;}			
 #container .item {
     float:left;
     font-weight:normal!important;

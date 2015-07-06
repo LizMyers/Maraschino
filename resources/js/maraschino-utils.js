@@ -10,6 +10,7 @@ var Utils = {
 		var nBusiness=0;
 		var nEntertainment=0;
 		var nFood=0;
+                        var nHealth=0;
 		var nNature=0;
 		var nObjects=0;
 		var nOffice=0;
@@ -70,6 +71,11 @@ var Utils = {
                         $("#nFood").text(nFood);
                         //console.log("Food: "+nFood);
                     break;
+                    case "healthcare":
+                        nHealth++;
+                        $("#nHealth").text(nHealth);
+                        //console.log("Food: "+nFood);
+                    break;
                     case "nature":
                         nNature++;
                         $("#nNature").text(nNature);
@@ -111,6 +117,7 @@ var Utils = {
                         //console.log("Technology: "+nTechnology);
                     break;
                     case "UI":
+                    case "ui":
                         nUI++;
                         $("#nUI").text(nUI);
                         //console.log("UI: "+nUI);
@@ -128,7 +135,7 @@ var Utils = {
                                             '<p class="number">'+(i+1)+'</p>'+
                                             '<p class = "glyph"><i class="'+symbol+'"></i></p>'+
                                             '<p class="name">'+name+'</p>'+
-                                            '<p class="code" title="hi Liz">'+code+'</p>'+
+                                            '<p class="code">'+code+'</p>'+
                                             '<p class="set">'+author+'</p>'+
                                             '<p class="keywords">'+keywords+'</p>'+
                                             '</div>';
