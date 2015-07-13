@@ -11,7 +11,6 @@ $(document).on('pagecreate', function() {
 	var icons = $.map(allSets, function(icon, i) {
 
 		var id = i + 1;
-		var number = icon.number;
 		var name = icon.name;
 		var code = icon.symbol;
 		var category = icon.category;
@@ -26,7 +25,7 @@ $(document).on('pagecreate', function() {
 
 		var item = '<li data-sort='+name+'>' +
 			'<p class = "glyph"><i class="' + symbol + '"></i></p>' +
-			'<p class="name">' + ' ' + name + '<br>' +
+			 '<p class="name">' + ' ' + id + '. ' + name + '<br>' +
 			'<span class="code">' + code + '</span></p>' +
 			'</li>';
 		}

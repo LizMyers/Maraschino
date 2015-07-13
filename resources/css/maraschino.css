@@ -53,7 +53,7 @@ body {
     background:#f64444;
 }
 a:hover  i {
-  color:#f64444!important;
+  color:#fff!important;
 }
 span#downloadTxt {
     float:left;
@@ -125,7 +125,7 @@ span#logo {
   margin:0;
   padding:0;
   position:absolute; 
-  top:0px;
+  top:-1px;
   left:5px;
   padding-left:5px;
   padding:-4px!important;
@@ -194,7 +194,7 @@ color:  #999;
     display:inline-block;
     position:relative;
     left:320px;
-    top:-43px;
+    top:-45px;
     width:120px;
     height:32px;
     font-size:0.85em;

@@ -18,28 +18,28 @@
     "symbol":"fa fa-align-center",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Align Justify",
     "symbol":"fa fa-align-justify",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Align Left",
     "symbol":"fa fa-align-left",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Align Right",
     "symbol":"fa fa-align-right",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Ambulance",
@@ -403,7 +403,7 @@
     "symbol":"fa fa-bold",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Bold",
@@ -1467,7 +1467,7 @@
     "symbol":"fa fa-font",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Forum Bee",
@@ -3091,7 +3091,7 @@
     "symbol":"fa fa-superscript",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Table",
@@ -3157,18 +3157,18 @@
     "keywords":"technology"
   },
   {
-    "name":"Text Height",
+    "name":"Line Height",
     "symbol":"fa fa-text-height",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Text Width",
     "symbol":"fa fa-text-width",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Table Header",
@@ -3392,7 +3392,7 @@
     "symbol":"fa fa-underline",
     "category":"UI",
     "set":"faSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Undo",
@@ -3672,28 +3672,28 @@
     "symbol":"glyphicon glyphicon-align-center",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Align Justify",
     "symbol":"glyphicon glyphicon-align-justify",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Align Left",
     "symbol":"glyphicon glyphicon-align-left",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Align Right",
     "symbol":"glyphicon glyphicon-align-right",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Apple",
@@ -4358,7 +4358,7 @@
     "symbol":"glyphicon glyphicon-header",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Headphones",
@@ -4435,14 +4435,14 @@
     "symbol":"glyphicon glyphicon-indent-left",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Indent Right",
     "symbol":"glyphicon glyphicon-indent-right",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Info Sign",
@@ -4456,7 +4456,7 @@
     "symbol":"glyphicon glyphicon-italic",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"King",
@@ -5240,7 +5240,7 @@
     "symbol":"glyphicon glyphicon-subscript",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"type"
+    "keywords":"UI, type"
   },
   {
     "name":"Subtitles",
@@ -5261,7 +5261,7 @@
     "symbol":"glyphicon glyphicon-superscript",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"type"
+    "keywords":"UI, type"
   },
   {
     "name":"Tag",
@@ -5296,35 +5296,35 @@
     "symbol":"glyphicon glyphicon-text-background",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"type"
+    "keywords":"UI, type"
   },
   {
     "name":"Text Color",
     "symbol":"glyphicon glyphicon-text-color",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"type"
+    "keywords":"UI, type"
   },
   {
     "name":"Line Height",
     "symbol":"glyphicon glyphicon-text-height",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Text Size",
     "symbol":"glyphicon glyphicon-text-size",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"type"
+    "keywords":"UI, type"
   },
   {
     "name":"Text Width",
     "symbol":"glyphicon glyphicon-text-width",
     "category":"UI",
     "set":"glyphSet",
-    "keywords":"UI"
+    "keywords":"UI, type"
   },
   {
     "name":"Th",
