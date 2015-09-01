@@ -1,6 +1,3 @@
-# Maraschino
-
-
 #Project Maraschino
 
 ###Helping you "cherry pick" icons from these open source libraries:
