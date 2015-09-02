@@ -1,5 +1,12 @@
 [
   {
+    "name":"500px",
+    "symbol":"fa fa-500px",
+    "category":"entertainment",
+    "set":"faSet",
+    "keywords":"media, photography"
+  },
+  {
     "name":"Adjust",
     "symbol":"fa fa-adjust",
     "category":"entertainment",
@@ -40,6 +47,13 @@
     "category":"UI",
     "set":"faSet",
     "keywords":"UI, type"
+  },
+  {
+    "name":"Amazon",
+    "symbol":"fa fa-amazon",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Ambulance",
@@ -280,6 +294,13 @@
     "keywords":"entertainment, media"
   },
   {
+    "name":"Balance Scale",
+    "symbol":"fa fa-balance-scale",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Ban",
     "symbol":"fa fa-ban",
     "category":"UI",
@@ -313,6 +334,41 @@
     "category":"technology",
     "set":"faSet",
     "keywords":"technology"
+  },
+  {
+    "name":"Empty Battery",
+    "symbol":"fa fa-battery-empty",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Full Battery",
+    "symbol":"fa fa-battery-full",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Half Battery",
+    "symbol":"fa fa-battery-half",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Quarter Battery",
+    "symbol":"fa fa-battery-quarter",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"3/4 Battery",
+    "symbol":"fa fa-battery-three-quarters",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Beer",
@@ -397,6 +453,13 @@
     "category":"social",
     "set":"faSet",
     "keywords":"social"
+  },
+  {
+    "name":"Black Tie",
+    "symbol":"fa fa-black-tie",
+    "category":"people",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Bold",
@@ -518,11 +581,39 @@
     "keywords":"business"
   },
   {
+    "name":"Calendar-Check",
+    "symbol":"fa fa-calendar-check-o",
+    "category":"office",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Remove from Calendar",
+    "symbol":"fa fa-calendar-minus-o",
+    "category":"office",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Calendar",
     "symbol":"fa fa-calendar-o",
     "category":"business",
     "set":"faSet",
     "keywords":"business"
+  },
+  {
+    "name":"Add to Calendar",
+    "symbol":"fa fa-calendar-plus-o",
+    "category":"office",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Calendar",
+    "symbol":"fa fa-calendar-times-o",
+    "category":"office",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Camera",
@@ -630,11 +721,25 @@
     "keywords":"business, shopping, e-commerce"
   },
   {
+    "name":"Diners Club Card",
+    "symbol":"fa fa-cc-diners-club",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"money, pay"
+  },
+  {
     "name":"Discover",
     "symbol":"fa fa-cc-discover",
     "category":"business",
     "set":"faSet",
     "keywords":"business, shopping, e-commerce"
+  },
+  {
+    "name":"JCB Credit Card",
+    "symbol":"fa fa-cc-jcb",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"money, pay"
   },
   {
     "name":"Mastercard",
@@ -777,6 +882,13 @@
     "keywords":"UI"
   },
   {
+    "name":"Chrome",
+    "symbol":"fa fa-chrome",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"browser"
+  },
+  {
     "name":"Circle",
     "symbol":"fa fa-circle",
     "category":"UI",
@@ -817,6 +929,13 @@
     "category":"business",
     "set":"faSet",
     "keywords":"business"
+  },
+  {
+    "name":"Clone",
+    "symbol":"fa fa-clone",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Cloud",
@@ -910,6 +1029,20 @@
     "keywords":"social"
   },
   {
+    "name":"Writing Comment",
+    "symbol":"fa fa-commenting",
+    "category":"social",
+    "set":"faSet",
+    "keywords":"speech bubble, texting"
+  },
+  {
+    "name":"Speech Bubble",
+    "symbol":"fa fa-commenting-o",
+    "category":"social",
+    "set":"faSet",
+    "keywords":"speech bubble, texting"
+  },
+  {
     "name":"Comments",
     "symbol":"fa fa-comments",
     "category":"social",
@@ -945,11 +1078,25 @@
     "keywords":"social"
   },
   {
+    "name":"Contao",
+    "symbol":"fa fa-contao",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Copyright",
     "symbol":"fa fa-copyright",
     "category":"business",
     "set":"faSet",
     "keywords":"business"
+  },
+  {
+    "name":"Creative Commons",
+    "symbol":"fa fa-creative-commons",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"legal"
   },
   {
     "name":"Credit Card",
@@ -1176,6 +1323,13 @@
     "keywords":"UI"
   },
   {
+    "name":"Expedited SSL",
+    "symbol":"fa fa-expeditedssl",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Link",
     "symbol":"fa fa-external-link",
     "category":"UI",
@@ -1393,6 +1547,13 @@
     "keywords":"UI"
   },
   {
+    "name":"Firefox",
+    "symbol":"fa fa-firefox",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"browser"
+  },
+  {
     "name":"Flag",
     "symbol":"fa fa-flag",
     "category":"UI",
@@ -1470,6 +1631,13 @@
     "keywords":"UI, type"
   },
   {
+    "name":"Font Icons",
+    "symbol":"fa fa-fonticons",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Forum Bee",
     "symbol":"fa fa-forumbee",
     "category":"social",
@@ -1524,6 +1692,34 @@
     "category":"business",
     "set":"faSet",
     "keywords":"business"
+  },
+  {
+    "name":"Gender Neutral",
+    "symbol":"fa fa-genderless",
+    "category":"people",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Get Pocket",
+    "symbol":"fa fa-get-pocket",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"GG",
+    "symbol":"fa fa-gg",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"GG",
+    "symbol":"fa fa-gg-circle",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Gift",
@@ -1638,6 +1834,13 @@
     "keywords":"technology"
   },
   {
+    "name":"Lizard",
+    "symbol":"fa fa-hand-lizard-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Hand Down",
     "symbol":"fa fa-hand-o-down",
     "category":"social",
@@ -1664,6 +1867,48 @@
     "category":"social",
     "set":"faSet",
     "keywords":"social"
+  },
+  {
+    "name":"Paper",
+    "symbol":"fa fa-hand-paper-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":"rock, paper, scissors, game"
+  },
+  {
+    "name":"Peace",
+    "symbol":"fa fa-hand-peace-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Pointer",
+    "symbol":"fa fa-hand-pointer-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Rock",
+    "symbol":"fa fa-hand-rock-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":"rock, paper, scissors, game"
+  },
+  {
+    "name":"Scissors",
+    "symbol":"fa fa-hand-scissors-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":"rock, paper, scissors, game"
+  },
+  {
+    "name":"Vulcan Peace",
+    "symbol":"fa fa-hand-spock-o",
+    "category":"people",
+    "set":"faSet",
+    "keywords":"star trek"
   },
   {
     "name":"HDD",
@@ -1729,11 +1974,60 @@
     "keywords":"social"
   },
   {
+    "name":"Hourglass",
+    "symbol":"fa fa-hourglass",
+    "category":"objects",
+    "set":"faSet",
+    "keywords":"time"
+  },
+  {
+    "name":"Hourglass End",
+    "symbol":"fa fa-hourglass-end",
+    "category":"objects",
+    "set":"faSet",
+    "keywords":"time"
+  },
+  {
+    "name":"Hourglass Half Full",
+    "symbol":"fa fa-hourglass-half",
+    "category":"objects",
+    "set":"faSet",
+    "keywords":"time"
+  },
+  {
+    "name":"Empty Hourglass",
+    "symbol":"fa fa-hourglass-o",
+    "category":"objects",
+    "set":"faSet",
+    "keywords":"time"
+  },
+  {
+    "name":"Hourglass Start",
+    "symbol":"fa fa-hourglass-start",
+    "category":"objects",
+    "set":"faSet",
+    "keywords":"time"
+  },
+  {
+    "name":"Houzz",
+    "symbol":"fa fa-houzz",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"home, furniture, decorating"
+  },
+  {
     "name":"HTML5",
     "symbol":"fa fa-html5",
     "category":"technology",
     "set":"faSet",
     "keywords":"technology"
+  },
+  {
+    "name":"Cursor",
+    "symbol":"fa fa-i-cursor",
+    "category":"UI",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Ils",
@@ -1755,6 +2049,13 @@
     "category":"UI",
     "set":"faSet",
     "keywords":"UI"
+  },
+  {
+    "name":"Industry",
+    "symbol":"fa fa-industry",
+    "category":"business",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Info",
@@ -1783,6 +2084,13 @@
     "category":"social",
     "set":"faSet",
     "keywords":"social"
+  },
+  {
+    "name":"Internet Explorer",
+    "symbol":"fa fa-internet-explorer",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"browser"
   },
   {
     "name":"Iox Host",
@@ -2058,11 +2366,39 @@
     "keywords":"social"
   },
   {
+    "name":"Map",
+    "symbol":"fa fa-map",
+    "category":"travel",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Map Marker",
     "symbol":"fa fa-map-marker",
-    "category":"UI",
+    "category":"travel",
     "set":"faSet",
     "keywords":"UI"
+  },
+  {
+    "name":"Map",
+    "symbol":"fa fa-map-o",
+    "category":"travel",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Map Pin",
+    "symbol":"fa fa-map-pin",
+    "category":"travel",
+    "set":"faSet",
+    "keywords":"location"
+  },
+  {
+    "name":"Map Signs",
+    "symbol":"fa fa-map-signs",
+    "category":"travel",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Mars",
@@ -2212,6 +2548,13 @@
     "keywords":"sports, bike"
   },
   {
+    "name":"Mouse Pointer",
+    "symbol":"fa fa-mouse-pointer",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Music",
     "symbol":"fa fa-music",
     "category":"entertainment",
@@ -2233,11 +2576,60 @@
     "keywords":"entertainment, business"
   },
   {
+    "name":"Group",
+    "symbol":"fa fa-object-group",
+    "category":"UI",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Ungroup",
+    "symbol":"fa fa-object-ungroup",
+    "category":"UI",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Odnoklassniki",
+    "symbol":"fa fa-odnoklassniki",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Square Odnoklassniki",
+    "symbol":"fa fa-odnoklassniki-square",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Opencart",
+    "symbol":"fa fa-opencart",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"shopping, eCommerce"
+  },
+  {
     "name":"Open ID",
     "symbol":"fa fa-openid",
     "category":"people",
     "set":"faSet",
     "keywords":"technology"
+  },
+  {
+    "name":"Opera",
+    "symbol":"fa fa-opera",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"browser"
+  },
+  {
+    "name":"Optin Monster",
+    "symbol":"fa fa-optin-monster",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Outdent",
@@ -2576,6 +2968,13 @@
     "keywords":"UI"
   },
   {
+    "name":"Registered",
+    "symbol":"fa fa-registered",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"legal"
+  },
+  {
     "name":"RenRen",
     "symbol":"fa fa-renren",
     "category":"social",
@@ -2644,6 +3043,13 @@
     "category":"business",
     "set":"faSet",
     "keywords":"currency, money"
+  },
+  {
+    "name":"Safari",
+    "symbol":"fa fa-safari",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"browser"
   },
   {
     "name":"Scissors",
@@ -3024,6 +3430,20 @@
     "keywords":"social"
   },
   {
+    "name":"Sticky Note",
+    "symbol":"fa fa-sticky-note",
+    "category":"office",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Sticky Note",
+    "symbol":"fa fa-sticky-note-o",
+    "category":"office",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Stop",
     "symbol":"fa fa-stop",
     "category":"entertainment",
@@ -3141,6 +3561,13 @@
     "category":"travel",
     "set":"faSet",
     "keywords":"cab"
+  },
+  {
+    "name":"Television",
+    "symbol":"fa fa-television",
+    "category":"entertainment",
+    "set":"faSet",
+    "keywords":"media"
   },
   {
     "name":"Tencent Weibo",
@@ -3276,6 +3703,13 @@
     "keywords":"UI"
   },
   {
+    "name":"Trademark",
+    "symbol":"fa fa-trademark",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"legal"
+  },
+  {
     "name":"Train",
     "symbol":"fa fa-train",
     "category":"travel",
@@ -3316,6 +3750,13 @@
     "category":"social",
     "set":"faSet",
     "keywords":"social"
+  },
+  {
+    "name":"Trip Advisor",
+    "symbol":"fa fa-tripadvisor",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"travel"
   },
   {
     "name":"Trophy",
@@ -3522,6 +3963,13 @@
   },
   {
     "name":"Vimeo",
+    "symbol":"fa fa-vimeo",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
+    "name":"Vimeo",
     "symbol":"fa fa-vimeo-square",
     "category":"social",
     "set":"faSet",
@@ -3591,6 +4039,13 @@
     "keywords":"UI"
   },
   {
+    "name":"Wikipedia",
+    "symbol":"fa fa-wikipedia-w",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
+  },
+  {
     "name":"Windows",
     "symbol":"fa fa-windows",
     "category":"technology",
@@ -3617,6 +4072,13 @@
     "category":"social",
     "set":"faSet",
     "keywords":"social"
+  },
+  {
+    "name":"Combinator",
+    "symbol":"fa fa-y-combinator",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":""
   },
   {
     "name":"Yahoo",

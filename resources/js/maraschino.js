@@ -448,6 +448,7 @@ function clearAllMyPicks() {
 		var $myDiscard = $myPicksArray.indexOf($number);
 		$myPicksArray.splice($myDiscard, 1);
 		myCount--;
+
 	}
 	localStorage.setItem('myPicksArray', JSON.stringify($myPicksArray));
 	localStorage.setItem('myCount', myCount);

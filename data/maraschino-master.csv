@@ -1,10 +1,12 @@
 name,symbol,category,set,keywords
+500px,fa fa-500px,entertainment,faSet,"media, photography"
 Adjust,fa fa-adjust,entertainment,faSet,"entertainment, media"
 Ad-n,fa fa-adn,social,faSet,social
 Align Center,fa fa-align-center,UI,faSet,"UI, type"
 Align Justify,fa fa-align-justify,UI,faSet,"UI, type"
 Align Left,fa fa-align-left,UI,faSet,"UI, type"
 Align Right,fa fa-align-right,UI,faSet,"UI, type"
+Amazon,fa fa-amazon,technology,faSet,
 Ambulance,fa fa-ambulance,social,faSet,social
 Anchor ,fa fa-anchor,UI,faSet,UI
 Android,fa fa-android,technology,faSet,technology
@@ -39,11 +41,17 @@ Arrows Vertical,fa fa-arrows-v,UI,faSet,UI
 Multiply,fa fa-asterisk,business,faSet,business
 At Symbol,fa fa-at,UI,faSet,email
 Backward,fa fa-backward,entertainment,faSet,"entertainment, media"
+Balance Scale,fa fa-balance-scale,technology,faSet,
 Ban,fa fa-ban,UI,faSet,UI
 Bar Chart,fa fa-bar-chart,business,faSet,graph
 Bar Chart,fa fa-bar-chart-o,business,faSet,graph
 Bar Code,fa fa-barcode,business,faSet,business
 Bars,fa fa-bars,technology,faSet,technology
+Empty Battery,fa fa-battery-empty,technology,faSet,
+Full Battery,fa fa-battery-full,technology,faSet,
+Half Battery,fa fa-battery-half,technology,faSet,
+Quarter Battery,fa fa-battery-quarter,technology,faSet,
+3/4 Battery,fa fa-battery-three-quarters,technology,faSet,
 Beer,fa fa-beer,entertainment,faSet,"entertainment, media"
 Behance,fa fa-behance,social,faSet,"social, artists"
 Behance,fa fa-behance-square,social,faSet,"social, artists"
@@ -56,6 +64,7 @@ Binoculars,fa fa-binoculars,objects,faSet,"objects, search"
 Birthday Cake,fa fa-birthday-cake,food,faSet,"food, party, anniversary"
 BitBucket,fa fa-bitbucket,social,faSet,social
 BitBucket,fa fa-bitbucket-square,social,faSet,social
+Black Tie,fa fa-black-tie,people,faSet,
 Bold,fa fa-bold,UI,faSet,"UI, type"
 Bold,fa fa-bolt,UI,faSet,UI
 Bomb,fa fa-bomb,UI,faSet,"UI, crash"
@@ -73,7 +82,11 @@ Bus,fa fa-bus,travel,faSet,"travel, transport"
 Buy (Sell) Ads,fa fa-buysellads,business,faSet,"business, UI"
 Calculator,fa fa-calculator,business,faSet,business
 Calendar,fa fa-calendar,business,faSet,business
+Calendar-Check,fa fa-calendar-check-o,office,faSet,
+Remove from Calendar,fa fa-calendar-minus-o,office,faSet,
 Calendar,fa fa-calendar-o,business,faSet,business
+Add to Calendar,fa fa-calendar-plus-o,office,faSet,
+Calendar,fa fa-calendar-times-o,office,faSet,
 Camera,fa fa-camera,entertainment,faSet,"entertainment, media"
 Camera,fa fa-camera-retro,entertainment,faSet,"entertainment, media"
 Car,fa fa-car,travel,faSet,"travel, transport"
@@ -89,7 +102,9 @@ Cart,fa fa-cart-arrow-down,UI,faSet,"UI, business, shopping, basket"
 Cart,fa fa-cart-plus,UI,faSet,"UI, business, shopping, basket, add"
 Credit Card,fa fa-cc,business,faSet,"business, shopping, e-commerce"
 AmEx,fa fa-cc-amex,business,faSet,"business, shopping, e-commerce"
+Diners Club Card,fa fa-cc-diners-club,business,faSet,"money, pay"
 Discover,fa fa-cc-discover,business,faSet,"business, shopping, e-commerce"
+JCB Credit Card,fa fa-cc-jcb,business,faSet,"money, pay"
 Mastercard,fa fa-cc-mastercard,business,faSet,"business, shopping, e-commerce"
 Paypal,fa fa-cc-paypal,business,faSet,"business, shopping, e-commerce"
 Stripe,fa fa-cc-stripe,business,faSet,"business, shopping, e-commerce"
@@ -110,12 +125,14 @@ Chevron Left,fa fa-chevron-left,UI,faSet,UI
 Chevron Right,fa fa-chevron-right,UI,faSet,UI
 Chevron Up,fa fa-chevron-up,UI,faSet,UI
 Child,fa fa-child,people,faSet,UI
+Chrome,fa fa-chrome,technology,faSet,browser
 Circle,fa fa-circle,UI,faSet,UI
 Circle,fa fa-circle-o,UI,faSet,UI
 Circle,fa fa-circle-o-notch,UI,faSet,UI
 Circle,fa fa-circle-thin,UI,faSet,UI
 Clipboard,fa fa-clipboard,office,faSet,objects
 Clock,fa fa-clock-o,business,faSet,business
+Clone,fa fa-clone,technology,faSet,
 Cloud,fa fa-cloud,technology,faSet,technology
 Cloud Download,fa fa-cloud-download,technology,faSet,technology
 Cloud Upload,fa fa-cloud-upload,technology,faSet,technology
@@ -129,12 +146,16 @@ Cogs,fa fa-cogs,UI,faSet,UI
 Columns,fa fa-columns,UI,faSet,UI
 Comment,fa fa-comment,social,faSet,social
 Comment,fa fa-comment-o,social,faSet,social
+Writing Comment,fa fa-commenting,social,faSet,"speech bubble, texting"
+Speech Bubble,fa fa-commenting-o,social,faSet,"speech bubble, texting"
 Comments,fa fa-comments,social,faSet,social
 Comments,fa fa-comments-o,social,faSet,social
 Compass,fa fa-compass,UI,faSet,UI
 Compress,fa fa-compress,UI,faSet,UI
 Connect Develop,fa fa-connectdevelop,social,faSet,social
+Contao,fa fa-contao,technology,faSet,
 Copyright,fa fa-copyright,business,faSet,business
+Creative Commons,fa fa-creative-commons,business,faSet,legal
 Credit Card,fa fa-credit-card,business,faSet,business
 Crop,fa fa-crop,entertainment,faSet,"entertainment, media"
 Crosshairs,fa fa-crosshairs,UI,faSet,UI
@@ -167,6 +188,7 @@ Exclamation,fa fa-exclamation,UI,faSet,UI
 Circle Caution,fa fa-exclamation-circle,UI,faSet,UI
 Caution,fa fa-exclamation-triangle,UI,faSet,UI
 Expand,fa fa-expand,UI,faSet,UI
+Expedited SSL,fa fa-expeditedssl,technology,faSet,
 Link,fa fa-external-link,UI,faSet,UI
 Link,fa fa-external-link-square,UI,faSet,UI
 Visible,fa fa-eye,UI,faSet,UI
@@ -198,6 +220,7 @@ Film,fa fa-film,entertainment,faSet,"entertainment, media"
 Filter,fa fa-filter,business,faSet,business
 Fire,fa fa-fire,nature,faSet,nature
 Fire Extinguisher,fa fa-fire-extinguisher,UI,faSet,UI
+Firefox,fa fa-firefox,technology,faSet,browser
 Flag,fa fa-flag,UI,faSet,UI
 Flag Checkerred,fa fa-flag-checkered,UI,faSet,UI
 Flag,fa fa-flag-o,UI,faSet,UI
@@ -209,6 +232,7 @@ Folder,fa fa-folder-o,UI,faSet,UI
 Folder Open,fa fa-folder-open,UI,faSet,UI
 Folder,fa fa-folder-open-o,UI,faSet,UI
 Font,fa fa-font,UI,faSet,"UI, type"
+Font Icons,fa fa-fonticons,technology,faSet,
 Forum Bee,fa fa-forumbee,social,faSet,social
 Forward,fa fa-forward,entertainment,faSet,"entertainment, media"
 FourSquare,fa fa-foursquare,social,faSet,social
@@ -217,6 +241,10 @@ Football,fa fa-futbol-o,sports,faSet,sports
 Gamepad,fa fa-gamepad,technology,faSet,technology
 Gavel,fa fa-gavel,business,faSet,objects
 British Pound,fa fa-gbp,business,faSet,business
+Gender Neutral,fa fa-genderless,people,faSet,
+Get Pocket,fa fa-get-pocket,technology,faSet,
+GG,fa fa-gg,technology,faSet,
+GG,fa fa-gg-circle,technology,faSet,
 Gift,fa fa-gift,UI,faSet,UI
 Github,fa fa-git-square,social,faSet,"social, technology"
 Github,fa fa-github,social,faSet,social
@@ -233,10 +261,17 @@ Graduation Cap,fa fa-graduation-cap,people,faSet,"people, university, education,
 Gratipay,fa fa-gratipay,business,faSet,technology
 Square,fa fa-h-square,UI,faSet,UI
 Hacker News,fa fa-hacker-news,entertainment,faSet,technology
+Lizard,fa fa-hand-lizard-o,people,faSet,
 Hand Down,fa fa-hand-o-down,social,faSet,social
 Hand Left,fa fa-hand-o-left,social,faSet,social
 Hand Right,fa fa-hand-o-right,social,faSet,social
 Hand Up,fa fa-hand-o-up,social,faSet,social
+Paper,fa fa-hand-paper-o,people,faSet,"rock, paper, scissors, game"
+Peace,fa fa-hand-peace-o,people,faSet,
+Pointer,fa fa-hand-pointer-o,people,faSet,
+Rock,fa fa-hand-rock-o,people,faSet,"rock, paper, scissors, game"
+Scissors,fa fa-hand-scissors-o,people,faSet,"rock, paper, scissors, game"
+Vulcan Peace,fa fa-hand-spock-o,people,faSet,star trek
 HDD,fa fa-hdd-o,technology,faSet,technology
 Header,fa fa-header,UI,faSet,"UI, type"
 Headphones,fa fa-headphones,entertainment,faSet,"entertainment, media"
@@ -246,14 +281,23 @@ Heartbeat,fa fa-heartbeat,people,faSet,medical
 History,fa fa-history,UI,faSet,UI
 Home,fa fa-home,UI,faSet,UI
 Hospital,fa fa-hospital-o,social,faSet,social
+Hourglass,fa fa-hourglass,objects,faSet,time
+Hourglass End,fa fa-hourglass-end,objects,faSet,time
+Hourglass Half Full,fa fa-hourglass-half,objects,faSet,time
+Empty Hourglass,fa fa-hourglass-o,objects,faSet,time
+Hourglass Start,fa fa-hourglass-start,objects,faSet,time
+Houzz,fa fa-houzz,technology,faSet,"home, furniture, decorating"
 HTML5,fa fa-html5,technology,faSet,technology
+Cursor,fa fa-i-cursor,UI,faSet,
 Ils,fa fa-ils,UI,faSet,technology
 Inbox,fa fa-inbox,business,faSet,business
 Indent,fa fa-indent,UI,faSet,UI
+Industry,fa fa-industry,business,faSet,
 Info,fa fa-info,UI,faSet,UI
 Circle Info,fa fa-info-circle,UI,faSet,UI
 Indian Rupee,fa fa-inr,business,faSet,business
 Instagram,fa fa-instagram,social,faSet,social
+Internet Explorer,fa fa-internet-explorer,technology,faSet,browser
 Iox Host,fa fa-ioxhost,technology,faSet,technology
 Italic,fa fa-italic,UI,faSet,"UI, type"
 Joomla,fa fa-joomla,social,faSet,social
@@ -293,7 +337,11 @@ Magic,fa fa-magic,UI,faSet,UI
 Magnet,fa fa-magnet,UI,faSet,UI
 Mail Reply All,fa fa-mail-reply-all,UI,faSet,UI
 Male,fa fa-male,social,faSet,social
-Map Marker,fa fa-map-marker,UI,faSet,UI
+Map,fa fa-map,travel,faSet,
+Map Marker,fa fa-map-marker,travel,faSet,UI
+Map,fa fa-map-o,travel,faSet,
+Map Pin,fa fa-map-pin,travel,faSet,location
+Map Signs,fa fa-map-signs,travel,faSet,
 Mars,fa fa-mars,people,faSet,male
 Mars,fa fa-mars-double,people,faSet,"male, gay"
 Mars,fa fa-mars-stroke,people,faSet,male
@@ -315,10 +363,18 @@ Mobile,fa fa-mobile-phone,technology,faSet,technology
 business,fa fa-money,business,faSet,business
 Moon,fa fa-moon-o,nature,faSet,nature
 Motorcycle,fa fa-motorcycle,travel,faSet,"sports, bike"
+Mouse Pointer,fa fa-mouse-pointer,technology,faSet,
 Music,fa fa-music,entertainment,faSet,"entertainment, music"
 Neuter,fa fa-neuter,people,faSet,"people, gender"
 Newspaper,fa fa-newspaper-o,entertainment,faSet,"entertainment, business"
+Group,fa fa-object-group,UI,faSet,
+Ungroup,fa fa-object-ungroup,UI,faSet,
+Odnoklassniki,fa fa-odnoklassniki,technology,faSet,
+Square Odnoklassniki,fa fa-odnoklassniki-square,technology,faSet,
+Opencart,fa fa-opencart,business,faSet,"shopping, eCommerce"
 Open ID,fa fa-openid,people,faSet,technology
+Opera,fa fa-opera,technology,faSet,browser
+Optin Monster,fa fa-optin-monster,technology,faSet,
 Outdent,fa fa-outdent,UI,faSet,UI
 PageLines,fa fa-pagelines,social,faSet,social
 Paint Brush,fa fa-paint-brush,objects,faSet,"art, UI"
@@ -367,6 +423,7 @@ Recycle,fa fa-recycle,nature,faSet,UI
 Reddit,fa fa-reddit,technology,faSet,"UI, entertainment, read"
 Reddit,fa fa-reddit-square,technology,faSet,"UI, entertainment, read"
 Refresh,fa fa-refresh,UI,faSet,UI
+Registered,fa fa-registered,business,faSet,legal
 RenRen,fa fa-renren,social,faSet,social
 Repeat,fa fa-repeat,entertainment,faSet,"entertainment, media"
 Reply,fa fa-reply,UI,faSet,UI
@@ -377,6 +434,7 @@ Rocket,fa fa-rocket,travel,faSet,travel
 RSS,fa fa-rss,technology,faSet,technology
 RSS,fa fa-rss-square,social,faSet,social
 Rub,fa fa-rub,business,faSet,"currency, money"
+Safari,fa fa-safari,technology,faSet,browser
 Scissors,fa fa-scissors,business,faSet,business
 Search,fa fa-search,UI,faSet,"UI, technology"
 Zoom Out,fa fa-search-minus,UI,faSet,UI
@@ -431,6 +489,8 @@ Steam,fa fa-steam-square,social,faSet,social
 Step Back,fa fa-step-backward,entertainment,faSet,"entertainment, media"
 Step Forward,fa fa-step-forward,entertainment,faSet,"entertainment, media"
 Stethoscope,fa fa-stethoscope,social,faSet,social
+Sticky Note,fa fa-sticky-note,office,faSet,
+Sticky Note,fa fa-sticky-note-o,office,faSet,
 Stop,fa fa-stop,entertainment,faSet,"entertainment, media"
 Street View,fa fa-street-view,travel,faSet,Google maps
 Strikethrough,fa fa-strikethrough,UI,faSet,"UI, type"
@@ -448,6 +508,7 @@ Tag,fa fa-tag,business,faSet,business
 Tags,fa fa-tags,business,faSet,business
 Tasks,fa fa-tasks,UI,faSet,UI
 Taxi,fa fa-taxi,travel,faSet,cab
+Television,fa fa-television,entertainment,faSet,media
 Tencent Weibo,fa fa-tencent-weibo,social,faSet,social
 Terminal,fa fa-terminal,technology,faSet,technology
 Line Height,fa fa-text-height,UI,faSet,"UI, type"
@@ -467,12 +528,14 @@ Circle Close,fa fa-times-circle-o,UI,faSet,UI
 Tint,fa fa-tint,entertainment,faSet,"entertainment, media"
 Toggle Off,fa fa-toggle-off,UI,faSet,UI
 Toggle On,fa fa-toggle-on,UI,faSet,UI
+Trademark,fa fa-trademark,business,faSet,legal
 Train,fa fa-train,travel,faSet,"travel, railroad"
 Transgender,fa fa-transgender,people,faSet,people
 Transgender,fa fa-transgender-alt,people,faSet,people
 Trash,fa fa-trash-o,UI,faSet,"bin, garbage, rubbish, trash"
 Tree,fa fa-tree,nature,faSet,nature
 Trello,fa fa-trello,social,faSet,social
+Trip Advisor,fa fa-tripadvisor,technology,faSet,travel
 Trophy,fa fa-trophy,UI,faSet,UI
 Truck,fa fa-truck,travel,faSet,travel
 Try,fa fa-try,social,faSet,social
@@ -502,6 +565,7 @@ Venus,fa fa-venus-double,people,faSet,"gender, female, lesbian"
 Venus,fa fa-venus-mars,people,faSet,"gender, male, female"
 Viacoin,fa fa-viacoin,business,faSet,money
 Camera Video,fa fa-video-camera,entertainment,faSet,"entertainment, media"
+Vimeo,fa fa-vimeo,technology,faSet,
 Vimeo,fa fa-vimeo-square,social,faSet,social
 Vine,fa fa-vine,social,faSet,social
 Vk,fa fa-vk,social,faSet,social
@@ -512,10 +576,12 @@ Weibo,fa fa-weibo,social,faSet,social
 Weixen,fa fa-weixin,social,faSet,social
 Whatsapp,fa fa-whatsapp,social,faSet,social
 Wheelchair,fa fa-wheelchair,UI,faSet,UI
+Wikipedia,fa fa-wikipedia-w,technology,faSet,
 Windows,fa fa-windows,technology,faSet,technology
 Wrench,fa fa-wrench,UI,faSet,UI
 Xing,fa fa-xing,social,faSet,social
 Xing,fa fa-xing-square,social,faSet,social
+Combinator,fa fa-y-combinator,technology,faSet,
 Yahoo,fa fa-yahoo,technology,faSet,technology
 Yelp,fa fa-yelp,technology,faSet,technology
 YouTube,fa fa-youtube,social,faSet,social

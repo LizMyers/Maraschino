@@ -2368,35 +2368,35 @@
   {
     "name":"Map",
     "symbol":"fa fa-map",
-    "category":"objects",
+    "category":"travel",
     "set":"faSet",
     "keywords":""
   },
   {
     "name":"Map Marker",
     "symbol":"fa fa-map-marker",
-    "category":"UI",
+    "category":"travel",
     "set":"faSet",
     "keywords":"UI"
   },
   {
     "name":"Map",
     "symbol":"fa fa-map-o",
-    "category":"objects",
+    "category":"travel",
     "set":"faSet",
     "keywords":""
   },
   {
     "name":"Map Pin",
     "symbol":"fa fa-map-pin",
-    "category":"objects",
+    "category":"travel",
     "set":"faSet",
     "keywords":"location"
   },
   {
     "name":"Map Signs",
     "symbol":"fa fa-map-signs",
-    "category":"objects",
+    "category":"travel",
     "set":"faSet",
     "keywords":""
   },
@@ -3753,10 +3753,10 @@
   },
   {
     "name":"Trip Advisor",
-    "symbol":"fa fa-trip-advisor",
+    "symbol":"fa fa-tripadvisor",
     "category":"technology",
     "set":"faSet",
-    "keywords":""
+    "keywords":"travel"
   },
   {
     "name":"Trophy",
