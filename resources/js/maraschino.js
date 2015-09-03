@@ -549,8 +549,8 @@ $('#download').on('click', function() {
 });
 
 $('#print').on('click', function() {
-	//window.open("http://maraschino.lizmyers.webfactional.com/picksList.html", "_blank");
-	window.open("http://localhost:3000/picksList.html", "_blank");
+	window.open("http://maraschino.lizmyers.webfactional.com/picksList.html", "_blank");
+	//window.open("http://localhost:3000/picksList.html", "_blank");
 });
 
 ///////////////////////// SELECT LIBRARY /////////////////////////////////		
