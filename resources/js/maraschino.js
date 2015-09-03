@@ -165,10 +165,14 @@ $(document).on('pagebeforeshow', '#bbGrid', function() {
 		$this.toggleClass('mypicks');
 
 		//remove items that were deselected
-		var myPicksFilterStatus = $('#showMyPicks').attr('class');
+		var myPicksFilterStatus = $('#myPicks').find('a').attr('class');
 		var myPicks = $this.find('b').attr('class');
 
-		if ((myPicks !== "faveHide") && (myPicksFilterStatus == "selected")) {
+		console.log("myPicksFilterStatus "+myPicksFilterStatus);
+
+		//after de-selecting or unfaving item, run filter again to eliminate that  item from view
+
+		if (myPicksFilterStatus == "ui-link selected") {
 			$('#container').isotope({
 				filter: '.mypicks'
 			});
