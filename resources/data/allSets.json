@@ -217,6 +217,146 @@
     "keywords":"UI"
   },
   {
+    "name":"Bluetooth",
+    "symbol":"fa fa-bluetooth",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"technology"
+  },
+  {
+    "name":"Bluetooth",
+    "symbol":"fa fa-bluetooth-b",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"technology"
+  },
+  {
+    "name":"Codiepie",
+    "symbol":"fa fa-codiepie",
+    "category":"UI",
+    "set":"faSet",
+    "keywords":"developer, code"
+  },
+  {
+    "name":"Credit Card",
+    "symbol":"fa fa-credit-card-alt",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"money, pay"
+  },
+  {
+    "name":"Edge",
+    "symbol":"fa fa-edge",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"technology"
+  },
+  {
+    "name":"Fort",
+    "symbol":"fa fa-fort-awesome",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"UI"
+  },
+  {
+    "name":"Hashtag",
+    "symbol":"fa fa-hashtag",
+    "category":"UI",
+    "set":"faSet",
+    "keywords":"typography, number, pound sign"
+  },
+  {
+    "name":"Mixcloud",
+    "symbol":"fa fa-mixcloud",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"music, cloud"
+  },
+  {
+    "name":"Modx",
+    "symbol":"fa fa-modx",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"web, content management"
+  },
+  {
+    "name":"Pause",
+    "symbol":"fa fa-pause-circle",
+    "category":"media",
+    "set":"faSet",
+    "keywords":"music, video, controls"
+  },
+  {
+    "name":"Pause",
+    "symbol":"fa fa-pause-circle-o",
+    "category":"media",
+    "set":"faSet",
+    "keywords":"music, video, controls"
+  },
+  {
+    "name":"Percent",
+    "symbol":"fa fa-percent",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"operator, math, money"
+  },
+  {
+    "name":"Product Hunt",
+    "symbol":"fa fa-product-hunt",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"shopping, eCommerce"
+  },
+  {
+    "name":"Reddit Alien",
+    "symbol":"fa fa-reddit-alien",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"ui"
+  },
+  {
+    "name":"Scribd",
+    "symbol":"fa fa-scribd",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"ui"
+  },
+  {
+    "name":"Shopping Bag",
+    "symbol":"fa fa-shopping-bag",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"eCommerce"
+  },
+  {
+    "name":"Shopping Basket",
+    "symbol":"fa fa-shopping-basket",
+    "category":"business",
+    "set":"faSet",
+    "keywords":"eCommerce"
+  },
+  {
+    "name":"Stop",
+    "symbol":"fa fa-stop-circle",
+    "category":"media",
+    "set":"faSet",
+    "keywords":"controls"
+  },
+  {
+    "name":"Stop",
+    "symbol":"fa fa-stop-circle-o",
+    "category":"media",
+    "set":"faSet",
+    "keywords":"controls"
+  },
+  {
+    "name":"USB",
+    "symbol":"fa fa-usb",
+    "category":"technology",
+    "set":"faSet",
+    "keywords":"ui"
+  },
+  {
     "name":"Arrow Down",
     "symbol":"fa fa-arrow-down",
     "category":"UI",
@@ -3754,7 +3894,7 @@
   {
     "name":"Trip Advisor",
     "symbol":"fa fa-tripadvisor",
-    "category":"technology",
+    "category":"travel",
     "set":"faSet",
     "keywords":"travel"
   },
